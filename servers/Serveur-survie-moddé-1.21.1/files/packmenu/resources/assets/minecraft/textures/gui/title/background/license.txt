@@ -1,0 +1,25 @@
+
+ "1.14 Panorama with Shaders" is owned and created by ItsMemed
+ 
+ https://modrinth.com/resourcepack/1.14-panorama-with-shaders
+ 
+ Twitter: https://twitter.com/itsmemed_554
+ 
+ Youtube: https://www.youtube.com/@itsmemed_552
+______________________________
+
+ Creative Commons License:
+______________________________
+
+ This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+ 
+ More info here > https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+______________________________
+
+ Permissions:
+______________________________
+
+  Feel free to include this resource pack in your mod pack or server.
+  
+  If you wish to use this pack in any form of content, please credit with a link to the original PlanetMinecraft/Modrinth/CurseForge page where you can.

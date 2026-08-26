@@ -1,0 +1,13 @@
+{
+    "x": -100,
+    "y": 0,
+    "width": 200,
+    "height": 20,
+    "text": {
+	"key": "§a§lJouer"
+    },
+    "action": {
+		"type": "packmenu:connect_to_server",
+		"ip_address": "151.240.30.8:25560"
+    }
+}

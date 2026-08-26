@@ -1,0 +1,14 @@
+{
+    "x": -100,
+    "y": 24,
+    "width": 200,
+    "height": 20,
+    "action": {
+        "type": "packmenu:open_url",
+        "url": "https://pinpin600.gt.tc/"
+    },
+    "text": {
+        "key": "§b§lSite web du serveur",
+        "x_offset": 0
+    }
+}

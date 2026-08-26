@@ -1,0 +1,15 @@
+{
+    "x": 4,
+    "y": -74,
+    "width": 98,
+    "height": 20,
+    "anchor": "bottom_left",
+	"text": {
+		"key": "menu.multiplayer",
+		"x_offset": 0
+    },
+    "action": {
+        "type": "packmenu:open_screen",
+        "screen": "multiplayer"
+    }
+}

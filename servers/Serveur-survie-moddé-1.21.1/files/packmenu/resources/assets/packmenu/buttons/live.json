@@ -1,0 +1,14 @@
+{
+    "x": -100,
+    "y": 48,
+    "width": 200,
+    "height": 20,
+    "action": {
+        "type": "packmenu:open_url",
+        "url": "https://twitch.tv/pinpin25/"
+    },
+    "text": {
+        "key": "§d§lVoir pinpin en live",
+        "x_offset": 0
+    }
+}

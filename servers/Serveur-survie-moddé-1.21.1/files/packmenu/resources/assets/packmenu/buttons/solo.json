@@ -1,0 +1,15 @@
+{
+    "x": 4,
+    "y": -98,
+    "width": 98,
+    "height": 20,
+    "anchor": "bottom_left",
+	"text": {
+		"key": "menu.singleplayer",
+		"x_offset": 0
+    },
+    "action": {
+        "type": "packmenu:open_screen",
+        "screen": "singleplayer"
+    }
+}
