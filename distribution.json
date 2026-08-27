@@ -160,10 +160,11 @@
                 "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-client.jar"
             },
               "subModules": []
-              {
+            {
               "id": "net.minecraft:client:1.21.1",
               "name": "Minecraft",
               "type": "Library",
+              "classpath": true,
               "artifact": {
                 "size": 40921196,
                 "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
