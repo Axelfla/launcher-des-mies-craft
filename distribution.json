@@ -158,17 +158,8 @@
                 "size": 5675624,
                 "MD5": "0fe7826ecbb207c9be2ffd718828f559",
                 "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-client.jar"
-            },
+              },
               "subModules": []
-            {
-              "id": "net.minecraft:client:1.21.1",
-              "name": "Minecraft",
-              "type": "Library",
-              "classpath": true,
-              "artifact": {
-                "size": 40921196,
-                "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
-                "path": "net/minecraft/client/1.21.1/client-1.21.1.jar"
             },
             {
               "id": "net.minecraft:client:1.21.1-20240808.144430:slim",
@@ -1282,6 +1273,17 @@
           }
         },
         {
+          "id": "background.png~",
+          "name": "background.png~",
+          "type": "File",
+          "artifact": {
+            "size": 1191409,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/background.png~",
+            "MD5": "e963985b9ce727b31d422d46c171ae7d",
+            "path": "config/simplesplashscreen/background.png~"
+          }
+        },
+        {
           "id": "mojangstudios.png",
           "name": "mojangstudios.png",
           "type": "File",
@@ -1290,6 +1292,17 @@
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/mojangstudios.png",
             "MD5": "4d37dabed3f8ad7d52c3d705b030f365",
             "path": "config/simplesplashscreen/mojangstudios.png"
+          }
+        },
+        {
+          "id": "mojangstudios.png~",
+          "name": "mojangstudios.png~",
+          "type": "File",
+          "artifact": {
+            "size": 87076,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/mojangstudios.png~",
+            "MD5": "55b3b577cc989d367c95d8a6f7f82281",
+            "path": "config/simplesplashscreen/mojangstudios.png~"
           }
         },
         {
@@ -1315,6 +1328,17 @@
           }
         },
         {
+          "id": "progressbar.png~",
+          "name": "progressbar.png~",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/progressbar.png~",
+            "MD5": "a4f44dbd0faacdcc577f0f032710ba63",
+            "path": "config/simplesplashscreen/progressbar.png~"
+          }
+        },
+        {
           "id": "progressbar_background.png",
           "name": "progressbar_background.png",
           "type": "File",
@@ -1323,6 +1347,17 @@
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/progressbar_background.png",
             "MD5": "4bfcd281f4125bac872b0b1bb9a60f91",
             "path": "config/simplesplashscreen/progressbar_background.png"
+          }
+        },
+        {
+          "id": "progressbar_background.png~",
+          "name": "progressbar_background.png~",
+          "type": "File",
+          "artifact": {
+            "size": 240,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/progressbar_background.png~",
+            "MD5": "787cd73c8d847ae142f8c3fe8a58ac6a",
+            "path": "config/simplesplashscreen/progressbar_background.png~"
           }
         },
         {
@@ -2085,6 +2120,17 @@
           }
         },
         {
+          "id": "vehicle_container.png~",
+          "name": "vehicle_container.png~",
+          "type": "File",
+          "artifact": {
+            "size": 129,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_container.png~",
+            "MD5": "fe8c3ef9f9449b23a08afc390dbdd568",
+            "path": "packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_container.png~"
+          }
+        },
+        {
           "id": "vehicle_full.png",
           "name": "vehicle_full.png",
           "type": "File",
@@ -2096,6 +2142,17 @@
           }
         },
         {
+          "id": "vehicle_full.png~",
+          "name": "vehicle_full.png~",
+          "type": "File",
+          "artifact": {
+            "size": 132,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_full.png~",
+            "MD5": "3ed606e843188e68dce62f0118cc19c4",
+            "path": "packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_full.png~"
+          }
+        },
+        {
           "id": "vehicle_half.png",
           "name": "vehicle_half.png",
           "type": "File",
@@ -2104,6 +2161,17 @@
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_half.png",
             "MD5": "aaa0542aa23d0419a4bad3d6569e5331",
             "path": "packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_half.png"
+          }
+        },
+        {
+          "id": "vehicle_half.png~",
+          "name": "vehicle_half.png~",
+          "type": "File",
+          "artifact": {
+            "size": 137,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_half.png~",
+            "MD5": "4e5789a6a92d31a0a9a98127c2c902a6",
+            "path": "packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/vehicle_half.png~"
           }
         },
         {
@@ -2833,6 +2901,17 @@
           }
         },
         {
+          "id": "edition.png~",
+          "name": "edition.png~",
+          "type": "File",
+          "artifact": {
+            "size": 10797,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/title/edition.png~",
+            "MD5": "b13977e8466c21f0b8cb572061a93c0b",
+            "path": "packmenu/resources/assets/minecraft/textures/gui/title/edition.png~"
+          }
+        },
+        {
           "id": "minceraft.png",
           "name": "minceraft.png",
           "type": "File",
@@ -2877,6 +2956,17 @@
           }
         },
         {
+          "id": "minecraft.png~",
+          "name": "minecraft.png~",
+          "type": "File",
+          "artifact": {
+            "size": 136072,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/title/minecraft.png~",
+            "MD5": "105c76efa31f62770bf97432274a5af8",
+            "path": "packmenu/resources/assets/minecraft/textures/gui/title/minecraft.png~"
+          }
+        },
+        {
           "id": "mojangstudios.png",
           "name": "mojangstudios.png",
           "type": "File",
@@ -2885,6 +2975,17 @@
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/title/mojangstudios.png",
             "MD5": "062f35c6690846c199ca31b160b8ec67",
             "path": "packmenu/resources/assets/minecraft/textures/gui/title/mojangstudios.png"
+          }
+        },
+        {
+          "id": "mojangstudios.png~",
+          "name": "mojangstudios.png~",
+          "type": "File",
+          "artifact": {
+            "size": 9581,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/minecraft/textures/gui/title/mojangstudios.png~",
+            "MD5": "cfef7a4dedf4749065ebe1bd4cbe67e4",
+            "path": "packmenu/resources/assets/minecraft/textures/gui/title/mojangstudios.png~"
           }
         },
         {
