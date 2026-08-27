@@ -982,9 +982,9 @@
           "name": "fml.toml",
           "type": "File",
           "artifact": {
-            "size": 1550,
+            "size": 1519,
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/fml.toml",
-            "MD5": "61a62e6a2b5b00f324065233e76b9a64",
+            "MD5": "924096ea7a9b0ab6da437f62eb6c549c",
             "path": "config/fml.toml"
           }
         },
