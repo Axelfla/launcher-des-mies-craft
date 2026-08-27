@@ -158,18 +158,16 @@
                 "size": 5675624,
                 "MD5": "0fe7826ecbb207c9be2ffd718828f559",
                 "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/neoforged/neoforge/21.1.248/neoforge-21.1.248-client.jar"
-              },
-              "subModules": []
             },
-            {
+              "subModules": []
+              {
               "id": "net.minecraft:client:1.21.1",
               "name": "Minecraft",
               "type": "Library",
               "artifact": {
-                "size": 64344789,
-                "url": "https://launcher.mojang.com/v1/objects/bf4da10e70652ba1c55b66e44c20bbad013e4169/client-1.21.1.jar",
+                "size": 40921196,
+                "url": "https://piston-data.mojang.com/v1/objects/30c73b1c5da787909b2f73340419fdf13b9def88/client.jar",
                 "path": "net/minecraft/client/1.21.1/client-1.21.1.jar"
-              }
             },
             {
               "id": "net.neoforged.fancymodloader:earlydisplay:4.0.43",
