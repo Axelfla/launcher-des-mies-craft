@@ -162,6 +162,16 @@
               "subModules": []
             },
             {
+              "id": "net.minecraft:client:1.21.1",
+              "name": "Minecraft",
+              "type": "Library",
+              "artifact": {
+                "size": 64344789,
+                "url": "https://launcher.mojang.com/v1/objects/bf4da10e70652ba1c55b66e44c20bbad013e4169/client-1.21.1.jar",
+                "path": "net/minecraft/client/1.21.1/client-1.21.1.jar"
+              }
+            },
+            {
               "id": "net.neoforged.fancymodloader:earlydisplay:4.0.43",
               "name": "NeoForge (earlydisplay)",
               "type": "Library",
