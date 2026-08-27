@@ -193,7 +193,8 @@
                 "size": 261719,
                 "MD5": "282b24cc474417af1db04ef5ecf12d8b",
                 "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/neoforged/fancymodloader/earlydisplay/4.0.43/earlydisplay-4.0.43.jar"
-              }
+              },
+              "classpath": true
             },
             {
               "id": "net.neoforged.fancymodloader:loader:4.0.43",
@@ -203,7 +204,8 @@
                 "size": 505633,
                 "MD5": "a5fdf15a1e832adb1d559703824646ae",
                 "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/neoforged/fancymodloader/loader/4.0.43/loader-4.0.43.jar"
-              }
+              },
+              "classpath": true
             },
             {
               "id": "net.neoforged.accesstransformers:at-modlauncher:10.0.1",
