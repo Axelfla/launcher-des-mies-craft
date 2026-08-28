@@ -132,7 +132,7 @@
           "id": "net.neoforged:neoforge:21.1.248:universal",
           "name": "NeoForge (universal jar)",
           "type": "ForgeHosted",
-          "classpath": true,
+          "classpath": false,
           "artifact": {
             "size": 3551268,
             "MD5": "7f785a4d65644293f4c591b5109788ee",
@@ -153,7 +153,7 @@
               "id": "net.neoforged:neoforge:21.1.248:client",
               "name": "NeoForge (client jar)",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 5675624,
                 "MD5": "0fe7826ecbb207c9be2ffd718828f559",
@@ -165,7 +165,7 @@
               "id": "net.minecraft:client:1.21.1-20240808.144430:srg",
               "name": "NeoForge (minecraft client (srg))",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 18725656,
                 "MD5": "24d790d385dff0146020f1875b969e52",
@@ -177,7 +177,7 @@
               "id": "net.minecraft:client:1.21.1-20240808.144430:extra",
               "name": "NeoForge (minecraft client (extra))",
               "type": "Library",
-              "classpath": true,
+              "classpath": false,
               "artifact": {
                 "size": 12372293,
                 "MD5": "973b9700852b66bb7b74df75b0113db2",
