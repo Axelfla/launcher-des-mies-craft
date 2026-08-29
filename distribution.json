@@ -890,6 +890,16 @@
           }
         },
         {
+          "id": "generated.forgemod:handcrafted:handcrafted-neoforge-1.21.1-4.0.3@jar",
+          "name": "Handcrafted",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7132842,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/handcrafted-neoforge-1.21.1-4.0.3.jar",
+            "MD5": "0F875F5741A6FAD6F1C4F6FDBE5F538B"
+          }
+        },
+        {
           "id": "generated.forgemod:waystones:neoforge-1.21.1-21.1.40@jar",
           "name": "Waystones",
           "type": "ForgeMod",
