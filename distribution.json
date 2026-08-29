@@ -878,6 +878,16 @@
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/voicechat-neoforge-1.21.1-2.6.22.jar",
             "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51"
           }
+        }, 
+        {
+          "id": "generated.forgemod:voicechat:bf_blockpack-neoforge-1.21.1-1.1.2@jar",
+          "name": "Bf_blockpack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9603951,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/bf_blockpack-neoforge-1.21.1-1.1.2.jar",
+            "MD5": "B729C72356C6F38FFF0A7A8C05E102A7"
+          }
         },
         {
           "id": "generated.forgemod:waystones:neoforge-1.21.1-21.1.40@jar",
