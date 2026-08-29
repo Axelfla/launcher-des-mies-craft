@@ -880,7 +880,7 @@
           }
         }, 
         {
-          "id": "generated.forgemod:voicechat:bf_blockpack-neoforge-1.21.1-1.1.2@jar",
+          "id": "generated.forgemod:bf_blockpack:bf_blockpack-neoforge-1.21.1-1.1.2@jar",
           "name": "Bf_blockpack",
           "type": "ForgeMod",
           "artifact": {
