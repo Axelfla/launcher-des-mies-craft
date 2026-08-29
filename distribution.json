@@ -900,6 +900,16 @@
           }
         },
         {
+          "id": "generated.forgemod:ressourcefullib:resourcefullib-neoforge-1.21-3.0.12@jar",
+          "name": "ressourcefullib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484332,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/resourcefullib-neoforge-1.21-3.0.12.jar",
+            "MD5": "32DA88903167D24BB20FEBEEB2C79225"
+          }
+        },
+        {
           "id": "generated.forgemod:waystones:neoforge-1.21.1-21.1.40@jar",
           "name": "Waystones",
           "type": "ForgeMod",
