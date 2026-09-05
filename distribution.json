@@ -118,7 +118,7 @@
       "description": "Serveur-survie-moddé Running Minecraft 1.21.1 (NeoForge v21.1.248)",
       "icon": null,
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "151.240.30.8:25560",
       "minecraftVersion": "1.21.1",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
