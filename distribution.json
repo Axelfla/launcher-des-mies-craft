@@ -114,7 +114,7 @@
     },
     {
       "id": "bynex:connecte:connecte-1.0.0@jar",
-      "name": "Simple connecte",
+      "name": "connecte",
       "type": "FabricMod",
       "artifact": {
         "size": 8192,
