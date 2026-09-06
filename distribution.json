@@ -113,6 +113,15 @@
       ]
     },
     {
+      "id": "bynex:connecte:connecte-1.0.0@jar",
+      "name": "Simple connecte",
+      "type": "FabricMod",
+      "artifact": {
+        "size": 8192,
+        "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/serveur-non-mod%C3%A9e-26.1.2/fabricmods/required/connecte-1.0.0.jar",
+        "MD5": "14432660139FDB9804B8DC65A39EBEB9"
+    },
+    {
       "id": "Serveur-survie-moddé-1.21.1",
       "name": "Serveur-survie-moddé (Minecraft 1.21.1)",
       "description": "Serveur-survie-moddé Running Minecraft 1.21.1 (NeoForge v21.1.248)",
