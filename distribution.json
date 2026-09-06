@@ -98,8 +98,7 @@
                 "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar"
               }
             }
-          ]
-        },
+          }, 
         {
           "id": "de.maxhenkel:voicechat:2.6.22+26.1.2@jar",
           "name": "Simple Voice Chat",
