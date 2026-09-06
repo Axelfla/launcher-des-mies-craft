@@ -113,7 +113,7 @@
       ]
     },
     {
-      "id": "bynex:connecte:connecte-1.0.0@jar",
+      "id": "bynex:connecte:1.0.0@jar",
       "name": "connecte",
       "type": "FabricMod",
       "artifact": {
