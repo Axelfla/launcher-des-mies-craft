@@ -121,9 +121,9 @@
       "address": "151.240.30.8:25560",
       "minecraftVersion": "1.21.1",
       "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+        "shortId": "Survie Moddée",
+        "largeImageText": "Launcher des mies craft",
+        "largeImageKey": "favicon"
       },
       "mainServer": false,
       "autoconnect": false,
