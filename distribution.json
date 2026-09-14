@@ -680,26 +680,6 @@
           }
         },
         {
-          "id": "generated.forgemod:betterf3:11.0.3-NeoForge-1.21.1@jar",
-          "name": "BetterF3",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 481646,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/BetterF3-11.0.3-NeoForge-1.21.1.jar",
-            "MD5": "ece6a3a01373146d2f351ba721e0083d"
-          }
-        },
-        {
-          "id": "generated.forgemod:mr_claims:2.1.4@jar",
-          "name": "Claims",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 701729,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/claims-2.1.4-[1.21-1.21.1].jar",
-            "MD5": "19ddaf300316e2d9819def7d7f39f849"
-          }
-        },
-        {
           "id": "generated.forgemod:cloth:config-15.0.140-neoforge@jar",
           "name": "Cloth",
           "type": "ForgeMod",
