@@ -680,6 +680,46 @@
           }
         },
         {
+          "id": "generated.forgemod:FTB-chunks:ftb-chunks-neoforge-2101.1.22@jar",
+          "name": "FTB chunks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 655807,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/ftb-chunks-neoforge-2101.1.22.jar",
+            "MD5": "781396912E2DF9ED74D183811CB90407"
+          }
+        },
+        {
+          "id": "generated.forgemod:Architectury-13.0.11-Neoforge@jar",
+          "name": "Architectury 13.0.11 Neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 584734,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/architectury-13.0.11-neoforge.jar",
+            "MD5": "AEFBEA361809755C331126BCFF6E6D3E"
+          }
+        },
+        {
+          "id": "generated.forgemod:Ftb-Library-Neoforge@jar",
+          "name": "Ftb Library Neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1439427,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/ftb-library-neoforge-2101.1.36.jar",
+            "MD5": "69EBC0DDC837A23C2CA76BD8CC490937"
+          }
+        },
+        {
+          "id": "generated.forgemod:Ftb-Teams-Neoforge@jar",
+          "name": "Ftb Teams Neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 308236,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/ftb-teams-neoforge-2101.1.11.jar",
+            "MD5": "EE780BB9FE724F6D1AF97547BDAB8BFF"
+          }
+        },
+        {
           "id": "generated.forgemod:cloth:config-15.0.140-neoforge@jar",
           "name": "Cloth",
           "type": "ForgeMod",
@@ -858,7 +898,7 @@
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/voicechat-neoforge-1.21.1-2.6.22.jar",
             "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51"
           }
-        }, 
+        },
         {
           "id": "generated.forgemod:bf_blockpack:bf_blockpack-neoforge-1.21.1-1.1.2@jar",
           "name": "Bf_blockpack",
