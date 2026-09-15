@@ -940,6 +940,16 @@
           }
         },
         {
+          "id": "generated.forgemod:Journeymap-Neoforge@jar",
+          "name": "Journeymap Neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4303084,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/journeymap-neoforge-1.21.1-6.0.8.jar",
+            "MD5": "34324289AA44A915F794579951E64E44"
+          }
+        },
+        {
           "id": "autoreconnectrf.json",
           "name": "autoreconnectrf.json",
           "type": "File",
