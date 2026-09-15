@@ -3018,17 +3018,6 @@
           }
         },
         {
-          "id": "reload.json",
-          "name": "reload.json",
-          "type": "File",
-          "artifact": {
-            "size": 242,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/assets/packmenu/buttons/reload.json",
-            "MD5": "b15a2cbf915113d117fc12febc3942ca",
-            "path": "packmenu/resources/assets/packmenu/buttons/reload.json"
-          }
-        },
-        {
           "id": "solo.json",
           "name": "solo.json",
           "type": "File",
