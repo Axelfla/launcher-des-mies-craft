@@ -8,6 +8,6 @@
     },
     "action": {
 		"type": "packmenu:connect_to_server",
-		"ip_address": "151.240.30.8:25560"
+		"ip_address": "92.42.46.168:25560"
     }
 }
