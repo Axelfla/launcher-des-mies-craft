@@ -880,16 +880,6 @@
           }
         },
         {
-          "id": "generated.forgemod:tpa:neoforge-1.21-2.0.0@jar",
-          "name": "Tpa",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 39993,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/tpa-neoforge-1.21-2.0.0.jar",
-            "MD5": "193ef19c3526e6ccc9aa3e4accd87ac6"
-          }
-        },
-        {
           "id": "generated.forgemod:voicechat:neoforge-1.21.1-2.6.22@jar",
           "name": "Voicechat",
           "type": "ForgeMod",
