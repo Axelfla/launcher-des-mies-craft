@@ -760,16 +760,6 @@
           }
         },
         {
-          "id": "generated.forgemod:jei:1.21.1-neoforge-19.44.0.405@jar",
-          "name": "Jei",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1699520,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/jei-1.21.1-neoforge-19.44.0.405.jar",
-            "MD5": "229c8ee654715c58e14e411cb1ed5df1"
-          }
-        },
-        {
           "id": "generated.forgemod:lithium:neoforge-0.15.4+mc1.21.1@jar",
           "name": "Lithium",
           "type": "ForgeMod",
