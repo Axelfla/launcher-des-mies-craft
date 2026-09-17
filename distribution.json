@@ -870,16 +870,6 @@
           }
         },
         {
-          "id": "generated.forgemod:sweconm:1.21.1-1.2.1@jar",
-          "name": "Sweconm",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 394327,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/sweconm-1.21.1-1.2.1.jar",
-            "MD5": "db5735d91dcc6507ee8bc3ef57074cd1"
-          }
-        },
-        {
           "id": "generated.forgemod:voicechat:neoforge-1.21.1-2.6.22@jar",
           "name": "Voicechat",
           "type": "ForgeMod",
