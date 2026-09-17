@@ -890,16 +890,6 @@
           }
         },
         {
-          "id": "generated.forgemod:bf_blockpack:bf_blockpack-neoforge-1.21.1-1.1.2@jar",
-          "name": "Bf_blockpack",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 9603951,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/bf_blockpack-neoforge-1.21.1-1.1.2.jar",
-            "MD5": "B729C72356C6F38FFF0A7A8C05E102A7"
-          }
-        },
-        {
           "id": "generated.forgemod:handcrafted:handcrafted-neoforge-1.21.1-4.0.3@jar",
           "name": "Handcrafted",
           "type": "ForgeMod",
