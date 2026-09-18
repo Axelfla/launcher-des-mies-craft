@@ -124,6 +124,10 @@
       "version": "1.0.0",
       "address": "92.42.46.168:25560",
       "minecraftVersion": "1.21.1",
+      "javaOptions": {
+        "supported": ">=21.x <22.x",
+        "suggestedMajor": 21
+      },
       "discord": {
         "shortId": "Survie Moddée",
         "largeImageText": "Launcher des mies craft",
