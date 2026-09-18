@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "rss": "https://axelfla.github.io/launcher-des-mies-craft/rss.xml",
-  "servers": [
+   "servers": [
     {
       "id": "serveur-non-modée-26.1.2",
       "name": "serveur-non-modée (Minecraft 26.1.2)",
@@ -10,6 +10,10 @@
       "version": "1.0.0",
       "address": "5.231.32.243:25589",
       "minecraftVersion": "26.1.2",
+      "javaOptions": {
+        "supported": ">=25.x",
+        "suggestedMajor": 25
+      },
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
         "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
