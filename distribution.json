@@ -1,126 +1,12 @@
 {
   "version": "1.0.0",
   "rss": "https://axelfla.github.io/launcher-des-mies-craft/rss.xml",
-   "servers": [
-    {
-      "id": "serveur-non-modée-26.1.2",
-      "name": "serveur-non-modée (Minecraft 26.1.2)",
-      "description": "serveur-non-modée Running Minecraft 26.1.2 (Fabric v0.19.3)",
-      "icon": "https://axelfla.github.io/launcher-des-mies-craft/servers/serveur-non-mod%C3%A9e-26.1.2/1e768b5c-32a9-4e4d-b19b-e391f91e9500-profile_image-70x70%20(1).png",
-      "version": "1.0.0",
-      "address": "5.231.32.243:25589",
-      "minecraftVersion": "26.1.2",
-      "javaOptions": {
-        "supported": ">=25.x",
-        "suggestedMajor": 25
-      },
-      "discord": {
-        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-      },
-      "mainServer": false,
-      "autoconnect": true,
-      "modules": [
-        {
-          "id": "net.fabricmc:fabric-loader:0.19.3",
-          "name": "Fabric (fabric-loader)",
-          "type": "Fabric",
-          "artifact": {
-            "size": 1976502,
-            "MD5": "881e0e9f53a11b9ad468b47afd678bfd",
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/fabricmc/fabric-loader/0.19.3/fabric-loader-0.19.3.jar"
-          },
-          "subModules": [
-            {
-              "id": "26.1.2-fabric-0.19.3",
-              "name": "Fabric (version.json)",
-              "type": "VersionManifest",
-              "artifact": {
-                "size": 2782,
-                "MD5": "eec8e5ef1010680a0acb30352fd4fa1e",
-                "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/versions/26.1.2-fabric-0.19.3/26.1.2-fabric-0.19.3.json"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm:9.10.1",
-              "name": "Fabric (asm)",
-              "type": "Library",
-              "artifact": {
-                "size": 126151,
-                "MD5": "9cb72080438acf27f2607002e1444a7b",
-                "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-analysis:9.10.1",
-              "name": "Fabric (asm-analysis)",
-              "type": "Library",
-              "artifact": {
-                "size": 35140,
-                "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
-                "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-commons:9.10.1",
-              "name": "Fabric (asm-commons)",
-              "type": "Library",
-              "artifact": {
-                "size": 74840,
-                "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
-                "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-tree:9.10.1",
-              "name": "Fabric (asm-tree)",
-              "type": "Library",
-              "artifact": {
-                "size": 51958,
-                "MD5": "62541e1dc62331408ef31317555bf4fa",
-                "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
-              }
-            },
-            {
-              "id": "org.ow2.asm:asm-util:9.10.1",
-              "name": "Fabric (asm-util)",
-              "type": "Library",
-              "artifact": {
-                "size": 95628,
-                "MD5": "d0892ecb209867805e7d2418e5dc6c42",
-                "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
-              }
-            },
-            {
-              "id": "net.fabricmc:sponge-mixin:0.17.3+mixin.0.8.7",
-              "name": "Fabric (sponge-mixin)",
-              "type": "Library",
-              "artifact": {
-                "size": 1540060,
-                "MD5": "87002a5fc9faa1543bf4204f8d5876fb",
-                "url": "https://axelfla.github.io/launcher-des-mies-craft/repo/lib/net/fabricmc/sponge-mixin/0.17.3+mixin.0.8.7/sponge-mixin-0.17.3+mixin.0.8.7.jar"
-              }
-            }
-          ]
-        },
-        {
-          "id": "de.maxhenkel:voicechat:2.6.22+26.1.2@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5526001,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/serveur-non-mod%C3%A9e-26.1.2/fabricmods/required/voicechat-fabric-2.6.22+26.1.2.jar",
-            "MD5": "cbc260c24ce559bc2d096e43646478c1"
-          }
-        }
-      ]
-    },
+  "servers": [
     {
       "id": "Serveur-survie-moddé-1.21.1",
-      "name": "Serveur-survie-moddé (Minecraft 1.21.1)",
-      "description": "Serveur-survie-moddé Running Minecraft 1.21.1 (NeoForge v21.1.248)",
-      "icon": https://minecraft.wiki/images/thumb/Impulse_Command_Block_JE1.png/32px-Impulse_Command_Block_JE1.png?35d69,
+      "name": "Serveur Moddé (Minecraft 1.21.1 NeoForge)",
+      "description": "Serveur-survie-moddé-1.21.1 Running Minecraft 1.21.1 (NeoForge v21.1.248)",
+      "icon": "https://neoforged.net/img/authors/neoforged.png",
       "version": "1.0.0",
       "address": "92.42.46.168:25560",
       "minecraftVersion": "1.21.1",
@@ -667,468 +553,4088 @@
             }
           ]
         },
+        },
         {
-          "id": "generated.forgemod:autoreconnectrf:neoforge-1.21-0.6.0@jar",
-          "name": "Autoreconnectrf",
+          "id": "generated.forgemod:actuallyadditions-1.3.26+mc1.21.1.jar@jar",
+          "name": "actuallyadditions-1.3.26+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 80440,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/autoreconnectrf-neoforge-1.21-0.6.0.jar",
-            "MD5": "1d365b7f397f88db9d639ca489d6ebf2"
+            "size": 3217309,
+            "MD5": "afcbe65bdf1cafd25e485992dd8bfade",
+            "url": "http://151.240.30.11:10034/actuallyadditions-1.3.26+mc1.21.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:balm:neoforge-1.21.1-21.0.65@jar",
-          "name": "Balm",
+          "id": "generated.forgemod:adastra-1.21.1-1.16.26-neoforge.jar@jar",
+          "name": "adastra-1.21.1-1.16.26-neoforge",
           "type": "ForgeMod",
           "artifact": {
-            "size": 783793,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/balm-neoforge-1.21.1-21.0.65.jar",
-            "MD5": "ffd35f57254160816b17db7e66f196a8"
+            "size": 7301791,
+            "MD5": "5343ec2e50c6087dbdc0e9a4fcfa3e65",
+            "url": "http://151.240.30.11:10034/adastra-1.21.1-1.16.26-neoforge.jar"
           }
         },
         {
-          "id": "generated.forgemod:FTB-chunks:ftb-chunks-neoforge-2101.1.22@jar",
-          "name": "FTB chunks",
+          "id": "generated.forgemod:additionallanterns-1.1.2-neoforge-mc1.21.jar@jar",
+          "name": "additionallanterns-1.1.2-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
-            "size": 655807,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/ftb-chunks-neoforge-2101.1.22.jar",
-            "MD5": "781396912E2DF9ED74D183811CB90407"
+            "size": 3041170,
+            "MD5": "0d47fdf4ed8bce3769bd5893ec0e760b",
+            "url": "http://151.240.30.11:10034/additionallanterns-1.1.2-neoforge-mc1.21.jar"
           }
         },
         {
-          "id": "generated.forgemod:Architectury-13.0.11-Neoforge@jar",
-          "name": "Architectury 13.0.11 Neoforge",
+          "id": "generated.forgemod:addonslib-neoforge-1.21.1-1.14.jar@jar",
+          "name": "addonslib-neoforge-1.21.1-1.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 131893,
+            "MD5": "bc0f0ac951dc1eefa85cb422aeec1e37",
+            "url": "http://151.240.30.11:10034/addonslib-neoforge-1.21.1-1.14.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ae2wtlib-19.5.1.jar@jar",
+          "name": "ae2wtlib-19.5.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 252091,
+            "MD5": "f1111868ef2315fcbcc1053f3ea397de",
+            "url": "http://151.240.30.11:10034/ae2wtlib-19.5.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar@jar",
+          "name": "aeinfinitybooster-neoforge-1.21.1-1.0.0.58",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30454,
+            "MD5": "76afd04c90cdfe5547e103ae07e99e08",
+            "url": "http://151.240.30.11:10034/aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:aether-1.21.1-1.5.10-neoforge.jar@jar",
+          "name": "aether-1.21.1-1.5.10-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40223909,
+            "MD5": "87bb550408f2833299a93980c2f41bb0",
+            "url": "http://151.240.30.11:10034/aether-1.21.1-1.5.10-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:alltheleaks-1.1.12+1.21.1-neoforge.jar@jar",
+          "name": "alltheleaks-1.1.12+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 562895,
+            "MD5": "4ff7a7a894a683f16a5f64a6d99f53c2",
+            "url": "http://151.240.30.11:10034/alltheleaks-1.1.12+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ApothicAttributes-1.21.1-2.10.1.jar@jar",
+          "name": "ApothicAttributes-1.21.1-2.10.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 323264,
+            "MD5": "b49358dd4a833938be48e0f8b27dc5f0",
+            "url": "http://151.240.30.11:10034/ApothicAttributes-1.21.1-2.10.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ApothicEnchanting-1.21.1-1.6.2.jar@jar",
+          "name": "ApothicEnchanting-1.21.1-1.6.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5415666,
+            "MD5": "ecf9d553bc49f4995cbeee15b9bd7528",
+            "url": "http://151.240.30.11:10034/ApothicEnchanting-1.21.1-1.6.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ApothicSpawners-1.21.1-1.4.0.jar@jar",
+          "name": "ApothicSpawners-1.21.1-1.4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 129784,
+            "MD5": "44e018cfa2142298116677addb835318",
+            "url": "http://151.240.30.11:10034/ApothicSpawners-1.21.1-1.4.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:applied-experienced-1.21.1-1.3.2.jar@jar",
+          "name": "applied-experienced-1.21.1-1.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 214764,
+            "MD5": "06413c7816e454eb53f2a8f7d387c342",
+            "url": "http://151.240.30.11:10034/applied-experienced-1.21.1-1.3.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Applied-Mekanistics-1.6.3.jar@jar",
+          "name": "Applied-Mekanistics-1.6.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 149709,
+            "MD5": "0ef21d62aaa1e318f2f93adabe6c56a2",
+            "url": "http://151.240.30.11:10034/Applied-Mekanistics-1.6.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:appliedenergistics2-19.2.17.jar@jar",
+          "name": "appliedenergistics2-19.2.17",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8230896,
+            "MD5": "1d9768edc90fb50f065949f2628ea991",
+            "url": "http://151.240.30.11:10034/appliedenergistics2-19.2.17.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:AppliedFlux-1.21-2.1.5-neoforge.jar@jar",
+          "name": "AppliedFlux-1.21-2.1.5-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 345117,
+            "MD5": "aced1a1af01d7411772634aa13826a18",
+            "url": "http://151.240.30.11:10034/AppliedFlux-1.21-2.1.5-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:appliedpneumatics-1.21.1-neoforge-1.0.9.jar@jar",
+          "name": "appliedpneumatics-1.21.1-neoforge-1.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 452207,
+            "MD5": "0fb78f7882071e023373a8af042194c0",
+            "url": "http://151.240.30.11:10034/appliedpneumatics-1.21.1-neoforge-1.0.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:appliedsorting-1.21.1-neoforge-v2.0.0.jar@jar",
+          "name": "appliedsorting-1.21.1-neoforge-v2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 116102,
+            "MD5": "c15a2fc737d51383089e535bf06fcec4",
+            "url": "http://151.240.30.11:10034/appliedsorting-1.21.1-neoforge-v2.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:applied_kjs-1.0.0.jar@jar",
+          "name": "applied_kjs-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 86754,
+            "MD5": "f116aeb4505dfff6ede06fc0341d2ed4",
+            "url": "http://151.240.30.11:10034/applied_kjs-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:applied_oritech-1.0.2.jar@jar",
+          "name": "applied_oritech-1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91283,
+            "MD5": "72aed75d0f15692f773347061f197b01",
+            "url": "http://151.240.30.11:10034/applied_oritech-1.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:archers-neoforge-3.1.1+1.21.1.jar@jar",
+          "name": "archers-neoforge-3.1.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 902745,
+            "MD5": "b61816c6a3adc74bbc99ea436192eea2",
+            "url": "http://151.240.30.11:10034/archers-neoforge-3.1.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:architectschisel-1.0.jar@jar",
+          "name": "architectschisel-1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2466972,
+            "MD5": "b44325022add99e3b134ae6c3a988c5a",
+            "url": "http://151.240.30.11:10034/architectschisel-1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:architects_palette-neoforge-1.21.1-1.4.0-beta.5.jar@jar",
+          "name": "architects_palette-neoforge-1.21.1-1.4.0-beta.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2844281,
+            "MD5": "0720c174cd3f8dee8ccb8ebd766ad66f",
+            "url": "http://151.240.30.11:10034/architects_palette-neoforge-1.21.1-1.4.0-beta.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:architectury-13.0.11-neoforge.jar@jar",
+          "name": "architectury-13.0.11-neoforge",
           "type": "ForgeMod",
           "artifact": {
             "size": 584734,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/architectury-13.0.11-neoforge.jar",
-            "MD5": "AEFBEA361809755C331126BCFF6E6D3E"
+            "MD5": "aefbea361809755c331126bcff6e6d3e",
+            "url": "http://151.240.30.11:10034/architectury-13.0.11-neoforge.jar"
           }
         },
         {
-          "id": "generated.forgemod:Ftb-Library-Neoforge@jar",
-          "name": "Ftb Library Neoforge",
+          "id": "generated.forgemod:armor_model_api-neoforge-1.1.0+1.21.1.jar@jar",
+          "name": "armor_model_api-neoforge-1.1.0+1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1439427,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/ftb-library-neoforge-2101.1.36.jar",
-            "MD5": "69EBC0DDC837A23C2CA76BD8CC490937"
+            "size": 91856,
+            "MD5": "ba84f6af5a562d734df61a298da7333a",
+            "url": "http://151.240.30.11:10034/armor_model_api-neoforge-1.1.0+1.21.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:Ftb-Teams-Neoforge@jar",
-          "name": "Ftb Teams Neoforge",
+          "id": "generated.forgemod:ArPhEx-5.0.2-neoforge-1.21.1.jar@jar",
+          "name": "ArPhEx-5.0.2-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 308236,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/ftb-teams-neoforge-2101.1.11.jar",
-            "MD5": "EE780BB9FE724F6D1AF97547BDAB8BFF"
+            "size": 13685315,
+            "MD5": "bd7741770c79c82c12a40ab0d54a7433",
+            "url": "http://151.240.30.11:10034/ArPhEx-5.0.2-neoforge-1.21.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:cloth:config-15.0.140-neoforge@jar",
-          "name": "Cloth",
+          "id": "generated.forgemod:ars_nouveau-1.21.1-5.13.1.jar@jar",
+          "name": "ars_nouveau-1.21.1-5.13.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20107711,
+            "MD5": "25b55d4668b502cc9c4625effe89d620",
+            "url": "http://151.240.30.11:10034/ars_nouveau-1.21.1-5.13.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ars_polymorphia-1.0.3.jar@jar",
+          "name": "ars_polymorphia-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20201,
+            "MD5": "137a41ba8bf94cdb6599ed1822c5b61d",
+            "url": "http://151.240.30.11:10034/ars_polymorphia-1.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:artifacts-neoforge-13.2.5.jar@jar",
+          "name": "artifacts-neoforge-13.2.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1086922,
+            "MD5": "16cf5de839360972a30396bd106422ac",
+            "url": "http://151.240.30.11:10034/artifacts-neoforge-13.2.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:athena-neoforge-1.21.1-4.0.6.jar@jar",
+          "name": "athena-neoforge-1.21.1-4.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99944,
+            "MD5": "0c22a1ec59e5ce22eef1b614fda59b42",
+            "url": "http://151.240.30.11:10034/athena-neoforge-1.21.1-4.0.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:atmosphericwatergenerator-1.0.12-neoforge-1.21.1.jar@jar",
+          "name": "atmosphericwatergenerator-1.0.12-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 538300,
+            "MD5": "d88ff32d8e2bbeb0fa1b3379777844d8",
+            "url": "http://151.240.30.11:10034/atmosphericwatergenerator-1.0.12-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:azurelib-neo-1.21.1-3.1.11.jar@jar",
+          "name": "azurelib-neo-1.21.1-3.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 877948,
+            "MD5": "4fbf4fc81f71cf544674dbce5a65ce08",
+            "url": "http://151.240.30.11:10034/azurelib-neo-1.21.1-3.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:BadOptimizations-2.4.1-1.21.1.jar@jar",
+          "name": "BadOptimizations-2.4.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283566,
+            "MD5": "59ee243a5ccd09fff1dd2879b3cad72a",
+            "url": "http://151.240.30.11:10034/BadOptimizations-2.4.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:balm-neoforge-1.21.1-21.0.65.jar@jar",
+          "name": "balm-neoforge-1.21.1-21.0.65",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 783793,
+            "MD5": "ffd35f57254160816b17db7e66f196a8",
+            "url": "http://151.240.30.11:10034/balm-neoforge-1.21.1-21.0.65.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bellsandwhistles-0.4.7-1.21.1.jar@jar",
+          "name": "bellsandwhistles-0.4.7-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 193619,
+            "MD5": "5f4d8adfa8bf7407fb387a93ea408848",
+            "url": "http://151.240.30.11:10034/bellsandwhistles-0.4.7-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:better-advanced-tooltips-2101.1.0-build.5.jar@jar",
+          "name": "better-advanced-tooltips-2101.1.0-build.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37653,
+            "MD5": "edf97f2f11f57fffb4ed6d71c7b4508a",
+            "url": "http://151.240.30.11:10034/better-advanced-tooltips-2101.1.0-build.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bettercombat-neoforge-2.4.0+1.21.1.jar@jar",
+          "name": "bettercombat-neoforge-2.4.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1045389,
+            "MD5": "73b115123b9d41b211c5acda16df738f",
+            "url": "http://151.240.30.11:10034/bettercombat-neoforge-2.4.0+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:better_create-1.0.0-neoforge-1.21.1.jar@jar",
+          "name": "better_create-1.0.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2253387,
+            "MD5": "f39d77451164ae1ef9eb2b6ec3a2b528",
+            "url": "http://151.240.30.11:10034/better_create-1.0.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar@jar",
+          "name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22338157,
+            "MD5": "abb725a66aaac6c9ed4b93db25380aa8",
+            "url": "http://151.240.30.11:10034/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:blockui-1.0.212-1.21.1-snapshot.jar@jar",
+          "name": "blockui-1.0.212-1.21.1-snapshot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 468142,
+            "MD5": "51dce809eac14a322d5b30cc428000a6",
+            "url": "http://151.240.30.11:10034/blockui-1.0.212-1.21.1-snapshot.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:BOMD-NeoForge-1.21-1.3.3.jar@jar",
+          "name": "BOMD-NeoForge-1.21-1.3.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1952017,
+            "MD5": "310a26dae421c83a0a02606d70047913",
+            "url": "http://151.240.30.11:10034/BOMD-NeoForge-1.21-1.3.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bonesupdate-neoforge-1.21.1-1.2.3.jar@jar",
+          "name": "bonesupdate-neoforge-1.21.1-1.2.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 490994,
+            "MD5": "c8a7cb4d7aa810a8a9214117f3c79aa7",
+            "url": "http://151.240.30.11:10034/bonesupdate-neoforge-1.21.1-1.2.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bookshelf-neoforge-1.21.1-21.1.81.jar@jar",
+          "name": "bookshelf-neoforge-1.21.1-21.1.81",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 328813,
+            "MD5": "9f627fe031221159d74a491e279f773a",
+            "url": "http://151.240.30.11:10034/bookshelf-neoforge-1.21.1-21.1.81.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar@jar",
+          "name": "born_in_chaos_[Neoforge]_1.21.1_1.7.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11842184,
+            "MD5": "c34bfa3d5b9bd99816d4903fa8452d33",
+            "url": "http://151.240.30.11:10034/born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:botanypots-neoforge-1.21.1-21.1.44.jar@jar",
+          "name": "botanypots-neoforge-1.21.1-21.1.44",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1068816,
+            "MD5": "ed0bb56a4cf43bbf16448add89e8519b",
+            "url": "http://151.240.30.11:10034/botanypots-neoforge-1.21.1-21.1.44.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:botanypotsmystical-neoforge-1.21.1-21.1.12.jar@jar",
+          "name": "botanypotsmystical-neoforge-1.21.1-21.1.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 89696,
+            "MD5": "c7fb01657bd65585642299d6148f7107",
+            "url": "http://151.240.30.11:10034/botanypotsmystical-neoforge-1.21.1-21.1.12.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:botanypotstiers-neoforge-1.21.1-7.0.11.jar@jar",
+          "name": "botanypotstiers-neoforge-1.21.1-7.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1550980,
+            "MD5": "eb57b9a46eaf7ec65349f5aa417e019c",
+            "url": "http://151.240.30.11:10034/botanypotstiers-neoforge-1.21.1-7.0.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:botanytrees-neoforge-1.21.1-21.1.7.jar@jar",
+          "name": "botanytrees-neoforge-1.21.1-21.1.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341853,
+            "MD5": "dab50790e60a0f84aec1864cdafdfa59",
+            "url": "http://151.240.30.11:10034/botanytrees-neoforge-1.21.1-21.1.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:BrewinAndChewin-neoforge-4.5.0+1.21.1.jar@jar",
+          "name": "BrewinAndChewin-neoforge-4.5.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1575450,
+            "MD5": "4548d2c0d5813e5a0acaf5c68a86ec6c",
+            "url": "http://151.240.30.11:10034/BrewinAndChewin-neoforge-4.5.0+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bucketlib-neoforge-1.21-4.1.7.2.jar@jar",
+          "name": "bucketlib-neoforge-1.21-4.1.7.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 222519,
+            "MD5": "bded94ba6f09b809d96f99e10f6a3362",
+            "url": "http://151.240.30.11:10034/bucketlib-neoforge-1.21-4.1.7.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:buildinggadgets2-1.3.9.jar@jar",
+          "name": "buildinggadgets2-1.3.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3858597,
+            "MD5": "0075f857291a8dd0a58a1bebbaef4f51",
+            "url": "http://151.240.30.11:10034/buildinggadgets2-1.3.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:bundle-api-neoforge-1.1.0.jar@jar",
+          "name": "bundle-api-neoforge-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64124,
+            "MD5": "f80e6aca586952b984ac4397204190e9",
+            "url": "http://151.240.30.11:10034/bundle-api-neoforge-1.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:caelus-neoforge-7.0.1+1.21.1.jar@jar",
+          "name": "caelus-neoforge-7.0.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 50235,
+            "MD5": "d8f9e005af3644cee127d7da1fe2ed79",
+            "url": "http://151.240.30.11:10034/caelus-neoforge-7.0.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:camol-1.21.1-0.3.1.jar@jar",
+          "name": "camol-1.21.1-0.3.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62188,
+            "MD5": "a5d661449111d6829ee34c2547589c91",
+            "url": "http://151.240.30.11:10034/camol-1.21.1-0.3.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cc-tweaked-1.21.1-forge-1.120.2.jar@jar",
+          "name": "cc-tweaked-1.21.1-forge-1.120.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3126327,
+            "MD5": "8f138a41c75aa9e1386ff5d37b2acba9",
+            "url": "http://151.240.30.11:10034/cc-tweaked-1.21.1-forge-1.120.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:CerbonsAPI-NeoForge-1.21-1.3.0.jar@jar",
+          "name": "CerbonsAPI-NeoForge-1.21-1.3.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 250545,
+            "MD5": "1674314a881b122dd228fee332b8f8d2",
+            "url": "http://151.240.30.11:10034/CerbonsAPI-NeoForge-1.21-1.3.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cesg-1.21.1-1.1.0.jar@jar",
+          "name": "cesg-1.21.1-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1071862,
+            "MD5": "c241dbee463ff8a9237be5222ea9c6cd",
+            "url": "http://151.240.30.11:10034/cesg-1.21.1-1.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:chipped-neoforge-1.21.1-4.0.2.jar@jar",
+          "name": "chipped-neoforge-1.21.1-4.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15020578,
+            "MD5": "f8fd65f72a903abd0bcbd3bf6bc09524",
+            "url": "http://151.240.30.11:10034/chipped-neoforge-1.21.1-4.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:chisel-neoforge-2.0.1+mc1.21.1.jar@jar",
+          "name": "chisel-neoforge-2.0.1+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8268524,
+            "MD5": "908c1b0c35d8abb97d0fac63cf2bad8d",
+            "url": "http://151.240.30.11:10034/chisel-neoforge-2.0.1+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:chloride-NEOFORGE-mc1.21.1-v1.8.1.jar@jar",
+          "name": "chloride-NEOFORGE-mc1.21.1-v1.8.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 527889,
+            "MD5": "ed1cc4210fc6d0b992ec92aab2f309a2",
+            "url": "http://151.240.30.11:10034/chloride-NEOFORGE-mc1.21.1-v1.8.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:choccos_mobs-0.2.0-neoforge-1.21.1.jar@jar",
+          "name": "choccos_mobs-0.2.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1271793,
+            "MD5": "08e0f83d92872f6ab2fc2ef22c175080",
+            "url": "http://151.240.30.11:10034/choccos_mobs-0.2.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cloth-config-15.0.140-neoforge.jar@jar",
+          "name": "cloth-config-15.0.140-neoforge",
           "type": "ForgeMod",
           "artifact": {
             "size": 1163890,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/cloth-config-15.0.140-neoforge.jar",
-            "MD5": "4c3757160403fcccb8ad468c2ea22862"
+            "MD5": "4c3757160403fcccb8ad468c2ea22862",
+            "url": "http://151.240.30.11:10034/cloth-config-15.0.140-neoforge.jar"
           }
         },
         {
-          "id": "com.natamus:collective:8.39@jar",
-          "name": "Collective",
+          "id": "generated.forgemod:Clumps-neoforge-1.21.1-19.0.0.1.jar@jar",
+          "name": "Clumps-neoforge-1.21.1-19.0.0.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1061931,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/collective-1.21.1-8.39.jar",
-            "MD5": "7ae605279aacf6ae233bb1aafe2775c4"
+            "size": 18382,
+            "MD5": "8b42a9d7a72bde90fa061d17e2859e7b",
+            "url": "http://151.240.30.11:10034/Clumps-neoforge-1.21.1-19.0.0.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:create:1.21.1-6.0.10@jar",
-          "name": "Create",
+          "id": "generated.forgemod:cms-neoforge-1.2.0.jar@jar",
+          "name": "cms-neoforge-1.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 611456,
+            "MD5": "40a021aea85b25192958828d735bfc52",
+            "url": "http://151.240.30.11:10034/cms-neoforge-1.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:CodeChickenLib-1.21.1-4.6.1.529.jar@jar",
+          "name": "CodeChickenLib-1.21.1-4.6.1.529",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1538382,
+            "MD5": "fff9bd2c448638b20cc5b5d4a9e525ab",
+            "url": "http://151.240.30.11:10034/CodeChickenLib-1.21.1-4.6.1.529.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:comforts-neoforge-9.0.5+1.21.1.jar@jar",
+          "name": "comforts-neoforge-9.0.5+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 422658,
+            "MD5": "ba7a318dcf4190a27e017eacac47427e",
+            "url": "http://151.240.30.11:10034/comforts-neoforge-9.0.5+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:common-storage-lib-neoforge-1.21.1-0.0.10.jar@jar",
+          "name": "common-storage-lib-neoforge-1.21.1-0.0.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 309860,
+            "MD5": "b77c0efa2d4e8738ce40710cf826ecbd",
+            "url": "http://151.240.30.11:10034/common-storage-lib-neoforge-1.21.1-0.0.10.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:commoncapabilities-1.21.1-neoforge-2.11.6.jar@jar",
+          "name": "commoncapabilities-1.21.1-neoforge-2.11.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283980,
+            "MD5": "cc6301248615f1f949bbd823b57748c7",
+            "url": "http://151.240.30.11:10034/commoncapabilities-1.21.1-neoforge-2.11.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:compactmekanismmachinesplus-0.4.0.jar@jar",
+          "name": "compactmekanismmachinesplus-0.4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119213,
+            "MD5": "4234553775e5c261915361a6b06038a7",
+            "url": "http://151.240.30.11:10034/compactmekanismmachinesplus-0.4.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:connectedglass-1.1.14-neoforge-mc1.21.jar@jar",
+          "name": "connectedglass-1.1.14-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 819976,
+            "MD5": "978a7bee8daa65f9e3b480405e6da41c",
+            "url": "http://151.240.30.11:10034/connectedglass-1.1.14-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:connectivity-1.21.1-7.6.jar@jar",
+          "name": "connectivity-1.21.1-7.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 114165,
+            "MD5": "f2d38f850688eefa338b807801df2b4b",
+            "url": "http://151.240.30.11:10034/connectivity-1.21.1-7.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:connector-2.0.0-beta.17+1.21.1-full.jar@jar",
+          "name": "connector-2.0.0-beta.17+1.21.1-full",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4573244,
+            "MD5": "9b79e8afcd0f4b428fecc789b08ae0f6",
+            "url": "http://151.240.30.11:10034/connector-2.0.0-beta.17+1.21.1-full.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ConstructionSticks-1.21.1-1.5.0.jar@jar",
+          "name": "ConstructionSticks-1.21.1-1.5.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 264739,
+            "MD5": "b0485d380f6db23ba8c77c9b51865edd",
+            "url": "http://151.240.30.11:10034/ConstructionSticks-1.21.1-1.5.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:continuity-3.0.0+1.21.neoforge.jar@jar",
+          "name": "continuity-3.0.0+1.21.neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1014626,
+            "MD5": "06a2323e992834efcac3505e3ee57b15",
+            "url": "http://151.240.30.11:10034/continuity-3.0.0+1.21.neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Controlling-neoforge-1.21.1-19.0.5.jar@jar",
+          "name": "Controlling-neoforge-1.21.1-19.0.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77555,
+            "MD5": "7141c2d0bb774dc6e4481be32b685179",
+            "url": "http://151.240.30.11:10034/Controlling-neoforge-1.21.1-19.0.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cookingforblockheads-neoforge-1.21.1-21.1.24.jar@jar",
+          "name": "cookingforblockheads-neoforge-1.21.1-21.1.24",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1266042,
+            "MD5": "a414d1b3a909657f74c1ae269699aa36",
+            "url": "http://151.240.30.11:10034/cookingforblockheads-neoforge-1.21.1-21.1.24.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cookscollection-0.5.8.jar@jar",
+          "name": "cookscollection-0.5.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 392854,
+            "MD5": "b50da910a51db62e3a2ab5c1878154d8",
+            "url": "http://151.240.30.11:10034/cookscollection-0.5.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Corgilib-NeoForge-1.21.1-5.0.0.9.jar@jar",
+          "name": "Corgilib-NeoForge-1.21.1-5.0.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 309763,
+            "MD5": "c03b02005b735e2221438a5346d8c77f",
+            "url": "http://151.240.30.11:10034/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:craftingtweaks-neoforge-1.21.1-21.1.11.jar@jar",
+          "name": "craftingtweaks-neoforge-1.21.1-21.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 256086,
+            "MD5": "35ac6f92498c274935a97498ab221947",
+            "url": "http://151.240.30.11:10034/craftingtweaks-neoforge-1.21.1-21.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:crafting_on_a_stick-1.21.0.6.jar@jar",
+          "name": "crafting_on_a_stick-1.21.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 78732,
+            "MD5": "0bf1849ab268b812d898d8249aceb8bd",
+            "url": "http://151.240.30.11:10034/crafting_on_a_stick-1.21.0.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cratedelight-26.07.01-1.21-neoforge.jar@jar",
+          "name": "cratedelight-26.07.01-1.21-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 202120,
+            "MD5": "93fefea5ec4b69d2d5f4d19ccc630990",
+            "url": "http://151.240.30.11:10034/cratedelight-26.07.01-1.21-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:create-1.21.1-6.0.10.jar@jar",
+          "name": "create-1.21.1-6.0.10",
           "type": "ForgeMod",
           "artifact": {
             "size": 19123767,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/create-1.21.1-6.0.10.jar",
-            "MD5": "179189c52b45a469e683570be4e77188"
+            "MD5": "179189c52b45a469e683570be4e77188",
+            "url": "http://151.240.30.11:10034/create-1.21.1-6.0.10.jar"
           }
         },
         {
-          "id": "generated.forgemod:entityculling:1.10.5@jar",
-          "name": "EntityCulling",
+          "id": "generated.forgemod:create-superheated-1.0.0.jar@jar",
+          "name": "create-superheated-1.0.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1585287,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/entityculling-neoforge-1.10.5-mc1.21.1.jar",
-            "MD5": "efb6e5638cd09578c0aaaa396c9bfa84"
+            "size": 429678,
+            "MD5": "0278add9ce8324f69b80435ae56dc976",
+            "url": "http://151.240.30.11:10034/create-superheated-1.0.0.jar"
           }
         },
         {
-          "id": "generated.forgemod:lithium:neoforge-0.15.4+mc1.21.1@jar",
-          "name": "Lithium",
+          "id": "generated.forgemod:createaddition-1.6.0.jar@jar",
+          "name": "createaddition-1.6.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 774220,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/lithium-neoforge-0.15.4+mc1.21.1.jar",
-            "MD5": "969860e6a6ebe4dc2e2154b56f05483e"
+            "size": 1661802,
+            "MD5": "f401e28d795486a83db6dd714486d3e2",
+            "url": "http://151.240.30.11:10034/createaddition-1.6.0.jar"
           }
         },
         {
-          "id": "generated.forgemod:packmenu:1.21.1-7.0.4@jar",
-          "name": "PackMenu",
+          "id": "generated.forgemod:createdieselgenerators-1.21.1-1.3.15.jar@jar",
+          "name": "createdieselgenerators-1.21.1-1.3.15",
           "type": "ForgeMod",
           "artifact": {
-            "size": 536228,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/PackMenu-1.21.1-7.0.4.jar",
-            "MD5": "eee9305ffd1b892dd36fc515d57b9533"
+            "size": 3154746,
+            "MD5": "6608b13819952971bf0ebff17d8ea472",
+            "url": "http://151.240.30.11:10034/createdieselgenerators-1.21.1-1.3.15.jar"
           }
         },
         {
-          "id": "generated.forgemod:placebo:1.21.1-9.9.2@jar",
-          "name": "Placebo",
+          "id": "generated.forgemod:CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar@jar",
+          "name": "CreateOPlenty-NeoForge-Create+6.0.7-3.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 324058,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/Placebo-1.21.1-9.9.2.jar",
-            "MD5": "208b373fb2bdc703cdd2e087753ed859"
+            "size": 45837,
+            "MD5": "f6cdcd99da07652b27bfc858a2393b88",
+            "url": "http://151.240.30.11:10034/CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar"
           }
         },
         {
-          "id": "generated.forgemod:screenshotgallery:neoforge-2.0@jar",
-          "name": "Screenshotgallery",
+          "id": "generated.forgemod:createoritechcompat-1.20.1-1.0.jar@jar",
+          "name": "createoritechcompat-1.20.1-1.0",
           "type": "ForgeMod",
           "artifact": {
-            "size": 93040,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/screenshotgallery-neoforge-2.0.jar",
-            "MD5": "ec89584caad602933bf8a97d7f0c9cd1"
+            "size": 12826,
+            "MD5": "88aa29f2e5b5b94af7683fce43d38ff7",
+            "url": "http://151.240.30.11:10034/createoritechcompat-1.20.1-1.0.jar"
           }
         },
         {
-          "id": "generated.forgemod:simplehomes:neoforge-1.21.1-1.0.0@jar",
-          "name": "Simplehomes",
+          "id": "generated.forgemod:createplenty-1.0.3.jar@jar",
+          "name": "createplenty-1.0.3",
           "type": "ForgeMod",
           "artifact": {
-            "size": 11593,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/simplehomes-neoforge-1.21.1-1.0.0.jar",
-            "MD5": "3fecabeff309ab1ba676cca6e6be775e"
+            "size": 332879,
+            "MD5": "e72d4cb598e5d407b10995c4d1a41157",
+            "url": "http://151.240.30.11:10034/createplenty-1.0.3.jar"
           }
         },
         {
-          "id": "com.natamus:simplemenu:2.0@jar",
-          "name": "Simple Menu",
+          "id": "generated.forgemod:createseatsthirdperson-1.0.2.jar@jar",
+          "name": "createseatsthirdperson-1.0.2",
           "type": "ForgeMod",
           "artifact": {
-            "size": 85097,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/simplemenu-1.21.1-2.0.jar",
-            "MD5": "3685fc3a14872928615a1259405eede4"
+            "size": 17184,
+            "MD5": "947beb7a261ba29029a6c6b2352732b0",
+            "url": "http://151.240.30.11:10034/createseatsthirdperson-1.0.2.jar"
           }
         },
         {
-          "id": "generated.forgemod:sodium:neoforge-0.8.12+mc1.21.1@jar",
-          "name": "Sodium",
+          "id": "generated.forgemod:create_connected-1.3.3-mc1.21.1.jar@jar",
+          "name": "create_connected-1.3.3-mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1291418,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/sodium-neoforge-0.8.12+mc1.21.1.jar",
-            "MD5": "c0d728fccffb8365ba45e6ae4b15e5cc"
+            "size": 6786784,
+            "MD5": "97c050e64ff0a950a701248dee8a4d20",
+            "url": "http://151.240.30.11:10034/create_connected-1.3.3-mc1.21.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:sophisticatedbackpacks:1.21.1-3.25.78.2107@jar",
-          "name": "Sophisticatedbackpacks",
+          "id": "generated.forgemod:Create_Integrated_Core_v1.jar@jar",
+          "name": "Create_Integrated_Core_v1",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1172245,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
-            "MD5": "f26dd6193a2540a293bb70e1bdae415c"
+            "size": 255102,
+            "MD5": "8eb0e7d76ca73290e4a62eeb996b1b57",
+            "url": "http://151.240.30.11:10034/Create_Integrated_Core_v1.jar"
           }
         },
         {
-          "id": "generated.forgemod:sophisticatedcore:1.21.1-1.4.90.2299@jar",
-          "name": "Sophisticatedcore",
+          "id": "generated.forgemod:CreeperOverhaul-neoforge-1.21.1-4.0.6.jar@jar",
+          "name": "CreeperOverhaul-neoforge-1.21.1-4.0.6",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1687195,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/sophisticatedcore-1.21.1-1.4.90.2299.jar",
-            "MD5": "ad27add0e7a4b473d0ef7e7ab6278899"
+            "size": 1185088,
+            "MD5": "fba4de114511671aa0c4a10f34268faa",
+            "url": "http://151.240.30.11:10034/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
           }
         },
         {
-          "id": "generated.forgemod:voicechat:neoforge-1.21.1-2.6.22@jar",
-          "name": "Voicechat",
+          "id": "generated.forgemod:cristellib-neoforge-1.21.1-3.1.7.jar@jar",
+          "name": "cristellib-neoforge-1.21.1-3.1.7",
           "type": "ForgeMod",
           "artifact": {
-            "size": 4918442,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/voicechat-neoforge-1.21.1-2.6.22.jar",
-            "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51"
+            "size": 583525,
+            "MD5": "6433ae895a143e145165e97beea07077",
+            "url": "http://151.240.30.11:10034/cristellib-neoforge-1.21.1-3.1.7.jar"
           }
         },
         {
-          "id": "generated.forgemod:handcrafted:handcrafted-neoforge-1.21.1-4.0.3@jar",
-          "name": "Handcrafted",
+          "id": "generated.forgemod:cryonicconfig-neoforge-1.0.0+mc1.21.11.jar@jar",
+          "name": "cryonicconfig-neoforge-1.0.0+mc1.21.11",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7132842,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/handcrafted-neoforge-1.21.1-4.0.3.jar",
-            "MD5": "0F875F5741A6FAD6F1C4F6FDBE5F538B"
+            "size": 133851,
+            "MD5": "45eb8c92692fc3d0a5deba9137c46967",
+            "url": "http://151.240.30.11:10034/cryonicconfig-neoforge-1.0.0+mc1.21.11.jar"
           }
         },
         {
-          "id": "generated.forgemod:ressourcefullib:resourcefullib-neoforge-1.21-3.0.12@jar",
-          "name": "ressourcefullib",
+          "id": "generated.forgemod:CTM-1.21-1.2.1+3.jar@jar",
+          "name": "CTM-1.21-1.2.1+3",
           "type": "ForgeMod",
           "artifact": {
-            "size": 484332,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/resourcefullib-neoforge-1.21-3.0.12.jar",
-            "MD5": "32DA88903167D24BB20FEBEEB2C79225"
+            "size": 240791,
+            "MD5": "7f5650a579a6aa725a75e20512cc2bd1",
+            "url": "http://151.240.30.11:10034/CTM-1.21-1.2.1+3.jar"
           }
         },
         {
-          "id": "generated.forgemod:waystones:neoforge-1.21.1-21.1.40@jar",
-          "name": "Waystones",
+          "id": "generated.forgemod:Cucumber-1.21.1-8.0.16.jar@jar",
+          "name": "Cucumber-1.21.1-8.0.16",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1210134,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/forgemods/required/waystones-neoforge-1.21.1-21.1.40.jar",
-            "MD5": "52815254ae9e0c3490a39a24bd94c8ef"
+            "size": 275588,
+            "MD5": "3676382650b6ad5914dce9e3c451c9f0",
+            "url": "http://151.240.30.11:10034/Cucumber-1.21.1-8.0.16.jar"
           }
         },
         {
-          "id": "generated.forgemod:Journeymap-Neoforge@jar",
-          "name": "Journeymap Neoforge",
+          "id": "generated.forgemod:cultural-creators-neoforge-1.21.1-1.2.0.jar@jar",
+          "name": "cultural-creators-neoforge-1.21.1-1.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55622,
+            "MD5": "8045e1215d4efaa8e22b6f94b6f1b849",
+            "url": "http://151.240.30.11:10034/cultural-creators-neoforge-1.21.1-1.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:culturaldelights-1.21.1-0.18.1.jar@jar",
+          "name": "culturaldelights-1.21.1-0.18.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 486801,
+            "MD5": "b3921d2fd7ece2be25575220f565f8f9",
+            "url": "http://151.240.30.11:10034/culturaldelights-1.21.1-0.18.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cumulus_menus-1.21.1-2.0.8-neoforge.jar@jar",
+          "name": "cumulus_menus-1.21.1-2.0.8-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 466695,
+            "MD5": "43ba08de840b9801da10fadc1081a6eb",
+            "url": "http://151.240.30.11:10034/cumulus_menus-1.21.1-2.0.8-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cupboard-1.21.1-4.2.jar@jar",
+          "name": "cupboard-1.21.1-4.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 30517,
+            "MD5": "157cec3eeae81606df0183c9f6bdf341",
+            "url": "http://151.240.30.11:10034/cupboard-1.21.1-4.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:curios-neoforge-9.5.1+1.21.1.jar@jar",
+          "name": "curios-neoforge-9.5.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 410690,
+            "MD5": "e8f0a3574264bb202c153b90293dc84c",
+            "url": "http://151.240.30.11:10034/curios-neoforge-9.5.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:cyclopscore-1.21.1-neoforge-1.30.0.jar@jar",
+          "name": "cyclopscore-1.21.1-neoforge-1.30.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1163177,
+            "MD5": "7654eb3249873680e486f634d4d60120",
+            "url": "http://151.240.30.11:10034/cyclopscore-1.21.1-neoforge-1.30.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Data_Anchor-neoforge-1.21.1-2.0.0.16.jar@jar",
+          "name": "Data_Anchor-neoforge-1.21.1-2.0.0.16",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119142,
+            "MD5": "38ab11c8458e6712709e7a7903234cb0",
+            "url": "http://151.240.30.11:10034/Data_Anchor-neoforge-1.21.1-2.0.0.16.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:deeperdarker-neoforge-1.21.1-1.4.1.jar@jar",
+          "name": "deeperdarker-neoforge-1.21.1-1.4.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3906057,
+            "MD5": "3d2e41335836a5b6b7152340680c3fd6",
+            "url": "http://151.240.30.11:10034/deeperdarker-neoforge-1.21.1-1.4.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:DnDesires-1.21.1-2.3a-BETA.jar@jar",
+          "name": "DnDesires-1.21.1-2.3a-BETA",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1249099,
+            "MD5": "8ad0a211d478de56b9df1d19c348e723",
+            "url": "http://151.240.30.11:10034/DnDesires-1.21.1-2.3a-BETA.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:domum-ornamentum-1.0.236-snapshot-main.jar@jar",
+          "name": "domum-ornamentum-1.0.236-snapshot-main",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1151579,
+            "MD5": "23e4eac55909bab1362b5856f914682a",
+            "url": "http://151.240.30.11:10034/domum-ornamentum-1.0.236-snapshot-main.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:dragonlib-neoforge-1.21.1-beta-3.0.28.jar@jar",
+          "name": "dragonlib-neoforge-1.21.1-beta-3.0.28",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2107270,
+            "MD5": "4c631268718d6cdb34714de2936d7a79",
+            "url": "http://151.240.30.11:10034/dragonlib-neoforge-1.21.1-beta-3.0.28.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ecologics-1.21.1-2.3.7.jar@jar",
+          "name": "ecologics-1.21.1-2.3.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1909490,
+            "MD5": "eb3a1c9e754c7220d73496a1b82c947f",
+            "url": "http://151.240.30.11:10034/ecologics-1.21.1-2.3.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:eidolon_repraised-1.21.1-0.5.0.2.jar@jar",
+          "name": "eidolon_repraised-1.21.1-0.5.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4050310,
+            "MD5": "9386b41c2e4eba3b538d92a954549d27",
+            "url": "http://151.240.30.11:10034/eidolon_repraised-1.21.1-0.5.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:elevatorid-neoforge-1.21.1-1.11.4.jar@jar",
+          "name": "elevatorid-neoforge-1.21.1-1.11.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 191190,
+            "MD5": "19bc20ef8725cd617646e6bc8d8fe13c",
+            "url": "http://151.240.30.11:10034/elevatorid-neoforge-1.21.1-1.11.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Elite x Quality Guns Neoforge v5.1 - 1.21.1.jar@jar",
+          "name": "Elite x Quality Guns Neoforge v5.1 - 1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60832083,
+            "MD5": "d46ff0eb9e9f01ceb6a72e792530d990",
+            "url": "http://151.240.30.11:10034/Elite x Quality Guns Neoforge v5.1 - 1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:emi-1.1.24+1.21.1+neoforge.jar@jar",
+          "name": "emi-1.1.24+1.21.1+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1111538,
+            "MD5": "e4aede758ec7c675d2255234df7ed4ff",
+            "url": "http://151.240.30.11:10034/emi-1.1.24+1.21.1+neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:enchdesc-neoforge-1.21.1-21.1.11.jar@jar",
+          "name": "enchdesc-neoforge-1.21.1-21.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82648,
+            "MD5": "0314f02f2f7ec9af0b589b66388d0d91",
+            "url": "http://151.240.30.11:10034/enchdesc-neoforge-1.21.1-21.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:enderio-8.2.12-beta.jar@jar",
+          "name": "enderio-8.2.12-beta",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6598496,
+            "MD5": "a7ff54b02f950dd7f3094077c8c0e3c7",
+            "url": "http://151.240.30.11:10034/enderio-8.2.12-beta.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:endermanoverhaul-neoforge-1.21.1-2.0.3.jar@jar",
+          "name": "endermanoverhaul-neoforge-1.21.1-2.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1330403,
+            "MD5": "03e87f38be1a7218c55f35676f6248ac",
+            "url": "http://151.240.30.11:10034/endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:EnderStorage-1.21.1-2.13.0.191.jar@jar",
+          "name": "EnderStorage-1.21.1-2.13.0.191",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 264089,
+            "MD5": "1db6b92d3d2e17cadcb573e213841547",
+            "url": "http://151.240.30.11:10034/EnderStorage-1.21.1-2.13.0.191.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:endertanks-neoforge-1.21.1-1.0.jar@jar",
+          "name": "endertanks-neoforge-1.21.1-1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 274940,
+            "MD5": "2dd5de67f54c16ce4333b1dabb130a47",
+            "url": "http://151.240.30.11:10034/endertanks-neoforge-1.21.1-1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:energizedpower-3.0.0+1.21.1-neoforge.jar@jar",
+          "name": "energizedpower-3.0.0+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6215452,
+            "MD5": "0897a1e5d8505293b4e00e70938c05ba",
+            "url": "http://151.240.30.11:10034/energizedpower-3.0.0+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:energizedpowerbop-3.0.0+1.21.1-neoforge.jar@jar",
+          "name": "energizedpowerbop-3.0.0+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 113866,
+            "MD5": "e94cd53594cb23a0c7ebeff672885e45",
+            "url": "http://151.240.30.11:10034/energizedpowerbop-3.0.0+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:energizedpowerfd-3.0.0+1.21.1-neoforge.jar@jar",
+          "name": "energizedpowerfd-3.0.0+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 152035,
+            "MD5": "56ace6d59093792e791a2970f9f4ae6c",
+            "url": "http://151.240.30.11:10034/energizedpowerfd-3.0.0+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:energizedpowerru-3.0.0+1.21.1-neoforge.jar@jar",
+          "name": "energizedpowerru-3.0.0+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 171151,
+            "MD5": "644b7eb0775648ff3e57d05a20a7068e",
+            "url": "http://151.240.30.11:10034/energizedpowerru-3.0.0+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:energizedpowerta-3.0.0+1.21.1-neoforge.jar@jar",
+          "name": "energizedpowerta-3.0.0+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88231,
+            "MD5": "d68efaa6a4d5379e03b16b56c3de1ea0",
+            "url": "http://151.240.30.11:10034/energizedpowerta-3.0.0+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar@jar",
+          "name": "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1538905,
+            "MD5": "ceaa40df6fded324536298638a8a182f",
+            "url": "http://151.240.30.11:10034/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:entityculling-neoforge-1.11.1-mc1.21.1.jar@jar",
+          "name": "entityculling-neoforge-1.11.1-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1509973,
+            "MD5": "b2f0f550f72e98d120213b285a7f067c",
+            "url": "http://151.240.30.11:10034/entityculling-neoforge-1.11.1-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar@jar",
+          "name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 746263,
+            "MD5": "d15a6ebe7f3011625507d610d80c039c",
+            "url": "http://151.240.30.11:10034/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:evilcraft-1.21.1-neoforge-1.2.96.jar@jar",
+          "name": "evilcraft-1.21.1-neoforge-1.2.96",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2848712,
+            "MD5": "f0cb8f92bead4e111728801d94dd41f5",
+            "url": "http://151.240.30.11:10034/evilcraft-1.21.1-neoforge-1.2.96.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:evil_eye_evilcraft_addon-1.0.5+1.21.1-neoforge.jar@jar",
+          "name": "evil_eye_evilcraft_addon-1.0.5+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25651,
+            "MD5": "da33cf86c1cd0be587a8d4b8ebcc797e",
+            "url": "http://151.240.30.11:10034/evil_eye_evilcraft_addon-1.0.5+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:experiencelib-1.21.1-1.2.1.jar@jar",
+          "name": "experiencelib-1.21.1-1.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 169856,
+            "MD5": "a10a70af5037c2834c5d3108b73ee6ee",
+            "url": "http://151.240.30.11:10034/experiencelib-1.21.1-1.2.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ExtraDisks-1.21.1-4.0.15.jar@jar",
+          "name": "ExtraDisks-1.21.1-4.0.15",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 343628,
+            "MD5": "40f8f210f69e959c5d636ad46203fd40",
+            "url": "http://151.240.30.11:10034/ExtraDisks-1.21.1-4.0.15.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ExtremeReactors2-1.21.1-2.4.28.jar@jar",
+          "name": "ExtremeReactors2-1.21.1-2.4.28",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2554779,
+            "MD5": "598008e487f6dae196a4d3c538d6333a",
+            "url": "http://151.240.30.11:10034/ExtremeReactors2-1.21.1-2.4.28.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:factory_blocks-neoforge-1.4.0+mc1.21.1.jar@jar",
+          "name": "factory_blocks-neoforge-1.4.0+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 809234,
+            "MD5": "2ce09093e19a08e7cd2ad5538824bcc2",
+            "url": "http://151.240.30.11:10034/factory_blocks-neoforge-1.4.0+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmers-cutting-biomes-o-plenty-2.0.0-1.21.jar@jar",
+          "name": "farmers-cutting-biomes-o-plenty-2.0.0-1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 53221,
+            "MD5": "9dca9e0e7094eb40c8b7b373030ab610",
+            "url": "http://151.240.30.11:10034/farmers-cutting-biomes-o-plenty-2.0.0-1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar@jar",
+          "name": "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 100636,
+            "MD5": "6960119fac4cab0a3a3bc600cd858fb8",
+            "url": "http://151.240.30.11:10034/farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge.jar@jar",
+          "name": "farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 113172,
+            "MD5": "2704d0406499ac6fb32035a7215f9d3f",
+            "url": "http://151.240.30.11:10034/farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar@jar",
+          "name": "farmers-cutting-the-aether-1.21.1-1.0-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 17255,
+            "MD5": "dc11803828a6846aafe65dd28e98cde9",
+            "url": "http://151.240.30.11:10034/farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmers-cutting-twilight-forest-1.21.1-1.0.jar@jar",
+          "name": "farmers-cutting-twilight-forest-1.21.1-1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 39901,
+            "MD5": "e782d8a9e1efc9b74bfbe762b22c23c8",
+            "url": "http://151.240.30.11:10034/farmers-cutting-twilight-forest-1.21.1-1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:FarmersDelight-1.21.1-1.3.4.jar@jar",
+          "name": "FarmersDelight-1.21.1-1.3.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3160490,
+            "MD5": "588f140d2c343e9029dc30f10b73fdd4",
+            "url": "http://151.240.30.11:10034/FarmersDelight-1.21.1-1.3.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmersdelight_extended-1.21.1-0.2.2.jar@jar",
+          "name": "farmersdelight_extended-1.21.1-0.2.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 142253,
+            "MD5": "1a1f2c1da85783e92e626301fd6d44c3",
+            "url": "http://151.240.30.11:10034/farmersdelight_extended-1.21.1-0.2.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmersknives-neoforge-1.21.1-4.2.0.jar@jar",
+          "name": "farmersknives-neoforge-1.21.1-4.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91362,
+            "MD5": "343cc10d7660f4b044f1a7754976416c",
+            "url": "http://151.240.30.11:10034/farmersknives-neoforge-1.21.1-4.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmerspizzeria-1.3.0-neoforge-1.21.1.jar@jar",
+          "name": "farmerspizzeria-1.3.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 440468,
+            "MD5": "b1d84d8762c52451f2a47220cd6bf65a",
+            "url": "http://151.240.30.11:10034/farmerspizzeria-1.3.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:FarmersStructures-1.0.6-1.21.1_neoforge.jar@jar",
+          "name": "FarmersStructures-1.0.6-1.21.1_neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 558909,
+            "MD5": "6377d658fde69a819ae0400b96bcaa72",
+            "url": "http://151.240.30.11:10034/FarmersStructures-1.0.6-1.21.1_neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:FarmersWearableCookingPot-v0.1-1.21.1.jar@jar",
+          "name": "FarmersWearableCookingPot-v0.1-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 52900,
+            "MD5": "755e4d687f8a2fce7ec0e976de4aaf4f",
+            "url": "http://151.240.30.11:10034/FarmersWearableCookingPot-v0.1-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1.jar@jar",
+          "name": "farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 399944,
+            "MD5": "b0d58a2b3548cb35334b13635139f34b",
+            "url": "http://151.240.30.11:10034/farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:fastleafdecay-35.jar@jar",
+          "name": "fastleafdecay-35",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9511,
+            "MD5": "97223075d6407a012024fd7e3c48e5e8",
+            "url": "http://151.240.30.11:10034/fastleafdecay-35.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ferritecore-7.0.3-neoforge.jar@jar",
+          "name": "ferritecore-7.0.3-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 121559,
+            "MD5": "e0374dac41d6c641903f9e241911e1d3",
+            "url": "http://151.240.30.11:10034/ferritecore-7.0.3-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:flerovium-neoforge-1.21.1-1.1.3-all.jar@jar",
+          "name": "flerovium-neoforge-1.21.1-1.1.3-all",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 184070,
+            "MD5": "97dcb4f52c7cf4b5fe8907e9bb52c38a",
+            "url": "http://151.240.30.11:10034/flerovium-neoforge-1.21.1-1.1.3-all.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:FluxNetworks-1.21.1-8.0.0.jar@jar",
+          "name": "FluxNetworks-1.21.1-8.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 535938,
+            "MD5": "7ebb097deb1cfb13f3abcf87c17c8ba4",
+            "url": "http://151.240.30.11:10034/FluxNetworks-1.21.1-8.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:forbidden_arcanus-2.6.1.jar@jar",
+          "name": "forbidden_arcanus-2.6.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3402083,
+            "MD5": "16e529d8b3e3de0d2d0343c601704c69",
+            "url": "http://151.240.30.11:10034/forbidden_arcanus-2.6.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:forbidden_arcanus_js-2101.1.3.jar@jar",
+          "name": "forbidden_arcanus_js-2101.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 54845,
+            "MD5": "880a35570893bb7d3c53018705a3f55f",
+            "url": "http://151.240.30.11:10034/forbidden_arcanus_js-2101.1.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar@jar",
+          "name": "forgified-fabric-api-0.116.15+2.3.5+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5613159,
+            "MD5": "0bfb5c559b630018d390b11a277c66f4",
+            "url": "http://151.240.30.11:10034/forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:framework-neoforge-1.21.1-0.13.11.jar@jar",
+          "name": "framework-neoforge-1.21.1-0.13.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387334,
+            "MD5": "06f94f31d9e0b59c8b42a5b0df7013d6",
+            "url": "http://151.240.30.11:10034/framework-neoforge-1.21.1-0.13.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:friendsandfoes-neoforge-4.0.27+mc1.21.1.jar@jar",
+          "name": "friendsandfoes-neoforge-4.0.27+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5096836,
+            "MD5": "01a1316820b46aa4e56466b11062c982",
+            "url": "http://151.240.30.11:10034/friendsandfoes-neoforge-4.0.27+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-backups-3-21.1.5.jar@jar",
+          "name": "ftb-backups-3-21.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91354,
+            "MD5": "db9c137b5db5f1bbf19d33a398996611",
+            "url": "http://151.240.30.11:10034/ftb-backups-3-21.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-chunks-neoforge-2101.1.22.jar@jar",
+          "name": "ftb-chunks-neoforge-2101.1.22",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 655807,
+            "MD5": "781396912e2df9ed74d183811cb90407",
+            "url": "http://151.240.30.11:10034/ftb-chunks-neoforge-2101.1.22.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-library-neoforge-2101.1.36.jar@jar",
+          "name": "ftb-library-neoforge-2101.1.36",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1439427,
+            "MD5": "69ebc0ddc837a23c2ca76bd8cc490937",
+            "url": "http://151.240.30.11:10034/ftb-library-neoforge-2101.1.36.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-quests-neoforge-2101.1.36.jar@jar",
+          "name": "ftb-quests-neoforge-2101.1.36",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1609984,
+            "MD5": "90798f934aec638e97c595947838f843",
+            "url": "http://151.240.30.11:10034/ftb-quests-neoforge-2101.1.36.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-ranks-neoforge-2101.1.5.jar@jar",
+          "name": "ftb-ranks-neoforge-2101.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 89561,
+            "MD5": "02a7c449751b41a593e903378dec9c47",
+            "url": "http://151.240.30.11:10034/ftb-ranks-neoforge-2101.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-teams-neoforge-2101.1.11.jar@jar",
+          "name": "ftb-teams-neoforge-2101.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 308236,
+            "MD5": "ee780bb9fe724f6d1af97547bdab8bff",
+            "url": "http://151.240.30.11:10034/ftb-teams-neoforge-2101.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-ultimine-neoforge-2101.1.15.jar@jar",
+          "name": "ftb-ultimine-neoforge-2101.1.15",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 177109,
+            "MD5": "93de42bb644fad478ede2cc67d4aac16",
+            "url": "http://151.240.30.11:10034/ftb-ultimine-neoforge-2101.1.15.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftb-xmod-compat-neoforge-21.1.11.jar@jar",
+          "name": "ftb-xmod-compat-neoforge-21.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 153045,
+            "MD5": "90d332cdedbdc6babe722a008eb3163b",
+            "url": "http://151.240.30.11:10034/ftb-xmod-compat-neoforge-21.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ftbquestsresetpatch-1.21.1-1.0.0.jar@jar",
+          "name": "ftbquestsresetpatch-1.21.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99022,
+            "MD5": "2d1d6563b05ce9889e152b0c74cec117",
+            "url": "http://151.240.30.11:10034/ftbquestsresetpatch-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:fusion-1.3.15a-neoforge-mc1.21.1.jar@jar",
+          "name": "fusion-1.3.15a-neoforge-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 947072,
+            "MD5": "6b0619deff6136503ed50025025825a0",
+            "url": "http://151.240.30.11:10034/fusion-1.3.15a-neoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:fzzy_config-0.7.7+1.21+neoforge.jar@jar",
+          "name": "fzzy_config-0.7.7+1.21+neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2392693,
+            "MD5": "6af308e253f193218d09ccdd4cb0e61a",
+            "url": "http://151.240.30.11:10034/fzzy_config-0.7.7+1.21+neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:GatewaysToEternity-1.21.1-5.1.0.jar@jar",
+          "name": "GatewaysToEternity-1.21.1-5.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646451,
+            "MD5": "7f6417fce9a1d9fc3771021d5420d2aa",
+            "url": "http://151.240.30.11:10034/GatewaysToEternity-1.21.1-5.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:geckolib-neoforge-1.21.1-4.9.3.jar@jar",
+          "name": "geckolib-neoforge-1.21.1-4.9.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 634531,
+            "MD5": "ddb8a5ef680c3a1df09ef98dc8b7c116",
+            "url": "http://151.240.30.11:10034/geckolib-neoforge-1.21.1-4.9.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:GeOre-1.21.1-6.2.2.jar@jar",
+          "name": "GeOre-1.21.1-6.2.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 825916,
+            "MD5": "9aa46b06459006456bfdae3d40868a00",
+            "url": "http://151.240.30.11:10034/GeOre-1.21.1-6.2.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:geore_additions-4.0-neoforge-1.21.1.jar@jar",
+          "name": "geore_additions-4.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 444724,
+            "MD5": "795ca500c5f61944d4af3dd089422677",
+            "url": "http://151.240.30.11:10034/geore_additions-4.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:GlitchCore-neoforge-1.21.1-2.1.0.2.jar@jar",
+          "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90717,
+            "MD5": "3bdf763d2461aa2731ed3515e0761d2f",
+            "url": "http://151.240.30.11:10034/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Glodium-1.21-2.2-neoforge.jar@jar",
+          "name": "Glodium-1.21-2.2-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61377,
+            "MD5": "726c1598b933b33a413fd994e12fd31c",
+            "url": "http://151.240.30.11:10034/Glodium-1.21-2.2-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Gobber-NeoForge-1.21.1-2.10.15.jar@jar",
+          "name": "Gobber-NeoForge-1.21.1-2.10.15",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 674321,
+            "MD5": "67962a0ca8219359700f02d76cbaf34b",
+            "url": "http://151.240.30.11:10034/Gobber-NeoForge-1.21.1-2.10.15.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:gobberdelight-2.2.0-neoforge-1.21.1.jar@jar",
+          "name": "gobberdelight-2.2.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 247151,
+            "MD5": "48178f4ccd034772efcc8d1db105c943",
+            "url": "http://151.240.30.11:10034/gobberdelight-2.2.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:guideme-21.1.17.jar@jar",
+          "name": "guideme-21.1.17",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9309396,
+            "MD5": "4fae423576e04c1a3c834189054a4486",
+            "url": "http://151.240.30.11:10034/guideme-21.1.17.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:hazentouvelib-1.0.9.jar@jar",
+          "name": "hazentouvelib-1.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 559849,
+            "MD5": "45e751fa30765fc9db1234375f21383b",
+            "url": "http://151.240.30.11:10034/hazentouvelib-1.0.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ImmersiveEngineering-1.21.1-12.4.2-194.jar@jar",
+          "name": "ImmersiveEngineering-1.21.1-12.4.2-194",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14232121,
+            "MD5": "80f8d044f3218a723902fa6955ea3ad1",
+            "url": "http://151.240.30.11:10034/ImmersiveEngineering-1.21.1-12.4.2-194.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Incendium_1.21.x_v5.4.4.jar@jar",
+          "name": "Incendium_1.21.x_v5.4.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4267528,
+            "MD5": "37793d374c89e38074bde664fe36df59",
+            "url": "http://151.240.30.11:10034/Incendium_1.21.x_v5.4.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:industrialforegoing-1.21-3.6.38.jar@jar",
+          "name": "industrialforegoing-1.21-3.6.38",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4630924,
+            "MD5": "8b3fa775d6b0ef6a1a4336a79a83ddfd",
+            "url": "http://151.240.30.11:10034/industrialforegoing-1.21-3.6.38.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:integratedcrafting-1.21.1-neoforge-1.7.0.jar@jar",
+          "name": "integratedcrafting-1.21.1-neoforge-1.7.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 498722,
+            "MD5": "14ac27a3badc14f18eb31889b45966d4",
+            "url": "http://151.240.30.11:10034/integratedcrafting-1.21.1-neoforge-1.7.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:integratedcrafting-1.21.1-neoforge-1.7.1-792.jar@jar",
+          "name": "integratedcrafting-1.21.1-neoforge-1.7.1-792",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 500280,
+            "MD5": "4393b283e1ad57658f6819a85c7da218",
+            "url": "http://151.240.30.11:10034/integratedcrafting-1.21.1-neoforge-1.7.1-792.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:integrateddynamics-1.21.1-neoforge-1.37.1.jar@jar",
+          "name": "integrateddynamics-1.21.1-neoforge-1.37.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4468582,
+            "MD5": "7db5d4e8edb02ab1d560fd5c1a543510",
+            "url": "http://151.240.30.11:10034/integrateddynamics-1.21.1-neoforge-1.37.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:integratedmekanism-1.21.1-neoforge-1.1.3.jar@jar",
+          "name": "integratedmekanism-1.21.1-neoforge-1.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 509734,
+            "MD5": "304c6e962e4c7624f6dc015e443cc115",
+            "url": "http://151.240.30.11:10034/integratedmekanism-1.21.1-neoforge-1.1.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:integratedterminals-1.21.1-neoforge-1.10.0.jar@jar",
+          "name": "integratedterminals-1.21.1-neoforge-1.10.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 821796,
+            "MD5": "490880f26ed5d7f9c181957d2111cebb",
+            "url": "http://151.240.30.11:10034/integratedterminals-1.21.1-neoforge-1.10.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:integratedtunnels-1.21.1-neoforge-1.12.0.jar@jar",
+          "name": "integratedtunnels-1.21.1-neoforge-1.12.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 733867,
+            "MD5": "fd6ec715a7620a66c5f4064a14fd13d5",
+            "url": "http://151.240.30.11:10034/integratedtunnels-1.21.1-neoforge-1.12.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:integrated_api-neoforge-1.21.1-1.8.2.jar@jar",
+          "name": "integrated_api-neoforge-1.21.1-1.8.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 478502,
+            "MD5": "8b11733fca6778e344eb6014895cc33e",
+            "url": "http://151.240.30.11:10034/integrated_api-neoforge-1.21.1-1.8.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar@jar",
+          "name": "interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 141867,
+            "MD5": "cbe687dce673ce3c31da8d2c2c4e21d9",
+            "url": "http://151.240.30.11:10034/interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ironfurnaces-neoforge-1.21.1-4.3.2.jar@jar",
+          "name": "ironfurnaces-neoforge-1.21.1-4.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 576866,
+            "MD5": "cd8b224d7d81faadca30339841c11928",
+            "url": "http://151.240.30.11:10034/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:IronJetpacks-1.21.1-8.0.11.jar@jar",
+          "name": "IronJetpacks-1.21.1-8.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 154859,
+            "MD5": "33d3c6b9f199511e59cd4117bd28e539",
+            "url": "http://151.240.30.11:10034/IronJetpacks-1.21.1-8.0.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:irons_lib-1.21.1-2.1.0.jar@jar",
+          "name": "irons_lib-1.21.1-2.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 406284,
+            "MD5": "5ac685e3e5ce76a9c80d0e865769bd60",
+            "url": "http://151.240.30.11:10034/irons_lib-1.21.1-2.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:irons_restrictions-1.21.1-5.2.0.jar@jar",
+          "name": "irons_restrictions-1.21.1-5.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 216595,
+            "MD5": "4608f17451f2e566a641229cb04b1901",
+            "url": "http://151.240.30.11:10034/irons_restrictions-1.21.1-5.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:irons_spellbooks-1.21.1-3.16.3.jar@jar",
+          "name": "irons_spellbooks-1.21.1-3.16.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13890046,
+            "MD5": "6acfdbb1557d9ecbf71d0730090d51e4",
+            "url": "http://151.240.30.11:10034/irons_spellbooks-1.21.1-3.16.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Jade-1.21.1-NeoForge-15.10.6.jar@jar",
+          "name": "Jade-1.21.1-NeoForge-15.10.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 726853,
+            "MD5": "67b89f182472859d1e478477716c9462",
+            "url": "http://151.240.30.11:10034/Jade-1.21.1-NeoForge-15.10.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:jamlib-neoforge-1.3.6+1.21.1.jar@jar",
+          "name": "jamlib-neoforge-1.3.6+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188553,
+            "MD5": "87ad4d47e5c266e20e2076ad5933d0cc",
+            "url": "http://151.240.30.11:10034/jamlib-neoforge-1.3.6+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:journeymap-neoforge-1.21.1-6.0.8.jar@jar",
+          "name": "journeymap-neoforge-1.21.1-6.0.8",
           "type": "ForgeMod",
           "artifact": {
             "size": 4303084,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-moddé-1.21.1/forgemods/required/journeymap-neoforge-1.21.1-6.0.8.jar",
-            "MD5": "34324289AA44A915F794579951E64E44"
+            "MD5": "34324289aa44a915f794579951e64e44",
+            "url": "http://151.240.30.11:10034/journeymap-neoforge-1.21.1-6.0.8.jar"
           }
         },
         {
-          "id": "collective.json5",
-          "name": "collective.json5",
-          "type": "File",
+          "id": "generated.forgemod:Kobolds-4.0.1.jar@jar",
+          "name": "Kobolds-4.0.1",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 2471,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/collective.json5",
-            "MD5": "7283fbc343c15ada551964030d57ea71",
-            "path": "config/collective.json5"
+            "size": 2303275,
+            "MD5": "35b59cb846a958e517516e75416ed40e",
+            "url": "http://151.240.30.11:10034/Kobolds-4.0.1.jar"
           }
         },
         {
-          "id": "create-client.toml",
-          "name": "create-client.toml",
-          "type": "File",
+          "id": "generated.forgemod:kotlinforforge-5.12.0-all.jar@jar",
+          "name": "kotlinforforge-5.12.0-all",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 4795,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/create-client.toml",
-            "MD5": "1381fb47656ef79054dddcaffce4ab9e",
-            "path": "config/create-client.toml"
+            "size": 7279276,
+            "MD5": "93db4ba2044a6667d7d1e3f592d63dbd",
+            "url": "http://151.240.30.11:10034/kotlinforforge-5.12.0-all.jar"
           }
         },
         {
-          "id": "create-common.toml",
-          "name": "create-common.toml",
-          "type": "File",
+          "id": "generated.forgemod:kubejs-create-neoforge-2101.3.1-build.18.jar@jar",
+          "name": "kubejs-create-neoforge-2101.3.1-build.18",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 153,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/create-common.toml",
-            "MD5": "9dabf53d32493d67b0d8985fb72ad083",
-            "path": "config/create-common.toml"
+            "size": 38630,
+            "MD5": "25b13d8e4ac7b369129302aa7afd3b79",
+            "url": "http://151.240.30.11:10034/kubejs-create-neoforge-2101.3.1-build.18.jar"
           }
         },
         {
-          "id": "create-server.toml",
-          "name": "create-server.toml",
-          "type": "File",
+          "id": "generated.forgemod:kubejs-mekanism-neoforge-2101.1.7-build.18.jar@jar",
+          "name": "kubejs-mekanism-neoforge-2101.1.7-build.18",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 16890,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/create-server.toml",
-            "MD5": "e84152b02fdded18eedb9bb7eb4a3f41",
-            "path": "config/create-server.toml"
+            "size": 58054,
+            "MD5": "8d17a5501b402131b4b7b6dc6709b0e6",
+            "url": "http://151.240.30.11:10034/kubejs-mekanism-neoforge-2101.1.7-build.18.jar"
           }
         },
         {
-          "id": "entityculling.json",
-          "name": "entityculling.json",
-          "type": "File",
+          "id": "generated.forgemod:kubejs-neoforge-2101.7.2-build.377.jar@jar",
+          "name": "kubejs-neoforge-2101.7.2-build.377",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 2228,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/entityculling.json",
-            "MD5": "da0e5b077b77efa3249c47e9b2e5a4ae",
-            "path": "config/entityculling.json"
+            "size": 2294111,
+            "MD5": "95e68543f4be46edc6d2cac8a9a4cfd3",
+            "url": "http://151.240.30.11:10034/kubejs-neoforge-2101.7.2-build.377.jar"
           }
         },
         {
-          "id": "flywheel-client-1.toml.bak",
-          "name": "flywheel-client-1.toml.bak",
-          "type": "File",
+          "id": "generated.forgemod:kubejspowah-1.3.4.jar@jar",
+          "name": "kubejspowah-1.3.4",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 636,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/flywheel-client-1.toml.bak",
-            "MD5": "ce84829633b8214fdd21d488a563e449",
-            "path": "config/flywheel-client-1.toml.bak"
+            "size": 11406,
+            "MD5": "0339a761d24d174f7d881bb4dcd436e0",
+            "url": "http://151.240.30.11:10034/kubejspowah-1.3.4.jar"
           }
         },
         {
-          "id": "flywheel-client.toml",
-          "name": "flywheel-client.toml",
-          "type": "File",
+          "id": "generated.forgemod:kubejs_oritech-1.0.0.jar@jar",
+          "name": "kubejs_oritech-1.0.0",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 637,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/flywheel-client.toml",
-            "MD5": "386a39e6bfab0adbc4945680e5b202fb",
-            "path": "config/flywheel-client.toml"
+            "size": 15023,
+            "MD5": "772a76dca3cccccbc4fe0111ae56d38e",
+            "url": "http://151.240.30.11:10034/kubejs_oritech-1.0.0.jar"
           }
         },
         {
-          "id": "fml.toml",
-          "name": "fml.toml",
-          "type": "File",
+          "id": "generated.forgemod:kubejs_oritech-neoforge-1.21.1-0.4.5.jar@jar",
+          "name": "kubejs_oritech-neoforge-1.21.1-0.4.5",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 1519,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/fml.toml",
-            "MD5": "924096ea7a9b0ab6da437f62eb6c549c",
-            "path": "config/fml.toml"
+            "size": 59056,
+            "MD5": "c8b45fd70aef6c0880a963157ef6dd1c",
+            "url": "http://151.240.30.11:10034/kubejs_oritech-neoforge-1.21.1-0.4.5.jar"
           }
         },
         {
-          "id": "iris-excluded.json",
-          "name": "iris-excluded.json",
-          "type": "File",
+          "id": "generated.forgemod:large_meals-1.21.1-1.0.1.jar@jar",
+          "name": "large_meals-1.21.1-1.0.1",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 31,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/iris-excluded.json",
-            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
-            "path": "config/iris-excluded.json"
+            "size": 96639,
+            "MD5": "e76cab30aa3c0536da2a241582a3bbce",
+            "url": "http://151.240.30.11:10034/large_meals-1.21.1-1.0.1.jar"
           }
         },
         {
-          "id": "iris.properties",
-          "name": "iris.properties",
-          "type": "File",
+          "id": "generated.forgemod:laserio-1.9.11.jar@jar",
+          "name": "laserio-1.9.11",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 282,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/iris.properties",
-            "MD5": "30428026a5e2efb9da6391e8d32e9e2a",
-            "path": "config/iris.properties"
+            "size": 1305285,
+            "MD5": "f7536389873d6ad6acedab2c959f1310",
+            "url": "http://151.240.30.11:10034/laserio-1.9.11.jar"
           }
         },
         {
-          "id": "blacklist.json",
-          "name": "blacklist.json",
-          "type": "File",
+          "id": "generated.forgemod:lava_generator-1.0.0-neoforge-1.21.1.jar@jar",
+          "name": "lava_generator-1.0.0-neoforge-1.21.1",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 19,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/blacklist.json",
-            "MD5": "78f1a39821342258f73e542d9ea40e0f",
-            "path": "config/jei/blacklist.json"
+            "size": 304014,
+            "MD5": "54b0670664fd7a755a5180e894156114",
+            "url": "http://151.240.30.11:10034/lava_generator-1.0.0-neoforge-1.21.1.jar"
           }
         },
         {
-          "id": "ingredient-list-mod-sort-order.ini",
-          "name": "ingredient-list-mod-sort-order.ini",
-          "type": "File",
+          "id": "generated.forgemod:lithium-neoforge-0.15.4+mc1.21.1.jar@jar",
+          "name": "lithium-neoforge-0.15.4+mc1.21.1",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 98,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/ingredient-list-mod-sort-order.ini",
-            "MD5": "07a3e00d3564669e0d5b75ae434d8499",
-            "path": "config/jei/ingredient-list-mod-sort-order.ini"
+            "size": 774220,
+            "MD5": "969860e6a6ebe4dc2e2154b56f05483e",
+            "url": "http://151.240.30.11:10034/lithium-neoforge-0.15.4+mc1.21.1.jar"
           }
         },
         {
-          "id": "ingredient-list-type-sort-order.ini",
-          "name": "ingredient-list-type-sort-order.ini",
-          "type": "File",
+          "id": "generated.forgemod:lithostitched-1.7.13-neoforge-21.1.jar@jar",
+          "name": "lithostitched-1.7.13-neoforge-21.1",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 78,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/ingredient-list-type-sort-order.ini",
-            "MD5": "0328cc64f29f41e751136fade109eaff",
-            "path": "config/jei/ingredient-list-type-sort-order.ini"
+            "size": 852541,
+            "MD5": "118c515e0c0352835cb6e0b587ed6770",
+            "url": "http://151.240.30.11:10034/lithostitched-1.7.13-neoforge-21.1.jar"
           }
         },
         {
-          "id": "jei-client.ini",
-          "name": "jei-client.ini",
-          "type": "File",
+          "id": "generated.forgemod:lmft-1.1.1+1.21.9-neoforge.jar@jar",
+          "name": "lmft-1.1.1+1.21.9-neoforge",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 12615,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/jei-client.ini",
-            "MD5": "6688b5327c937a543aa36538c00fb388",
-            "path": "config/jei/jei-client.ini"
+            "size": 78624,
+            "MD5": "bbce0f41ed77cdec33fe68dd05c1ceff",
+            "url": "http://151.240.30.11:10034/lmft-1.1.1+1.21.9-neoforge.jar"
           }
         },
         {
-          "id": "jei-colors.ini",
-          "name": "jei-colors.ini",
-          "type": "File",
+          "id": "generated.forgemod:lodestone-1.21.1-1.8.2.jar@jar",
+          "name": "lodestone-1.21.1-1.8.2",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 1362,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/jei-colors.ini",
-            "MD5": "2b1d073ff360c11353f0079b7539cb2e",
-            "path": "config/jei/jei-colors.ini"
+            "size": 818829,
+            "MD5": "de0e38b222129dc010a7ffee59a07ea5",
+            "url": "http://151.240.30.11:10034/lodestone-1.21.1-1.8.2.jar"
           }
         },
         {
-          "id": "jei-debug.ini",
-          "name": "jei-debug.ini",
-          "type": "File",
+          "id": "generated.forgemod:lootr-neoforge-1.21.1-1.11.38.125.jar@jar",
+          "name": "lootr-neoforge-1.21.1-1.11.38.125",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 939,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/jei-debug.ini",
-            "MD5": "2f0b31fe55701f6908bcd0bc6bad9497",
-            "path": "config/jei/jei-debug.ini"
+            "size": 1000464,
+            "MD5": "cdfc90b1fd41c4df88f679e0994553ba",
+            "url": "http://151.240.30.11:10034/lootr-neoforge-1.21.1-1.11.38.125.jar"
           }
         },
         {
-          "id": "jei-mod-id-format.ini",
-          "name": "jei-mod-id-format.ini",
-          "type": "File",
+          "id": "generated.forgemod:Luminous Overworld V1.5.52 -NeoForge 1.21.1.jar@jar",
+          "name": "Luminous Overworld V1.5.52 -NeoForge 1.21.1",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 529,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/jei-mod-id-format.ini",
-            "MD5": "1897446d74515dd776ff8b5b34e2e57b",
-            "path": "config/jei/jei-mod-id-format.ini"
+            "size": 28103757,
+            "MD5": "384ee9bc50a0f4cfc897fef5eaf1edbe",
+            "url": "http://151.240.30.11:10034/Luminous Overworld V1.5.52 -NeoForge 1.21.1.jar"
           }
         },
         {
-          "id": "recipe-category-sort-order.ini",
-          "name": "recipe-category-sort-order.ini",
-          "type": "File",
+          "id": "generated.forgemod:mahoutsukai-1.21.1-v1.36.28.jar@jar",
+          "name": "mahoutsukai-1.21.1-v1.36.28",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 762,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "a7d38e60bb7e3b57242989958c88aea4",
-            "path": "config/jei/recipe-category-sort-order.ini"
+            "size": 5045088,
+            "MD5": "86936c06f7e4a45fcd9d8aee75767b2e",
+            "url": "http://151.240.30.11:10034/mahoutsukai-1.21.1-v1.36.28.jar"
           }
         },
         {
-          "id": "jei-server.toml",
-          "name": "jei-server.toml",
-          "type": "File",
+          "id": "generated.forgemod:mahou_tsukai_combat-2.0.0-neoforge-1.21.1.jar@jar",
+          "name": "mahou_tsukai_combat-2.0.0-neoforge-1.21.1",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 324,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/jei-server.toml",
-            "MD5": "6912479d1f35b27783befe8326720922",
-            "path": "config/jei-server.toml"
+            "size": 191180,
+            "MD5": "97cd6fdf679da81e43f3b4f1cbc7129c",
+            "url": "http://151.240.30.11:10034/mahou_tsukai_combat-2.0.0-neoforge-1.21.1.jar"
           }
         },
         {
-          "id": "lithium.properties",
-          "name": "lithium.properties",
-          "type": "File",
+          "id": "generated.forgemod:malum-1.21.1-1.8.2.jar@jar",
+          "name": "malum-1.21.1-1.8.2",
+          "type": "ForgeMod",
           "artifact": {
-            "size": 267,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/lithium.properties",
-            "MD5": "65a61a8f2201e0a571d48a7f0295da19",
-            "path": "config/lithium.properties"
+            "size": 33585331,
+            "MD5": "8a02ac3ac7bc02d4600bea6ea0f546aa",
+            "url": "http://151.240.30.11:10034/malum-1.21.1-1.8.2.jar"
           }
         },
         {
-          "id": "neoforge-client.toml",
+          "id": "generated.forgemod:MassC Neo1.21.1 2.0.0.jar@jar",
+          "name": "MassC Neo1.21.1 2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 90347,
+            "MD5": "37127c0d659eb0b027edb9d33e9aefbb",
+            "url": "http://151.240.30.11:10034/MassC Neo1.21.1 2.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mcjtylib-1.21-9.0.21.jar@jar",
+          "name": "mcjtylib-1.21-9.0.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 699982,
+            "MD5": "4172d32869e00fd63a0fa4661ec15d43",
+            "url": "http://151.240.30.11:10034/mcjtylib-1.21-9.0.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:megacells-4.11.0.jar@jar",
+          "name": "megacells-4.11.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1137276,
+            "MD5": "cd43745a94507315d30d80f2c345de72",
+            "url": "http://151.240.30.11:10034/megacells-4.11.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekajadeupgrade-1.3.jar@jar",
+          "name": "mekajadeupgrade-1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9393,
+            "MD5": "22e46c31d3b6d18071e9b70a0d5b354f",
+            "url": "http://151.240.30.11:10034/mekajadeupgrade-1.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Mekanism-1.21.1-10.7.19.85.jar@jar",
+          "name": "Mekanism-1.21.1-10.7.19.85",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11976009,
+            "MD5": "b491d4070087ec34864dc858fd22f90a",
+            "url": "http://151.240.30.11:10034/Mekanism-1.21.1-10.7.19.85.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MekanismAdditions-1.21.1-10.7.19.85.jar@jar",
+          "name": "MekanismAdditions-1.21.1-10.7.19.85",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1162551,
+            "MD5": "94cc2df24bfc527e518559ee01f683b8",
+            "url": "http://151.240.30.11:10034/MekanismAdditions-1.21.1-10.7.19.85.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekanismcurios-1.21.1-1.2.1.jar@jar",
+          "name": "mekanismcurios-1.21.1-1.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99159,
+            "MD5": "81b979183a575f0fdc6b076825d9f08e",
+            "url": "http://151.240.30.11:10034/mekanismcurios-1.21.1-1.2.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MekanismGenerators-1.21.1-10.7.19.85.jar@jar",
+          "name": "MekanismGenerators-1.21.1-10.7.19.85",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1114598,
+            "MD5": "1ccb5604857497903e330488a3871f0e",
+            "url": "http://151.240.30.11:10034/MekanismGenerators-1.21.1-10.7.19.85.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MekanismTools-1.21.1-10.7.19.85.jar@jar",
+          "name": "MekanismTools-1.21.1-10.7.19.85",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 526620,
+            "MD5": "b2531705f53c5eedb6412b06aa8781d6",
+            "url": "http://151.240.30.11:10034/MekanismTools-1.21.1-10.7.19.85.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MekanismWeapons-1.21.1-4.2.1.jar@jar",
+          "name": "MekanismWeapons-1.21.1-4.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 151327,
+            "MD5": "bc7501a10e67144a9a5a2feb3e5f58d1",
+            "url": "http://151.240.30.11:10034/MekanismWeapons-1.21.1-4.2.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekanism_lasers-1.1.10.3-c.jar@jar",
+          "name": "mekanism_lasers-1.1.10.3-c",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 196235,
+            "MD5": "ee8e11200afad6272d98c99662300d1b",
+            "url": "http://151.240.30.11:10034/mekanism_lasers-1.1.10.3-c.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekanism_trimming-1.21.1-1.0.jar@jar",
+          "name": "mekanism_trimming-1.21.1-1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 101312,
+            "MD5": "e71710014b978b05ce013bbf11d0b78f",
+            "url": "http://151.240.30.11:10034/mekanism_trimming-1.21.1-1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekanism_turrets-2.2.3.jar@jar",
+          "name": "mekanism_turrets-2.2.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 152127,
+            "MD5": "e693cb2f048b1c8030dfcf0e98d5f811",
+            "url": "http://151.240.30.11:10034/mekanism_turrets-2.2.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekanism_unleashed-0.3.4.jar@jar",
+          "name": "mekanism_unleashed-0.3.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20647,
+            "MD5": "ed0df67b4cae43bf92e45382826faf46",
+            "url": "http://151.240.30.11:10034/mekanism_unleashed-0.3.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekanism_weaponry-2.1.5.jar@jar",
+          "name": "mekanism_weaponry-2.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1014447,
+            "MD5": "19003073347d1173c00c34dd63db8b1f",
+            "url": "http://151.240.30.11:10034/mekanism_weaponry-2.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mekmm-1.21.1-1.4.1.jar@jar",
+          "name": "mekmm-1.21.1-1.4.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3659440,
+            "MD5": "0bce862ea4141b39ca7c6cf5b84905f4",
+            "url": "http://151.240.30.11:10034/mekmm-1.21.1-1.4.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mob_grinding_utils-1.1.10+mc1.21.1.jar@jar",
+          "name": "mob_grinding_utils-1.1.10+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1370085,
+            "MD5": "793c91d43a8d3f7a1636eac3f736da2a",
+            "url": "http://151.240.30.11:10034/mob_grinding_utils-1.1.10+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:modernfix-neoforge-5.27.24+mc1.21.1.jar@jar",
+          "name": "modernfix-neoforge-5.27.24+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 604333,
+            "MD5": "fc329974db57c6ec176b5a8b51899b3a",
+            "url": "http://151.240.30.11:10034/modernfix-neoforge-5.27.24+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:modonomicon-1.21.1-neoforge-1.120.4.jar@jar",
+          "name": "modonomicon-1.21.1-neoforge-1.120.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2399838,
+            "MD5": "e70ecd4d158d89d375459deaf0c4c74e",
+            "url": "http://151.240.30.11:10034/modonomicon-1.21.1-neoforge-1.120.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:modular-routers-13.2.7+mc1.21.1.jar@jar",
+          "name": "modular-routers-13.2.7+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1285765,
+            "MD5": "153c90f6ddadcea0b216d045e2a1687c",
+            "url": "http://151.240.30.11:10034/modular-routers-13.2.7+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3.jar@jar",
+          "name": "Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18773,
+            "MD5": "726ce29fe1217363ffb90d7eb2675e35",
+            "url": "http://151.240.30.11:10034/Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:moonlight-1.21.1-3.6.4-neoforge.jar@jar",
+          "name": "moonlight-1.21.1-3.6.4-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2228649,
+            "MD5": "d66e89ca88398921a425de1d51cfd442",
+            "url": "http://151.240.30.11:10034/moonlight-1.21.1-3.6.4-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:moreculling-neoforge-1.21.1-1.0.10.jar@jar",
+          "name": "moreculling-neoforge-1.21.1-1.0.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 335699,
+            "MD5": "72baa3f87a5395a58441491ead5aaac9",
+            "url": "http://151.240.30.11:10034/moreculling-neoforge-1.21.1-1.0.10.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MoreMekanismProcessing-1.21.1-6.8.jar@jar",
+          "name": "MoreMekanismProcessing-1.21.1-6.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 712991,
+            "MD5": "2b227a00583c4e354118f5e1c3b98c41",
+            "url": "http://151.240.30.11:10034/MoreMekanismProcessing-1.21.1-6.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:more_pylons-1.2.0-neoforge-1.21.1.jar@jar",
+          "name": "more_pylons-1.2.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 275641,
+            "MD5": "19ac4b8399f6601ee8eece6f0774ca5e",
+            "url": "http://151.240.30.11:10034/more_pylons-1.2.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MouseTweaks-neoforge-mc1.21-2.26.1.jar@jar",
+          "name": "MouseTweaks-neoforge-mc1.21-2.26.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73938,
+            "MD5": "4ab6e808a59fdebecfbc92438b85b470",
+            "url": "http://151.240.30.11:10034/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mystical-even-more-tier-1.21.1-0.1.0.jar@jar",
+          "name": "mystical-even-more-tier-1.21.1-0.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439539,
+            "MD5": "65ac502c897d3297ce692ac9d44bab7a",
+            "url": "http://151.240.30.11:10034/mystical-even-more-tier-1.21.1-0.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Mystical-Garden-Cloches-1.2.1.jar@jar",
+          "name": "Mystical-Garden-Cloches-1.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1032606,
+            "MD5": "18064c5d0afd86fda9e4bb0902309204",
+            "url": "http://151.240.30.11:10034/Mystical-Garden-Cloches-1.2.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MysticalAgradditions-1.21.1-8.0.14.jar@jar",
+          "name": "MysticalAgradditions-1.21.1-8.0.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 317874,
+            "MD5": "579f5c7f06adfb8464c7a5e93ffb02bb",
+            "url": "http://151.240.30.11:10034/MysticalAgradditions-1.21.1-8.0.14.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MysticalAgriculture-1.21.1-8.0.28.jar@jar",
+          "name": "MysticalAgriculture-1.21.1-8.0.28",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2324648,
+            "MD5": "047334c06ed8d1445b638a1cf80f5f03",
+            "url": "http://151.240.30.11:10034/MysticalAgriculture-1.21.1-8.0.28.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MysticalAutomation-1.21.1-1.0.7.jar@jar",
+          "name": "MysticalAutomation-1.21.1-1.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 281594,
+            "MD5": "38dd28a668b9e426e3974723c80827c9",
+            "url": "http://151.240.30.11:10034/MysticalAutomation-1.21.1-1.0.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MysticalCustomization-1.21.1-6.0.2.jar@jar",
+          "name": "MysticalCustomization-1.21.1-6.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 49374,
+            "MD5": "17fea0aa8d95b1b022f0446ff264dcc2",
+            "url": "http://151.240.30.11:10034/MysticalCustomization-1.21.1-6.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mysticaldelight-1.2.1.jar@jar",
+          "name": "mysticaldelight-1.2.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76008,
+            "MD5": "d9ede96692982ca9115d17f95f3ff3fc",
+            "url": "http://151.240.30.11:10034/mysticaldelight-1.2.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:MysticalExtendedTier-1.2.1.1-1.0.0.jar@jar",
+          "name": "MysticalExtendedTier-1.2.1.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299286,
+            "MD5": "3ecb88345fadc1910d0b67e3b7e8f553",
+            "url": "http://151.240.30.11:10034/MysticalExtendedTier-1.2.1.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mysticalextended_botanypots_comp-1.0.3-neoforge-1.21.1.jar@jar",
+          "name": "mysticalextended_botanypots_comp-1.0.3-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12327,
+            "MD5": "3982b032f7417dff60f5bc45e2dfb62b",
+            "url": "http://151.240.30.11:10034/mysticalextended_botanypots_comp-1.0.3-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:mystical_missing_items-1.2.2.jar@jar",
+          "name": "mystical_missing_items-1.2.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 233890,
+            "MD5": "8eb4bb847a008bd338ba22053d6f5993",
+            "url": "http://151.240.30.11:10034/mystical_missing_items-1.2.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:NaturesCompass-1.21.1-3.4.0-neoforge.jar@jar",
+          "name": "NaturesCompass-1.21.1-3.4.0-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 224657,
+            "MD5": "1cb785707bea10cfc5018fe37247963c",
+            "url": "http://151.240.30.11:10034/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:neoforge-1.21.1-1.1.0.jar@jar",
+          "name": "neoforge-1.21.1-1.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 234094,
+            "MD5": "047e4c1cca7003fb8960b300a3207033",
+            "url": "http://151.240.30.11:10034/neoforge-1.21.1-1.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:neoforge-3.24.4-1.21.1-alpha1.jar@jar",
+          "name": "neoforge-3.24.4-1.21.1-alpha1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25016068,
+            "MD5": "95649b11479696447c97af3f22388144",
+            "url": "http://151.240.30.11:10034/neoforge-3.24.4-1.21.1-alpha1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:neovitae-1.21.1-1.1.26.jar@jar",
+          "name": "neovitae-1.21.1-1.1.26",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13336773,
+            "MD5": "3400b0203a4f0000d7c770f178dd004f",
+            "url": "http://151.240.30.11:10034/neovitae-1.21.1-1.1.26.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:nether-s-exoticism-1.21.1-1.2.9.jar@jar",
+          "name": "nether-s-exoticism-1.21.1-1.2.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2975631,
+            "MD5": "1373acfbecbaa8245b22b53d3e95328d",
+            "url": "http://151.240.30.11:10034/nether-s-exoticism-1.21.1-1.2.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Nullscape_1.21.x_v1.2.14.jar@jar",
+          "name": "Nullscape_1.21.x_v1.2.14",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 355748,
+            "MD5": "ebd06c1b6e32947f0427f2a8d85a15f7",
+            "url": "http://151.240.30.11:10034/Nullscape_1.21.x_v1.2.14.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:occultengineering-1.21.1-0.13.1.jar@jar",
+          "name": "occultengineering-1.21.1-0.13.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646041,
+            "MD5": "d73a0bd80de2972332d38b0b005eff11",
+            "url": "http://151.240.30.11:10034/occultengineering-1.21.1-0.13.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:occultism-1.21.1-neoforge-1.224.4.jar@jar",
+          "name": "occultism-1.21.1-neoforge-1.224.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6951660,
+            "MD5": "00884eabef6dfa3de8570d3b684bee21",
+            "url": "http://151.240.30.11:10034/occultism-1.21.1-neoforge-1.224.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:occultism_kubejs-1.21.1-neoforge-1.11.0.jar@jar",
+          "name": "occultism_kubejs-1.21.1-neoforge-1.11.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 434372,
+            "MD5": "45bf1ccb8873b33f3d884b0c21961bc1",
+            "url": "http://151.240.30.11:10034/occultism_kubejs-1.21.1-neoforge-1.11.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:OctoLib-NEOFORGE-0.6.2+1.21.jar@jar",
+          "name": "OctoLib-NEOFORGE-0.6.2+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 544378,
+            "MD5": "f730e04600b6cd66ddac685362a9c9f3",
+            "url": "http://151.240.30.11:10034/OctoLib-NEOFORGE-0.6.2+1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:oritech-neoforge-1.21.1-1.2.12.jar@jar",
+          "name": "oritech-neoforge-1.21.1-1.2.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10995480,
+            "MD5": "3a7e25bfb154b60f24dd5ab4b321e12b",
+            "url": "http://151.240.30.11:10034/oritech-neoforge-1.21.1-1.2.12.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:oritech_steel_tools-neoforge-1.0.0.jar@jar",
+          "name": "oritech_steel_tools-neoforge-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25500,
+            "MD5": "0c956b6b2dedffa2fa878268e69c71e3",
+            "url": "http://151.240.30.11:10034/oritech_steel_tools-neoforge-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.jar@jar",
+          "name": "otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 661881,
+            "MD5": "2d64dcde5b42e5463c6528ad88250e5f",
+            "url": "http://151.240.30.11:10034/otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar@jar",
+          "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1221583,
+            "MD5": "4c8323c3d0493f7e82a2287e5ca9df7f",
+            "url": "http://151.240.30.11:10034/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:PackagedAuto-1.21.1-4.0.8.21.jar@jar",
+          "name": "PackagedAuto-1.21.1-4.0.8.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 573307,
+            "MD5": "1c42441290b979f7dbb4d7e0e94f6650",
+            "url": "http://151.240.30.11:10034/PackagedAuto-1.21.1-4.0.8.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:packetfixer-3.3.1-1.20.5-1.21.X-merged.jar@jar",
+          "name": "packetfixer-3.3.1-1.20.5-1.21.X-merged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 46623,
+            "MD5": "8f22fb065079340a72ae5ce0da12efcb",
+            "url": "http://151.240.30.11:10034/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:PackMenu-1.21.1-7.0.4.jar@jar",
+          "name": "PackMenu-1.21.1-7.0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 536228,
+            "MD5": "eee9305ffd1b892dd36fc515d57b9533",
+            "url": "http://151.240.30.11:10034/PackMenu-1.21.1-7.0.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:paladins-neoforge-3.1.1+1.21.1.jar@jar",
+          "name": "paladins-neoforge-3.1.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3114593,
+            "MD5": "27752b244ec888decb563afb41f56bf2",
+            "url": "http://151.240.30.11:10034/paladins-neoforge-3.1.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pamhc2fantasy-NEOFORGE-1.21.0-1.0.3.jar@jar",
+          "name": "pamhc2fantasy-NEOFORGE-1.21.0-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122237,
+            "MD5": "15c056cec0f615bdde8b0ebe9ce889a5",
+            "url": "http://151.240.30.11:10034/pamhc2fantasy-NEOFORGE-1.21.0-1.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar@jar",
+          "name": "pamhc2foodcore-NEOFORGE-1.21.1-1.0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1699044,
+            "MD5": "c3c7838571bdda548d08d692e0dc4a87",
+            "url": "http://151.240.30.11:10034/pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar@jar",
+          "name": "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1983616,
+            "MD5": "03d2aa7191dd29033fb23299c4715759",
+            "url": "http://151.240.30.11:10034/pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar@jar",
+          "name": "pamhc2trees-NEOFORGE-1.21.1-1.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1399642,
+            "MD5": "b3aca94e929ce765a52b6cc33f57c643",
+            "url": "http://151.240.30.11:10034/pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pamhc2tweak-1.21.1-1.3.2.jar@jar",
+          "name": "pamhc2tweak-1.21.1-1.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12322,
+            "MD5": "005dd52afd87c2864b6774d0089b1816",
+            "url": "http://151.240.30.11:10034/pamhc2tweak-1.21.1-1.3.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Patchouli-1.21.1-93-NEOFORGE.jar@jar",
+          "name": "Patchouli-1.21.1-93-NEOFORGE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 646777,
+            "MD5": "8178d65cd07dd7a646446729058ae2bf",
+            "url": "http://151.240.30.11:10034/Patchouli-1.21.1-93-NEOFORGE.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:phantasm-1.0.3.jar@jar",
+          "name": "phantasm-1.0.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6946958,
+            "MD5": "ed5a58069f626827ffb5ed5f0e17f2d6",
+            "url": "http://151.240.30.11:10034/phantasm-1.0.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pipez-neoforge-1.21.1-1.2.31.jar@jar",
+          "name": "pipez-neoforge-1.21.1-1.2.31",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 456599,
+            "MD5": "10f3b051500cb0c5068372ff5459419f",
+            "url": "http://151.240.30.11:10034/pipez-neoforge-1.21.1-1.2.31.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:PipIO-1.21.1-1.1.1.jar@jar",
+          "name": "PipIO-1.21.1-1.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3680304,
+            "MD5": "564aa634881ddb2ddb571f2bbd7daf1f",
+            "url": "http://151.240.30.11:10034/PipIO-1.21.1-1.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Placebo-1.21.1-9.9.2.jar@jar",
+          "name": "Placebo-1.21.1-9.9.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 324058,
+            "MD5": "208b373fb2bdc703cdd2e087753ed859",
+            "url": "http://151.240.30.11:10034/Placebo-1.21.1-9.9.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Platform-neoforge-1.21.1-1.3.3.jar@jar",
+          "name": "Platform-neoforge-1.21.1-1.3.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 489341,
+            "MD5": "e20292cd105330fffaa36c65adfc4dcd",
+            "url": "http://151.240.30.11:10034/Platform-neoforge-1.21.1-1.3.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:player-animation-lib-forge-2.0.4+1.21.1.jar@jar",
+          "name": "player-animation-lib-forge-2.0.4+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203149,
+            "MD5": "ecb81c9479605db12a77bea774b88406",
+            "url": "http://151.240.30.11:10034/player-animation-lib-forge-2.0.4+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pmc-1.0.1.jar@jar",
+          "name": "pmc-1.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66893,
+            "MD5": "b2211faaa1935da3bf8091c3b5bc56f2",
+            "url": "http://151.240.30.11:10034/pmc-1.0.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pneumaticcraft-repressurized-8.2.23+mc1.21.1.jar@jar",
+          "name": "pneumaticcraft-repressurized-8.2.23+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11884697,
+            "MD5": "91fd6b1ce29ecfff9526b303e166e737",
+            "url": "http://151.240.30.11:10034/pneumaticcraft-repressurized-8.2.23+mc1.21.1.jar"
+          }
+        },
+		{
+          "id": "generated.forgemod:iris-neoforge-1.8.14-beta.1+mc1.21.1.jar@jar",
+          "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2540723,
+            "MD5": "6b68276a6718656ec476cfac69dfe013",
+            "url": "http://151.240.30.11:10034/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:polymorph-neoforge-1.1.0+1.21.1.jar@jar",
+          "name": "polymorph-neoforge-1.1.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174972,
+            "MD5": "2368e0c92ae882677bbf4b87418656b9",
+            "url": "http://151.240.30.11:10034/polymorph-neoforge-1.1.0+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Powah-6.2.10.jar@jar",
+          "name": "Powah-6.2.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2737991,
+            "MD5": "38968f736f025bf002a6b8d52469f3c0",
+            "url": "http://151.240.30.11:10034/Powah-6.2.10.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:prickle-neoforge-1.21.1-21.1.11.jar@jar",
+          "name": "prickle-neoforge-1.21.1-21.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 84812,
+            "MD5": "533c154fb306cd8043564ee1533873ce",
+            "url": "http://151.240.30.11:10034/prickle-neoforge-1.21.1-21.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:productive-metalworks-kubejs-addon-1.0.0.jar@jar",
+          "name": "productive-metalworks-kubejs-addon-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13096,
+            "MD5": "bc7a93bc12b38f6f8e9d8fb25543bbf6",
+            "url": "http://151.240.30.11:10034/productive-metalworks-kubejs-addon-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:productivebees-1.21.1-13.13.5.jar@jar",
+          "name": "productivebees-1.21.1-13.13.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5216551,
+            "MD5": "f63d3ccb22a19ef397388242b8dde4dd",
+            "url": "http://151.240.30.11:10034/productivebees-1.21.1-13.13.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:productivebeesgenesis-1.0.7.jar@jar",
+          "name": "productivebeesgenesis-1.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1841637,
+            "MD5": "a0156d7127d8089ded80ba8cc186ddf9",
+            "url": "http://151.240.30.11:10034/productivebeesgenesis-1.0.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:productivemetalworks-1.21.1-1.15.1.jar@jar",
+          "name": "productivemetalworks-1.21.1-1.15.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3033210,
+            "MD5": "bf615df508e6d31cbfb0862c4b9c6ca9",
+            "url": "http://151.240.30.11:10034/productivemetalworks-1.21.1-1.15.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:productivetrees-1.21.1-1.1.1.jar@jar",
+          "name": "productivetrees-1.21.1-1.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14095830,
+            "MD5": "f68572e81df58a23597946b8ff44ec3d",
+            "url": "http://151.240.30.11:10034/productivetrees-1.21.1-1.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar@jar",
+          "name": "PuzzlesLib-v21.1.60-mc1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1442182,
+            "MD5": "388e99c69942cb7ff195e80f60f0bf13",
+            "url": "http://151.240.30.11:10034/PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:pylons-1.21.1-5.4.2.jar@jar",
+          "name": "pylons-1.21.1-5.4.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 217973,
+            "MD5": "ddd535cf46664353f99f8bc0ffa57cbd",
+            "url": "http://151.240.30.11:10034/pylons-1.21.1-5.4.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:railcraft-reborn-1.21.1-1.2.10.jar@jar",
+          "name": "railcraft-reborn-1.21.1-1.2.10",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5290986,
+            "MD5": "976c05843638a2ad321a2de564ee323a",
+            "url": "http://151.240.30.11:10034/railcraft-reborn-1.21.1-1.2.10.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:railcraftrecipes-1.0.3-neoforge-1.21.1.jar@jar",
+          "name": "railcraftrecipes-1.0.3-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55630,
+            "MD5": "f570cab5a3fe2a45a4c8d9a3baa76281",
+            "url": "http://151.240.30.11:10034/railcraftrecipes-1.0.3-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ranged_weapon_api-neoforge-3.0.0+1.21.1.jar@jar",
+          "name": "ranged_weapon_api-neoforge-3.0.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 163099,
+            "MD5": "718626850418839d05e1ac415921ae18",
+            "url": "http://151.240.30.11:10034/ranged_weapon_api-neoforge-3.0.0+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rechiseled-1.2.6-neoforge-mc1.21.jar@jar",
+          "name": "rechiseled-1.2.6-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11526036,
+            "MD5": "aa77900b51fbb92e3ecdda4fd24d7b3b",
+            "url": "http://151.240.30.11:10034/rechiseled-1.2.6-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rechiseledae-1.0.1-neoforge-mc1.21.1.jar@jar",
+          "name": "rechiseledae-1.0.1-neoforge-mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 910033,
+            "MD5": "9b0d612afc55f630306c66b81d1c5cb6",
+            "url": "http://151.240.30.11:10034/rechiseledae-1.0.1-neoforge-mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rechiseledcreate-1.1.1-neoforge-mc1.21.jar@jar",
+          "name": "rechiseledcreate-1.1.1-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 983177,
+            "MD5": "8505a2d73a0e11c73afa237005db311e",
+            "url": "http://151.240.30.11:10034/rechiseledcreate-1.1.1-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rechiseled_chipped-2.0-1.21.1.jar@jar",
+          "name": "rechiseled_chipped-2.0-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 177517,
+            "MD5": "a57d765a0bbb91a647ef73b3664cdc55",
+            "url": "http://151.240.30.11:10034/rechiseled_chipped-2.0-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refined-types-1.21.1-0.3.2.jar@jar",
+          "name": "refined-types-1.21.1-0.3.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 755931,
+            "MD5": "87e5ffd5f43e227f8f802c9b95370f67",
+            "url": "http://151.240.30.11:10034/refined-types-1.21.1-0.3.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refinedcooking-neoforge-1.21.1-6.4.1.jar@jar",
+          "name": "refinedcooking-neoforge-1.21.1-6.4.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 277151,
+            "MD5": "b907470ff4d8e07dbe164253fff72c8f",
+            "url": "http://151.240.30.11:10034/refinedcooking-neoforge-1.21.1-6.4.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refinedfluidsubstitution-neoforge-1.21.1-2.0.0.jar@jar",
+          "name": "refinedfluidsubstitution-neoforge-1.21.1-2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 42684,
+            "MD5": "f146fce0789ebdf87ae34e24ef23af9c",
+            "url": "http://151.240.30.11:10034/refinedfluidsubstitution-neoforge-1.21.1-2.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refinedstorage-curios-integration-1.0.0.jar@jar",
+          "name": "refinedstorage-curios-integration-1.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11177,
+            "MD5": "5bed520857f52a023edbac6ad9d061e4",
+            "url": "http://151.240.30.11:10034/refinedstorage-curios-integration-1.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refinedstorage-mekanism-integration-1.1.1.jar@jar",
+          "name": "refinedstorage-mekanism-integration-1.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 160633,
+            "MD5": "4bb972b676e226ec1db720fc286e3696",
+            "url": "http://151.240.30.11:10034/refinedstorage-mekanism-integration-1.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refinedstorage-neoforge-2.0.9.jar@jar",
+          "name": "refinedstorage-neoforge-2.0.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4360871,
+            "MD5": "dcfb8559ee4ba287b0cd06db346ef069",
+            "url": "http://151.240.30.11:10034/refinedstorage-neoforge-2.0.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refinedstorage-quartz-arsenal-neoforge-1.0.8.jar@jar",
+          "name": "refinedstorage-quartz-arsenal-neoforge-1.0.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67115,
+            "MD5": "c4d0ce8ee61c91e71bd77efa29268b30",
+            "url": "http://151.240.30.11:10034/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:refurbished_furniture-neoforge-1.21.1-1.0.22.jar@jar",
+          "name": "refurbished_furniture-neoforge-1.21.1-1.0.22",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7133477,
+            "MD5": "7379bc72b92f838949c073961dc72351",
+            "url": "http://151.240.30.11:10034/refurbished_furniture-neoforge-1.21.1-1.0.22.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:regions-unexplored-0.6.2-neoforge-21.1.jar@jar",
+          "name": "regions-unexplored-0.6.2-neoforge-21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6365953,
+            "MD5": "076eff71d0b469d9009d4a2083a1c1ad",
+            "url": "http://151.240.30.11:10034/regions-unexplored-0.6.2-neoforge-21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:relics-1.21.1-0.12.8.jar@jar",
+          "name": "relics-1.21.1-0.12.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5007593,
+            "MD5": "a16c4fadaa2738addd0ecafa9937e1cd",
+            "url": "http://151.240.30.11:10034/relics-1.21.1-0.12.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar@jar",
+          "name": "reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 653721,
+            "MD5": "b7f38eb96d5adac744bd2010f3b4bafd",
+            "url": "http://151.240.30.11:10034/reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:remotedesk-1.0.2-neoforge-1.21.1.jar@jar",
+          "name": "remotedesk-1.0.2-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2278682,
+            "MD5": "e4e3b5fa55b2a2370485b543c32b925c",
+            "url": "http://151.240.30.11:10034/remotedesk-1.0.2-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:reptilian-1.1.0-neoforge-1.21.1.jar@jar",
+          "name": "reptilian-1.1.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 928501,
+            "MD5": "55152258237b95b4562fa317ea223751",
+            "url": "http://151.240.30.11:10034/reptilian-1.1.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:repurposed_structures-7.5.22+1.21.1-neoforge.jar@jar",
+          "name": "repurposed_structures-7.5.22+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8246760,
+            "MD5": "c5974a0401e066cd5ebc3c950f8fbf95",
+            "url": "http://151.240.30.11:10034/repurposed_structures-7.5.22+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:repurposed_structures_farmers_delight_compat_v7.jar@jar",
+          "name": "repurposed_structures_farmers_delight_compat_v7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57233,
+            "MD5": "ed397ba6e15ad29dbd0d1e82780be159",
+            "url": "http://151.240.30.11:10034/repurposed_structures_farmers_delight_compat_v7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:resourcefulconfig-neoforge-1.21-3.0.11.jar@jar",
+          "name": "resourcefulconfig-neoforge-1.21-3.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341009,
+            "MD5": "84ff2805a591b10d22b7e0c69b44246c",
+            "url": "http://151.240.30.11:10034/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:resourcefullib-neoforge-1.21-3.0.12.jar@jar",
+          "name": "resourcefullib-neoforge-1.21-3.0.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 484332,
+            "MD5": "32da88903167d24bb20febeeb2c79225",
+            "url": "http://151.240.30.11:10034/resourcefullib-neoforge-1.21-3.0.12.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rftoolsbase-1.21-6.0.11.jar@jar",
+          "name": "rftoolsbase-1.21-6.0.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 463973,
+            "MD5": "782105e21abff52527699afd70b177a1",
+            "url": "http://151.240.30.11:10034/rftoolsbase-1.21-6.0.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rftoolsbuilder-1.21-7.0.6.jar@jar",
+          "name": "rftoolsbuilder-1.21-7.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1054873,
+            "MD5": "dcbc45713bacf51371b99c2de98078de",
+            "url": "http://151.240.30.11:10034/rftoolsbuilder-1.21-7.0.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rftoolscontrol-1.21-8.0.2.jar@jar",
+          "name": "rftoolscontrol-1.21-8.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 677713,
+            "MD5": "de98c02b2edcc72b40d5922cbf6958c0",
+            "url": "http://151.240.30.11:10034/rftoolscontrol-1.21-8.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rftoolsdim-1.21-12.0.4.jar@jar",
+          "name": "rftoolsdim-1.21-12.0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1755195,
+            "MD5": "2e1caf45975a2412490c03fc77fc54e2",
+            "url": "http://151.240.30.11:10034/rftoolsdim-1.21-12.0.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rftoolspower-1.21-7.0.6.jar@jar",
+          "name": "rftoolspower-1.21-7.0.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 579975,
+            "MD5": "918ed37e372aadcbf52d0cdd4556bbab",
+            "url": "http://151.240.30.11:10034/rftoolspower-1.21-7.0.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rftoolsstorage-1.21-6.0.5.jar@jar",
+          "name": "rftoolsstorage-1.21-6.0.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398718,
+            "MD5": "73bddfaf83e777eca411d7147bb0b010",
+            "url": "http://151.240.30.11:10034/rftoolsstorage-1.21-6.0.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rftoolsutility-1.21-7.0.12.jar@jar",
+          "name": "rftoolsutility-1.21-7.0.12",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1434987,
+            "MD5": "3ccb41ad814e938e9c36914b6e98e90c",
+            "url": "http://151.240.30.11:10034/rftoolsutility-1.21-7.0.12.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rfts_additions-1.0.0-neoforge-1.21.1.jar@jar",
+          "name": "rfts_additions-1.0.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18328,
+            "MD5": "dfb4757a724037da3d234f7d995a951d",
+            "url": "http://151.240.30.11:10034/rfts_additions-1.0.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rhino-2101.2.7-build.85.jar@jar",
+          "name": "rhino-2101.2.7-build.85",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 882075,
+            "MD5": "f5df23fab1aef88b69f67776e0f79904",
+            "url": "http://151.240.30.11:10034/rhino-2101.2.7-build.85.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rice_delight-2.0.0.jar@jar",
+          "name": "rice_delight-2.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 117103,
+            "MD5": "49dedea8b9234dfea0ab32ee77827852",
+            "url": "http://151.240.30.11:10034/rice_delight-2.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rightclickharvest-neoforge-4.6.1+1.21.1.jar@jar",
+          "name": "rightclickharvest-neoforge-4.6.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 287634,
+            "MD5": "b1188249c44aed7f666ff89ab591e9a4",
+            "url": "http://151.240.30.11:10034/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar@jar",
+          "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76369,
+            "MD5": "1772f7d2ef79cdb3e77ff0335fe7f3f8",
+            "url": "http://151.240.30.11:10034/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rogues-neoforge-3.1.1+1.21.1.jar@jar",
+          "name": "rogues-neoforge-3.1.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1750309,
+            "MD5": "8368b55ec1e4746f75e0b8e615c7ab11",
+            "url": "http://151.240.30.11:10034/rogues-neoforge-3.1.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rottencreatures-neoforge-1.21.1-1.1.2.jar@jar",
+          "name": "rottencreatures-neoforge-1.21.1-1.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2608616,
+            "MD5": "8b07792ba873d523dd49e0b06e0f78ca",
+            "url": "http://151.240.30.11:10034/rottencreatures-neoforge-1.21.1-1.1.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar@jar",
+          "name": "rsinfinitybooster-neoforge-1.21.1-1.0.0.48",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25726,
+            "MD5": "018d4191fea287f63a5df53f26e0a927",
+            "url": "http://151.240.30.11:10034/rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rsinsertexportupgrade-neoforge-1.21.1-2.1.1.jar@jar",
+          "name": "rsinsertexportupgrade-neoforge-1.21.1-2.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 140202,
+            "MD5": "338c0b610f0530f45b62bebf423e975c",
+            "url": "http://151.240.30.11:10034/rsinsertexportupgrade-neoforge-1.21.1-2.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rspolymorph-neoforge-1.21.1-1.2.2.jar@jar",
+          "name": "rspolymorph-neoforge-1.21.1-1.2.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 73682,
+            "MD5": "e8f4fcb4cff403032918c54c58d0a446",
+            "url": "http://151.240.30.11:10034/rspolymorph-neoforge-1.21.1-1.2.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:rsrequestify-1.21.1-3.0.0.jar@jar",
+          "name": "rsrequestify-1.21.1-3.0.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 72172,
+            "MD5": "ee830c392bf290f6d62282ec1ee9b3a9",
+            "url": "http://151.240.30.11:10034/rsrequestify-1.21.1-3.0.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:runes-neoforge-1.3.2+1.21.1.jar@jar",
+          "name": "runes-neoforge-1.3.2+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 329875,
+            "MD5": "44dc71931bc8ff8a12190aefc2adaecf",
+            "url": "http://151.240.30.11:10034/runes-neoforge-1.3.2+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sawmill-1.21-1.8.1-neoforge.jar@jar",
+          "name": "sawmill-1.21-1.8.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 455580,
+            "MD5": "0fb833bdfe525a8c34d6ca4d7a4c0eef",
+            "url": "http://151.240.30.11:10034/sawmill-1.21-1.8.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Searchables-neoforge-1.21.1-1.0.2.jar@jar",
+          "name": "Searchables-neoforge-1.21.1-1.0.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77326,
+            "MD5": "0a0a8665bb4d77e3f8139750cb98d9e4",
+            "url": "http://151.240.30.11:10034/Searchables-neoforge-1.21.1-1.0.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sgearmetalworks-1.21.1-1.5.0.jar@jar",
+          "name": "sgearmetalworks-1.21.1-1.5.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 638209,
+            "MD5": "dc4d9c89e723247246d50c00d9b69598",
+            "url": "http://151.240.30.11:10034/sgearmetalworks-1.21.1-1.5.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:shetiphiancore-neoforge-1.21.1-1.1.jar@jar",
+          "name": "shetiphiancore-neoforge-1.21.1-1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 478719,
+            "MD5": "de27eb16bf1c956d5dc5deee30ebec2f",
+            "url": "http://151.240.30.11:10034/shetiphiancore-neoforge-1.21.1-1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:silent-gear-1.21.1-neoforge-4.2.1.1.jar@jar",
+          "name": "silent-gear-1.21.1-neoforge-4.2.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3147675,
+            "MD5": "5a3a6d396490c50b639ba03898eda502",
+            "url": "http://151.240.30.11:10034/silent-gear-1.21.1-neoforge-4.2.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:silent-lib-1.21.1-neoforge-10.6.0.jar@jar",
+          "name": "silent-lib-1.21.1-neoforge-10.6.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 268791,
+            "MD5": "f004bb1aadce732b75ac63b5772c98f9",
+            "url": "http://151.240.30.11:10034/silent-lib-1.21.1-neoforge-10.6.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:simplehats-neoforge-1.21.1-0.4.0.jar@jar",
+          "name": "simplehats-neoforge-1.21.1-0.4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1400084,
+            "MD5": "863d21d5393140dca28c68dda7bc172d",
+            "url": "http://151.240.30.11:10034/simplehats-neoforge-1.21.1-0.4.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:simplemagnets-1.1.12c-neoforge-mc1.21.jar@jar",
+          "name": "simplemagnets-1.1.12c-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 146262,
+            "MD5": "bde093bc00d237541a04b5a40d55b673",
+            "url": "http://151.240.30.11:10034/simplemagnets-1.1.12c-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:simplemenu-1.21.1-2.0.jar@jar",
+          "name": "simplemenu-1.21.1-2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85097,
+            "MD5": "3685fc3a14872928615a1259405eede4",
+            "url": "http://151.240.30.11:10034/simplemenu-1.21.1-2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:simplylight-1.5.3+1.21.1-b4.jar@jar",
+          "name": "simplylight-1.5.3+1.21.1-b4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1103352,
+            "MD5": "b16de230f2d97bb791164277212091c5",
+            "url": "http://151.240.30.11:10034/simplylight-1.5.3+1.21.1-b4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:simplyswords-neoforge-1.70.2-1.21.1.jar@jar",
+          "name": "simplyswords-neoforge-1.70.2-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16282660,
+            "MD5": "0b4f974fc1777630b914fc0d5e7bc261",
+            "url": "http://151.240.30.11:10034/simplyswords-neoforge-1.70.2-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:SimplyTooltips-neoforge-0.1.5.jar@jar",
+          "name": "SimplyTooltips-neoforge-0.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5512986,
+            "MD5": "aa19ef7ccb2d6cbbfd3f093f7881f4ae",
+            "url": "http://151.240.30.11:10034/SimplyTooltips-neoforge-0.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:SmartBrainLib-neoforge-1.21.1-1.16.11.jar@jar",
+          "name": "SmartBrainLib-neoforge-1.21.1-1.16.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 391053,
+            "MD5": "252a7712a2c5d020d673f276dba280ee",
+            "url": "http://151.240.30.11:10034/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sodium-neoforge-0.8.13+mc1.21.1.jar@jar",
+          "name": "sodium-neoforge-0.8.13+mc1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1292934,
+            "MD5": "c2bc7287841c29e25ce553baae1700a0",
+            "url": "http://151.240.30.11:10034/sodium-neoforge-0.8.13+mc1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedbackpacks-1.21.1-3.26.3.2158.jar@jar",
+          "name": "sophisticatedbackpacks-1.21.1-3.26.3.2158",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1251706,
+            "MD5": "fe8fdaf241eed5f9fc145b1ec2a9e935",
+            "url": "http://151.240.30.11:10034/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedcore-1.21.1-1.5.1.2341.jar@jar",
+          "name": "sophisticatedcore-1.21.1-1.5.1.2341",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1785221,
+            "MD5": "0419dc6f4813c1f45a6411a1ac53c98a",
+            "url": "http://151.240.30.11:10034/sophisticatedcore-1.21.1-1.5.1.2341.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedstorage-1.21.1-1.5.91.2127.jar@jar",
+          "name": "sophisticatedstorage-1.21.1-1.5.91.2127",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1869204,
+            "MD5": "1a1629da403c9eb0d68e6091d31f9851",
+            "url": "http://151.240.30.11:10034/sophisticatedstorage-1.21.1-1.5.91.2127.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar@jar",
+          "name": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 134163,
+            "MD5": "c2b487174cce707a703991d9c28e1ef4",
+            "url": "http://151.240.30.11:10034/sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:specs_irons_spellbooks-1.6.5.jar@jar",
+          "name": "specs_irons_spellbooks-1.6.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 695043,
+            "MD5": "f02f8080620a2ad8141b63c7d6338e71",
+            "url": "http://151.240.30.11:10034/specs_irons_spellbooks-1.6.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:spell_actionbar-1.1.4.jar@jar",
+          "name": "spell_actionbar-1.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 135977,
+            "MD5": "431d2ff2701c3e70fc7432854984b85c",
+            "url": "http://151.240.30.11:10034/spell_actionbar-1.1.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:spell_engine-neoforge-1.10.6+1.21.1.jar@jar",
+          "name": "spell_engine-neoforge-1.10.6+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4596107,
+            "MD5": "5cbf0ea23b40c09295bd5732b5155898",
+            "url": "http://151.240.30.11:10034/spell_engine-neoforge-1.10.6+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:spell_power-neoforge-1.6.0+1.21.1.jar@jar",
+          "name": "spell_power-neoforge-1.6.0+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 222955,
+            "MD5": "38c91beae811c1d19e68d66bd955ac8c",
+            "url": "http://151.240.30.11:10034/spell_power-neoforge-1.6.0+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:stepcrafter-neoforge-1.21.1-0.1.9.jar@jar",
+          "name": "stepcrafter-neoforge-1.21.1-0.1.9",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 613638,
+            "MD5": "30c5212b678abe61cf8d2ef77cfd2ed9",
+            "url": "http://151.240.30.11:10034/stepcrafter-neoforge-1.21.1-0.1.9.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:stockbridge-1.0.4.jar@jar",
+          "name": "stockbridge-1.0.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 205481,
+            "MD5": "75bbf1db1e8788a5ffccaa4a9288f608",
+            "url": "http://151.240.30.11:10034/stockbridge-1.0.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Stoneworks-v21.1.0-1.21.1-NeoForge.jar@jar",
+          "name": "Stoneworks-v21.1.0-1.21.1-NeoForge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1996861,
+            "MD5": "716477ec912b7f6afae698f77b0b20e9",
+            "url": "http://151.240.30.11:10034/Stoneworks-v21.1.0-1.21.1-NeoForge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:StorageDrawers-neoforge-1.21.1-13.11.4.jar@jar",
+          "name": "StorageDrawers-neoforge-1.21.1-13.11.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1131420,
+            "MD5": "db8d101ed47f3f828526a1604334e5a6",
+            "url": "http://151.240.30.11:10034/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:structure_pool_api-neoforge-1.2.1+1.21.1.jar@jar",
+          "name": "structure_pool_api-neoforge-1.2.1+1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 140459,
+            "MD5": "611a331200f31b9c971bad66c48c0fd6",
+            "url": "http://151.240.30.11:10034/structure_pool_api-neoforge-1.2.1+1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:supermartijn642configlib-1.1.8-neoforge-mc1.21.jar@jar",
+          "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 207514,
+            "MD5": "0428149c5db7bad43d75e6f758f47678",
+            "url": "http://151.240.30.11:10034/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:supermartijn642corelib-1.1.24-neoforge-mc1.21.jar@jar",
+          "name": "supermartijn642corelib-1.1.24-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 560783,
+            "MD5": "b4dfa610aeb3953f2c4dd901ca0dfdfc",
+            "url": "http://151.240.30.11:10034/supermartijn642corelib-1.1.24-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:supplementaries-1.21.1-3.9.9-neoforge.jar@jar",
+          "name": "supplementaries-1.21.1-3.9.9-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13548968,
+            "MD5": "68826f7de4c0b7c71a8853d80680423f",
+            "url": "http://151.240.30.11:10034/supplementaries-1.21.1-3.9.9-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar@jar",
+          "name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 57242132,
+            "MD5": "c98554e37a412317990a8b2b36aa3bba",
+            "url": "http://151.240.30.11:10034/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:TerraBlender-neoforge-1.21.1-4.1.0.8.jar@jar",
+          "name": "TerraBlender-neoforge-1.21.1-4.1.0.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 120364,
+            "MD5": "9510cef4ca24d7f6bc3144dbf6693f7d",
+            "url": "http://151.240.30.11:10034/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:tesseract-api-neoforge-1.12.16-1.21.1.jar@jar",
+          "name": "tesseract-api-neoforge-1.12.16-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 758333,
+            "MD5": "affcfb45e918f47f9fd2957912662378",
+            "url": "http://151.240.30.11:10034/tesseract-api-neoforge-1.12.16-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:thaumon-neoforge-2.3.0+1.21.jar@jar",
+          "name": "thaumon-neoforge-2.3.0+1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 608500,
+            "MD5": "f33e21bd7f06404ba76dfb10bc79b8d1",
+            "url": "http://151.240.30.11:10034/thaumon-neoforge-2.3.0+1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar@jar",
+          "name": "THEUNDEADREVAMPED_1.8f_1.21.1 neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7473761,
+            "MD5": "0a8d791b4ccfe836827b02171f80ff16",
+            "url": "http://151.240.30.11:10034/THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:theurgy-1.21.1-neoforge-1.76.1.jar@jar",
+          "name": "theurgy-1.21.1-neoforge-1.76.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5324579,
+            "MD5": "a116cc93df966cc4830aca37161cda80",
+            "url": "http://151.240.30.11:10034/theurgy-1.21.1-neoforge-1.76.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:theurgy_kubejs-1.21.1-neoforge-1.6.0.jar@jar",
+          "name": "theurgy_kubejs-1.21.1-neoforge-1.6.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25206,
+            "MD5": "5a6f8a4e407a50064b5ace35af87627b",
+            "url": "http://151.240.30.11:10034/theurgy_kubejs-1.21.1-neoforge-1.6.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:the_bumblezone-7.15.3+1.21.1-neoforge.jar@jar",
+          "name": "the_bumblezone-7.15.3+1.21.1-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 69672269,
+            "MD5": "726d8bfc4b68c2260d97aa7288b61712",
+            "url": "http://151.240.30.11:10034/the_bumblezone-7.15.3+1.21.1-neoforge.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:The_Undergarden-1.21.1-0.9.6.jar@jar",
+          "name": "The_Undergarden-1.21.1-0.9.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 45294936,
+            "MD5": "e60107eb8cc3cab98883acb91e124e05",
+            "url": "http://151.240.30.11:10034/The_Undergarden-1.21.1-0.9.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:titanium-1.21-4.0.50.jar@jar",
+          "name": "titanium-1.21-4.0.50",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 607012,
+            "MD5": "d42102ed1438a52d5f3dfd41fa4f9be0",
+            "url": "http://151.240.30.11:10034/titanium-1.21-4.0.50.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:tombstone-neoforge-1.21.1-9.5.6.jar@jar",
+          "name": "tombstone-neoforge-1.21.1-9.5.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2520705,
+            "MD5": "4e1d747d571bae3758dfd41c53657cb8",
+            "url": "http://151.240.30.11:10034/tombstone-neoforge-1.21.1-9.5.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:trainutilities-neoforge-3.1.0.jar@jar",
+          "name": "trainutilities-neoforge-3.1.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5053928,
+            "MD5": "c015e44e75af737679c3ddb2685f9566",
+            "url": "http://151.240.30.11:10034/trainutilities-neoforge-3.1.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:trashcans-1.1.0-neoforge-mc1.21.jar@jar",
+          "name": "trashcans-1.1.0-neoforge-mc1.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 167687,
+            "MD5": "7ef10da4815a4485b25a83ad9a31d7f2",
+            "url": "http://151.240.30.11:10034/trashcans-1.1.0-neoforge-mc1.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:trashslot-neoforge-1.21.1-21.1.11.jar@jar",
+          "name": "trashslot-neoforge-1.21.1-21.1.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77535,
+            "MD5": "3de363a7dbc6eadca2ce6fd40531392b",
+            "url": "http://151.240.30.11:10034/trashslot-neoforge-1.21.1-21.1.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:Twigs-1.21.1-3.1.2.jar@jar",
+          "name": "Twigs-1.21.1-3.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2711016,
+            "MD5": "5d88819c7aa9042f775106827200a379",
+            "url": "http://151.240.30.11:10034/Twigs-1.21.1-3.1.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:twilightforest-1.21.1-4.8.3345-universal.jar@jar",
+          "name": "twilightforest-1.21.1-4.8.3345-universal",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27154121,
+            "MD5": "c1e465c8b2855902368ff4679e1fc2e7",
+            "url": "http://151.240.30.11:10034/twilightforest-1.21.1-4.8.3345-universal.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:twilight_lootr-neoforge-1.21.1-0.0.0.1.jar@jar",
+          "name": "twilight_lootr-neoforge-1.21.1-0.0.0.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74976,
+            "MD5": "46ce8317c2e242a4ec75a43035af7970",
+            "url": "http://151.240.30.11:10034/twilight_lootr-neoforge-1.21.1-0.0.0.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:twilight_spellbooks-1.2.0.jar@jar",
+          "name": "twilight_spellbooks-1.2.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 135303,
+            "MD5": "107b88772cc13f63c072e453943418b8",
+            "url": "http://151.240.30.11:10034/twilight_spellbooks-1.2.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:t_and_t-fabric-neoforge-1.13.11.jar@jar",
+          "name": "t_and_t-fabric-neoforge-1.13.11",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3553006,
+            "MD5": "85c641d5f8b58f7ab27c7c42e58489a7",
+            "url": "http://151.240.30.11:10034/t_and_t-fabric-neoforge-1.13.11.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:undergardendelight-2.0.3-neoforge-1.21.1.jar@jar",
+          "name": "undergardendelight-2.0.3-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 767754,
+            "MD5": "ff5753bde1ce352ca04163b784ee3181",
+            "url": "http://151.240.30.11:10034/undergardendelight-2.0.3-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:update_2.jar@jar",
+          "name": "update_2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 61487,
+            "MD5": "3adea3da6478118af84f0e1aba869b83",
+            "url": "http://151.240.30.11:10034/update_2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:valhelsia_core-neoforge-1.21.1-1.1.5.jar@jar",
+          "name": "valhelsia_core-neoforge-1.21.1-1.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181277,
+            "MD5": "fa4e50fc4d817c0f9de04d1e8d2418d4",
+            "url": "http://151.240.30.11:10034/valhelsia_core-neoforge-1.21.1-1.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:voicechat-neoforge-1.21.1-2.6.22.jar@jar",
+          "name": "voicechat-neoforge-1.21.1-2.6.22",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4918442,
+            "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51",
+            "url": "http://151.240.30.11:10034/voicechat-neoforge-1.21.1-2.6.22.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:waystones-neoforge-1.21.1-21.1.45.jar@jar",
+          "name": "waystones-neoforge-1.21.1-21.1.45",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1219809,
+            "MD5": "c714e17142529e26e960f6760aa17c6f",
+            "url": "http://151.240.30.11:10034/waystones-neoforge-1.21.1-21.1.45.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:woodenbucket-neoforge-1.21-4.1.4.0.jar@jar",
+          "name": "woodenbucket-neoforge-1.21-4.1.4.0",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27087,
+            "MD5": "b4c1ffad5a394398a126894e5699a77e",
+            "url": "http://151.240.30.11:10034/woodenbucket-neoforge-1.21-4.1.4.0.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:xnet-1.21-7.0.7.jar@jar",
+          "name": "xnet-1.21-7.0.7",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 611577,
+            "MD5": "30a275af4cb6886f6c2f13c5397b6cc1",
+            "url": "http://151.240.30.11:10034/xnet-1.21-7.0.7.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:xycraft_core-0.7.53-all.jar@jar",
+          "name": "xycraft_core-0.7.53-all",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2327963,
+            "MD5": "18338910aa4479c4771398eb52997dba",
+            "url": "http://151.240.30.11:10034/xycraft_core-0.7.53-all.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:xycraft_machines-0.7.53.jar@jar",
+          "name": "xycraft_machines-0.7.53",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3056398,
+            "MD5": "0cabb0bb4340d4308eb84829331e7de1",
+            "url": "http://151.240.30.11:10034/xycraft_machines-0.7.53.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:xycraft_override-0.7.53.jar@jar",
+          "name": "xycraft_override-0.7.53",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 905075,
+            "MD5": "dd6f1fac4284dfd0f6f7ded5908c2587",
+            "url": "http://151.240.30.11:10034/xycraft_override-0.7.53.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:xycraft_world-0.7.53.jar@jar",
+          "name": "xycraft_world-0.7.53",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1224337,
+            "MD5": "0b9f084bfc448a6d4e2ea4291d1e0d24",
+            "url": "http://151.240.30.11:10034/xycraft_world-0.7.53.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ycurrenci-2.1.0-neoforge-1.21.1.jar@jar",
+          "name": "ycurrenci-2.1.0-neoforge-1.21.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2028754,
+            "MD5": "e7c1c5257c8f2f20db43465749fcaec7",
+            "url": "http://151.240.30.11:10034/ycurrenci-2.1.0-neoforge-1.21.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsApi-1.21.1-NeoForge-5.1.8.jar@jar",
+          "name": "YungsApi-1.21.1-NeoForge-5.1.8",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 389834,
+            "MD5": "3ebbdb2620b4b8a97166653479df9809",
+            "url": "http://151.240.30.11:10034/YungsApi-1.21.1-NeoForge-5.1.8.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar@jar",
+          "name": "YungsBetterCaves-1.21.1-NeoForge-3.1.6",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 400316,
+            "MD5": "4f1fa10a208291f6986f2fc44313da0a",
+            "url": "http://151.240.30.11:10034/YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar@jar",
+          "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 905839,
+            "MD5": "b82db719aea459c2529f12bcc835366f",
+            "url": "http://151.240.30.11:10034/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar@jar",
+          "name": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 782160,
+            "MD5": "91ab689aec35d6929682c147be2d57ed",
+            "url": "http://151.240.30.11:10034/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar@jar",
+          "name": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398130,
+            "MD5": "19262cc94f95f04dafe9d1bbb34dd856",
+            "url": "http://151.240.30.11:10034/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar@jar",
+          "name": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 795839,
+            "MD5": "6a1327dda25d75ea551b7fc01c25b963",
+            "url": "http://151.240.30.11:10034/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar@jar",
+          "name": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 493967,
+            "MD5": "f81789d1443949d17089130feba53710",
+            "url": "http://151.240.30.11:10034/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar@jar",
+          "name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 609639,
+            "MD5": "29c1c85f6c9e55ae75397983fb07b9bb",
+            "url": "http://151.240.30.11:10034/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar@jar",
+          "name": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1025571,
+            "MD5": "4ab69c30540c6a583c047a696ae97658",
+            "url": "http://151.240.30.11:10034/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar@jar",
+          "name": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 461244,
+            "MD5": "43266a72adc75ba8bb2e234e065e6139",
+            "url": "http://151.240.30.11:10034/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar@jar",
+          "name": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 174789,
+            "MD5": "a8a2a58513cc30de918f0fa50dc7a4a4",
+            "url": "http://151.240.30.11:10034/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:YungsExtras-1.21.1-NeoForge-5.1.1.jar@jar",
+          "name": "YungsExtras-1.21.1-NeoForge-5.1.1",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 198183,
+            "MD5": "61a189ae7ffcf35ebe577582b2d683f0",
+            "url": "http://151.240.30.11:10034/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:ZeroCore2-1.21.1-2.4.21.jar@jar",
+          "name": "ZeroCore2-1.21.1-2.4.21",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1551013,
+            "MD5": "64737cae90157c378ba9aee11e9098e3",
+            "url": "http://151.240.30.11:10034/ZeroCore2-1.21.1-2.4.21.jar"
+          }
+        },
+        {
+          "id": "generated.forgemod:[1.21.1] Roll Delight-1.3.0-neoforge.jar@jar",
+          "name": "[1.21.1] Roll Delight-1.3.0-neoforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 143358,
+            "MD5": "3db9b7c212313a43a86c948bc6353295",
+            "url": "http://151.240.30.11:10034/[1.21.1] Roll Delight-1.3.0-neoforge.jar"
+          }
+        },
+		          "id": "neoforge-client.toml",
           "name": "neoforge-client.toml",
           "type": "File",
           "artifact": {
@@ -1171,7 +4677,7 @@
             "path": "config/packmenu.cfg"
           }
         },
-        {
+		        {
           "id": "placebo.cfg",
           "name": "placebo.cfg",
           "type": "File",
@@ -1270,293 +4776,7 @@
             "path": "config/simplemenu.json5"
           }
         },
-        {
-          "id": "background.png",
-          "name": "background.png",
-          "type": "File",
-          "artifact": {
-            "size": 995706,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/background.png",
-            "MD5": "5fcd0586be1ee7663c6efabfb03dca24",
-            "path": "config/simplesplashscreen/background.png"
-          }
-        },
-        {
-          "id": "mojangstudios.png",
-          "name": "mojangstudios.png",
-          "type": "File",
-          "artifact": {
-            "size": 99303,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/mojangstudios.png",
-            "MD5": "4d37dabed3f8ad7d52c3d705b030f365",
-            "path": "config/simplesplashscreen/mojangstudios.png"
-          }
-        },
-        {
-          "id": "mojank.png",
-          "name": "mojank.png",
-          "type": "File",
-          "artifact": {
-            "size": 50517,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/mojank.png",
-            "MD5": "973c913f0a82de6fce163dda091000d6",
-            "path": "config/simplesplashscreen/mojank.png"
-          }
-        },
-        {
-          "id": "progressbar.png",
-          "name": "progressbar.png",
-          "type": "File",
-          "artifact": {
-            "size": 257,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/progressbar.png",
-            "MD5": "d345e0c48a128b83b7ae724c20e4b5aa",
-            "path": "config/simplesplashscreen/progressbar.png"
-          }
-        },
-        {
-          "id": "progressbar_background.png",
-          "name": "progressbar_background.png",
-          "type": "File",
-          "artifact": {
-            "size": 239,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen/progressbar_background.png",
-            "MD5": "4bfcd281f4125bac872b0b1bb9a60f91",
-            "path": "config/simplesplashscreen/progressbar_background.png"
-          }
-        },
-        {
-          "id": "simplesplashscreen.json5",
-          "name": "simplesplashscreen.json5",
-          "type": "File",
-          "artifact": {
-            "size": 1011,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/simplesplashscreen.json5",
-            "MD5": "8273900cff9fa77382515dc7607f84cb",
-            "path": "config/simplesplashscreen.json5"
-          }
-        },
-        {
-          "id": "sodium-extra-options.json",
-          "name": "sodium-extra-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 2137,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sodium-extra-options.json",
-            "MD5": "f92ebf2ebc08bcfe74cfd2c86e423633",
-            "path": "config/sodium-extra-options.json"
-          }
-        },
-        {
-          "id": "sodium-extra.properties",
-          "name": "sodium-extra.properties",
-          "type": "File",
-          "artifact": {
-            "size": 360,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sodium-extra.properties",
-            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
-            "path": "config/sodium-extra.properties"
-          }
-        },
-        {
-          "id": "sodium-fingerprint.json",
-          "name": "sodium-fingerprint.json",
-          "type": "File",
-          "artifact": {
-            "size": 427,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sodium-fingerprint.json",
-            "MD5": "f3a777fd7400fcdfeebb3a8ee04ae0b3",
-            "path": "config/sodium-fingerprint.json"
-          }
-        },
-        {
-          "id": "sodium-mixins.properties",
-          "name": "sodium-mixins.properties",
-          "type": "File",
-          "artifact": {
-            "size": 258,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sodium-mixins.properties",
-            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
-            "path": "config/sodium-mixins.properties"
-          }
-        },
-        {
-          "id": "sodium-options.json",
-          "name": "sodium-options.json",
-          "type": "File",
-          "artifact": {
-            "size": 762,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sodium-options.json",
-            "MD5": "1c29f9b0db2cc03bd082703386305e97",
-            "path": "config/sodium-options.json"
-          }
-        },
-        {
-          "id": "sophisticatedbackpacks-common.toml",
-          "name": "sophisticatedbackpacks-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 118,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sophisticatedbackpacks-common.toml",
-            "MD5": "3c220b8881045a5364a3a8d7395974a8",
-            "path": "config/sophisticatedbackpacks-common.toml"
-          }
-        },
-        {
-          "id": "sophisticatedbackpacks-server.toml",
-          "name": "sophisticatedbackpacks-server.toml",
-          "type": "File",
-          "artifact": {
-            "size": 24153,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sophisticatedbackpacks-server.toml",
-            "MD5": "51f5e0dc92ec9047134538c44400e37b",
-            "path": "config/sophisticatedbackpacks-server.toml"
-          }
-        },
-        {
-          "id": "sophisticatedcore-client.toml",
-          "name": "sophisticatedcore-client.toml",
-          "type": "File",
-          "artifact": {
-            "size": 478,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sophisticatedcore-client.toml",
-            "MD5": "3874e6398ee08a5f59218ed86fc534bb",
-            "path": "config/sophisticatedcore-client.toml"
-          }
-        },
-        {
-          "id": "sophisticatedcore-common.toml",
-          "name": "sophisticatedcore-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 3945,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sophisticatedcore-common.toml",
-            "MD5": "f6c43fa29fb97cf5473a04a068c22468",
-            "path": "config/sophisticatedcore-common.toml"
-          }
-        },
-        {
-          "id": "sweconm-common.toml",
-          "name": "sweconm-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 2554,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/sweconm-common.toml",
-            "MD5": "bb4688002c4b16d9fd9177de9f1667d1",
-            "path": "config/sweconm-common.toml"
-          }
-        },
-        {
-          "id": "configuration.toml",
-          "name": "configuration.toml",
-          "type": "File",
-          "artifact": {
-            "size": 606,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/TPA/config/configuration.toml",
-            "MD5": "7e163bbd3c87a4523801a5303077cc85",
-            "path": "config/TPA/config/configuration.toml"
-          }
-        },
-        {
-          "id": "transition.json",
-          "name": "transition.json",
-          "type": "File",
-          "artifact": {
-            "size": 97,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/transition.json",
-            "MD5": "31ba5caa4bcc56c2527e5d001e4f0f07",
-            "path": "config/transition.json"
-          }
-        },
-        {
-          "id": "trender.json",
-          "name": "trender.json",
-          "type": "File",
-          "artifact": {
-            "size": 44,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/trender.json",
-            "MD5": "57d19d218711f08f8d7ce8c69f21d59f",
-            "path": "config/trender.json"
-          }
-        },
-        {
-          "id": "category-volumes.properties",
-          "name": "category-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "size": 46,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/voicechat/category-volumes.properties",
-            "MD5": "47731f53ffef4a8a57c766a8091a5651",
-            "path": "config/voicechat/category-volumes.properties"
-          }
-        },
-        {
-          "id": "player-volumes.properties",
-          "name": "player-volumes.properties",
-          "type": "File",
-          "artifact": {
-            "size": 44,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/voicechat/player-volumes.properties",
-            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
-            "path": "config/voicechat/player-volumes.properties"
-          }
-        },
-        {
-          "id": "translations.properties",
-          "name": "translations.properties",
-          "type": "File",
-          "artifact": {
-            "size": 1182,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/voicechat/translations.properties",
-            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
-            "path": "config/voicechat/translations.properties"
-          }
-        },
-        {
-          "id": "username-cache.json",
-          "name": "username-cache.json",
-          "type": "File",
-          "artifact": {
-            "size": 2,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/voicechat/username-cache.json",
-            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
-            "path": "config/voicechat/username-cache.json"
-          }
-        },
-        {
-          "id": "voicechat-client.properties",
-          "name": "voicechat-client.properties",
-          "type": "File",
-          "artifact": {
-            "size": 5063,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/voicechat/voicechat-client.properties",
-            "MD5": "3d30d9ed3b42fa030b6447d03135748e",
-            "path": "config/voicechat/voicechat-client.properties"
-          }
-        },
-        {
-          "id": "voicechat-server.properties",
-          "name": "voicechat-server.properties",
-          "type": "File",
-          "artifact": {
-            "size": 3072,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/voicechat/voicechat-server.properties",
-            "MD5": "fb0c18824b2d01ddc105852defd63a60",
-            "path": "config/voicechat/voicechat-server.properties"
-          }
-        },
-        {
-          "id": "waystones-common.toml",
-          "name": "waystones-common.toml",
-          "type": "File",
-          "artifact": {
-            "size": 6691,
-            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/config/waystones-common.toml",
-            "MD5": "d75bf46006e4b0859f354dbc75206d1c",
-            "path": "config/waystones-common.toml"
-          }
-        },
-        {
+		        {
           "id": "effect_background.png",
           "name": "effect_background.png",
           "type": "File",
@@ -1798,7 +5018,7 @@
             "path": "packmenu/resources/assets/minecraft/textures/gui/sprites/hud/heart/container_hardcore_blinking.png"
           }
         },
-        {
+		        {
           "id": "frozen_full.png",
           "name": "frozen_full.png",
           "type": "File",
@@ -3084,7 +6304,7 @@
             "MD5": "0e894f3c7fcb54676f0c48b5167a78e2",
             "path": "packmenu/resources/pack.png"
           }
-        }
+		}
       ]
     }
   ]
