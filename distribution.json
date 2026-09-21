@@ -6303,6 +6303,36 @@
             "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/packmenu/resources/pack.png",
             "MD5": "0e894f3c7fcb54676f0c48b5167a78e2",
             "path": "packmenu/resources/pack.png"
+          },
+		  {
+          "id": "collective-1.21.1-8.39.jar",
+          "name": "collective-1.21.1-8.39.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1061931,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/mods/collective-1.21.1-8.39.jar",
+            "MD5": "7AE605279AACF6AE233BB1AAFE2775C4",
+            "path": "mods/collective-1.21.1-8.39.jar"
+          },
+		  {
+          "id": "connector-2.0.0-beta.17+1.21.1-full.jar",
+          "name": "connector-2.0.0-beta.17+1.21.1-full.jar",
+          "type": "File",
+          "artifact": {
+            "size": 4573244,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/mods/connector-2.0.0-beta.17+1.21.1-full.jar",
+            "MD5": "9B79E8AFCD0F4B428FECC789B08AE0F6",
+            "path": "mods/connector-2.0.0-beta.17+1.21.1-full.jar"
+          },
+		  {
+          "id": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+          "name": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1292934,
+            "url": "https://axelfla.github.io/launcher-des-mies-craft/servers/Serveur-survie-modd%C3%A9-1.21.1/files/mods/sodium-neoforge-0.8.13+mc1.21.1.jar",
+            "MD5": "C2BC7287841C29E25CE553BAAE1700A0",
+            "path": "mods/sodium-neoforge-0.8.13+mc1.21.1.jar"
           }
 		}
       ]
