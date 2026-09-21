@@ -555,7 +555,7 @@
         },
         },
         {
-          "id": "generated.forgemod:actuallyadditions-1.3.26+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:actuallyadditions-1.3.26+mc1.21.1@jar",
           "name": "actuallyadditions-1.3.26+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -565,7 +565,7 @@
           }
         },
         {
-          "id": "generated.forgemod:adastra-1.21.1-1.16.26-neoforge.jar@jar",
+          "id": "generated.forgemod:adastra-1.21.1-1.16.26-neoforge@jar",
           "name": "adastra-1.21.1-1.16.26-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -575,7 +575,7 @@
           }
         },
         {
-          "id": "generated.forgemod:additionallanterns-1.1.2-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:additionallanterns-1.1.2-neoforge-mc1.21@jar",
           "name": "additionallanterns-1.1.2-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -585,7 +585,7 @@
           }
         },
         {
-          "id": "generated.forgemod:addonslib-neoforge-1.21.1-1.14.jar@jar",
+          "id": "generated.forgemod:addonslib-neoforge-1.21.1-1.14@jar",
           "name": "addonslib-neoforge-1.21.1-1.14",
           "type": "ForgeMod",
           "artifact": {
@@ -595,7 +595,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ae2wtlib-19.5.1.jar@jar",
+          "id": "generated.forgemod:ae2wtlib-19.5.1@jar",
           "name": "ae2wtlib-19.5.1",
           "type": "ForgeMod",
           "artifact": {
@@ -605,7 +605,7 @@
           }
         },
         {
-          "id": "generated.forgemod:aeinfinitybooster-neoforge-1.21.1-1.0.0.58.jar@jar",
+          "id": "generated.forgemod:aeinfinitybooster-neoforge-1.21.1-1.0.0.58@jar",
           "name": "aeinfinitybooster-neoforge-1.21.1-1.0.0.58",
           "type": "ForgeMod",
           "artifact": {
@@ -615,7 +615,7 @@
           }
         },
         {
-          "id": "generated.forgemod:aether-1.21.1-1.5.10-neoforge.jar@jar",
+          "id": "generated.forgemod:aether-1.21.1-1.5.10-neoforge@jar",
           "name": "aether-1.21.1-1.5.10-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -625,7 +625,7 @@
           }
         },
         {
-          "id": "generated.forgemod:alltheleaks-1.1.12+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:alltheleaks-1.1.12+1.21.1-neoforge@jar",
           "name": "alltheleaks-1.1.12+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -635,7 +635,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ApothicAttributes-1.21.1-2.10.1.jar@jar",
+          "id": "generated.forgemod:ApothicAttributes-1.21.1-2.10.1@jar",
           "name": "ApothicAttributes-1.21.1-2.10.1",
           "type": "ForgeMod",
           "artifact": {
@@ -645,7 +645,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ApothicEnchanting-1.21.1-1.6.2.jar@jar",
+          "id": "generated.forgemod:ApothicEnchanting-1.21.1-1.6.2@jar",
           "name": "ApothicEnchanting-1.21.1-1.6.2",
           "type": "ForgeMod",
           "artifact": {
@@ -655,7 +655,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ApothicSpawners-1.21.1-1.4.0.jar@jar",
+          "id": "generated.forgemod:ApothicSpawners-1.21.1-1.4.0@jar",
           "name": "ApothicSpawners-1.21.1-1.4.0",
           "type": "ForgeMod",
           "artifact": {
@@ -665,7 +665,7 @@
           }
         },
         {
-          "id": "generated.forgemod:applied-experienced-1.21.1-1.3.2.jar@jar",
+          "id": "generated.forgemod:applied-experienced-1.21.1-1.3.2@jar",
           "name": "applied-experienced-1.21.1-1.3.2",
           "type": "ForgeMod",
           "artifact": {
@@ -675,7 +675,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Applied-Mekanistics-1.6.3.jar@jar",
+          "id": "generated.forgemod:Applied-Mekanistics-1.6.3@jar",
           "name": "Applied-Mekanistics-1.6.3",
           "type": "ForgeMod",
           "artifact": {
@@ -685,7 +685,7 @@
           }
         },
         {
-          "id": "generated.forgemod:appliedenergistics2-19.2.17.jar@jar",
+          "id": "generated.forgemod:appliedenergistics2-19.2.17@jar",
           "name": "appliedenergistics2-19.2.17",
           "type": "ForgeMod",
           "artifact": {
@@ -695,7 +695,7 @@
           }
         },
         {
-          "id": "generated.forgemod:AppliedFlux-1.21-2.1.5-neoforge.jar@jar",
+          "id": "generated.forgemod:AppliedFlux-1.21-2.1.5-neoforge@jar",
           "name": "AppliedFlux-1.21-2.1.5-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -705,7 +705,7 @@
           }
         },
         {
-          "id": "generated.forgemod:appliedpneumatics-1.21.1-neoforge-1.0.9.jar@jar",
+          "id": "generated.forgemod:appliedpneumatics-1.21.1-neoforge-1.0.9@jar",
           "name": "appliedpneumatics-1.21.1-neoforge-1.0.9",
           "type": "ForgeMod",
           "artifact": {
@@ -715,7 +715,7 @@
           }
         },
         {
-          "id": "generated.forgemod:appliedsorting-1.21.1-neoforge-v2.0.0.jar@jar",
+          "id": "generated.forgemod:appliedsorting-1.21.1-neoforge-v2.0.0@jar",
           "name": "appliedsorting-1.21.1-neoforge-v2.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -725,7 +725,7 @@
           }
         },
         {
-          "id": "generated.forgemod:applied_kjs-1.0.0.jar@jar",
+          "id": "generated.forgemod:applied_kjs-1.0.0@jar",
           "name": "applied_kjs-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -735,7 +735,7 @@
           }
         },
         {
-          "id": "generated.forgemod:applied_oritech-1.0.2.jar@jar",
+          "id": "generated.forgemod:applied_oritech-1.0.2@jar",
           "name": "applied_oritech-1.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -745,7 +745,7 @@
           }
         },
         {
-          "id": "generated.forgemod:archers-neoforge-3.1.1+1.21.1.jar@jar",
+          "id": "generated.forgemod:archers-neoforge-3.1.1+1.21.1@jar",
           "name": "archers-neoforge-3.1.1+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -755,7 +755,7 @@
           }
         },
         {
-          "id": "generated.forgemod:architectschisel-1.0.jar@jar",
+          "id": "generated.forgemod:architectschisel-1.0@jar",
           "name": "architectschisel-1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -765,7 +765,7 @@
           }
         },
         {
-          "id": "generated.forgemod:architects_palette-neoforge-1.21.1-1.4.0-beta.5.jar@jar",
+          "id": "generated.forgemod:architects_palette-neoforge-1.21.1-1.4.0-beta.5@jar",
           "name": "architects_palette-neoforge-1.21.1-1.4.0-beta.5",
           "type": "ForgeMod",
           "artifact": {
@@ -775,7 +775,7 @@
           }
         },
         {
-          "id": "generated.forgemod:architectury-13.0.11-neoforge.jar@jar",
+          "id": "generated.forgemod:architectury-13.0.11-neoforge@jar",
           "name": "architectury-13.0.11-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -785,7 +785,7 @@
           }
         },
         {
-          "id": "generated.forgemod:armor_model_api-neoforge-1.1.0+1.21.1.jar@jar",
+          "id": "generated.forgemod:armor_model_api-neoforge-1.1.0+1.21.1@jar",
           "name": "armor_model_api-neoforge-1.1.0+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -795,7 +795,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ArPhEx-5.0.2-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:ArPhEx-5.0.2-neoforge-1.21.1@jar",
           "name": "ArPhEx-5.0.2-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -805,7 +805,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ars_nouveau-1.21.1-5.13.1.jar@jar",
+          "id": "generated.forgemod:ars_nouveau-1.21.1-5.13.1@jar",
           "name": "ars_nouveau-1.21.1-5.13.1",
           "type": "ForgeMod",
           "artifact": {
@@ -815,7 +815,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ars_polymorphia-1.0.3.jar@jar",
+          "id": "generated.forgemod:ars_polymorphia-1.0.3@jar",
           "name": "ars_polymorphia-1.0.3",
           "type": "ForgeMod",
           "artifact": {
@@ -825,7 +825,7 @@
           }
         },
         {
-          "id": "generated.forgemod:artifacts-neoforge-13.2.5.jar@jar",
+          "id": "generated.forgemod:artifacts-neoforge-13.2.5@jar",
           "name": "artifacts-neoforge-13.2.5",
           "type": "ForgeMod",
           "artifact": {
@@ -835,7 +835,7 @@
           }
         },
         {
-          "id": "generated.forgemod:athena-neoforge-1.21.1-4.0.6.jar@jar",
+          "id": "generated.forgemod:athena-neoforge-1.21.1-4.0.6@jar",
           "name": "athena-neoforge-1.21.1-4.0.6",
           "type": "ForgeMod",
           "artifact": {
@@ -845,7 +845,7 @@
           }
         },
         {
-          "id": "generated.forgemod:atmosphericwatergenerator-1.0.12-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:atmosphericwatergenerator-1.0.12-neoforge-1.21.1@jar",
           "name": "atmosphericwatergenerator-1.0.12-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -855,7 +855,7 @@
           }
         },
         {
-          "id": "generated.forgemod:azurelib-neo-1.21.1-3.1.11.jar@jar",
+          "id": "generated.forgemod:azurelib-neo-1.21.1-3.1.11@jar",
           "name": "azurelib-neo-1.21.1-3.1.11",
           "type": "ForgeMod",
           "artifact": {
@@ -865,7 +865,7 @@
           }
         },
         {
-          "id": "generated.forgemod:BadOptimizations-2.4.1-1.21.1.jar@jar",
+          "id": "generated.forgemod:BadOptimizations-2.4.1-1.21.1@jar",
           "name": "BadOptimizations-2.4.1-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -875,7 +875,7 @@
           }
         },
         {
-          "id": "generated.forgemod:balm-neoforge-1.21.1-21.0.65.jar@jar",
+          "id": "generated.forgemod:balm-neoforge-1.21.1-21.0.65@jar",
           "name": "balm-neoforge-1.21.1-21.0.65",
           "type": "ForgeMod",
           "artifact": {
@@ -885,7 +885,7 @@
           }
         },
         {
-          "id": "generated.forgemod:bellsandwhistles-0.4.7-1.21.1.jar@jar",
+          "id": "generated.forgemod:bellsandwhistles-0.4.7-1.21.1@jar",
           "name": "bellsandwhistles-0.4.7-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -895,7 +895,7 @@
           }
         },
         {
-          "id": "generated.forgemod:better-advanced-tooltips-2101.1.0-build.5.jar@jar",
+          "id": "generated.forgemod:better-advanced-tooltips-2101.1.0-build.5@jar",
           "name": "better-advanced-tooltips-2101.1.0-build.5",
           "type": "ForgeMod",
           "artifact": {
@@ -905,7 +905,7 @@
           }
         },
         {
-          "id": "generated.forgemod:bettercombat-neoforge-2.4.0+1.21.1.jar@jar",
+          "id": "generated.forgemod:bettercombat-neoforge-2.4.0+1.21.1@jar",
           "name": "bettercombat-neoforge-2.4.0+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -915,7 +915,7 @@
           }
         },
         {
-          "id": "generated.forgemod:better_create-1.0.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:better_create-1.0.0-neoforge-1.21.1@jar",
           "name": "better_create-1.0.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -925,7 +925,7 @@
           }
         },
         {
-          "id": "generated.forgemod:BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar@jar",
+          "id": "generated.forgemod:BiomesOPlenty-neoforge-1.21.1-21.1.0.14@jar",
           "name": "BiomesOPlenty-neoforge-1.21.1-21.1.0.14",
           "type": "ForgeMod",
           "artifact": {
@@ -935,7 +935,7 @@
           }
         },
         {
-          "id": "generated.forgemod:blockui-1.0.212-1.21.1-snapshot.jar@jar",
+          "id": "generated.forgemod:blockui-1.0.212-1.21.1-snapshot@jar",
           "name": "blockui-1.0.212-1.21.1-snapshot",
           "type": "ForgeMod",
           "artifact": {
@@ -945,7 +945,7 @@
           }
         },
         {
-          "id": "generated.forgemod:BOMD-NeoForge-1.21-1.3.3.jar@jar",
+          "id": "generated.forgemod:BOMD-NeoForge-1.21-1.3.3@jar",
           "name": "BOMD-NeoForge-1.21-1.3.3",
           "type": "ForgeMod",
           "artifact": {
@@ -955,7 +955,7 @@
           }
         },
         {
-          "id": "generated.forgemod:bonesupdate-neoforge-1.21.1-1.2.3.jar@jar",
+          "id": "generated.forgemod:bonesupdate-neoforge-1.21.1-1.2.3@jar",
           "name": "bonesupdate-neoforge-1.21.1-1.2.3",
           "type": "ForgeMod",
           "artifact": {
@@ -965,7 +965,7 @@
           }
         },
         {
-          "id": "generated.forgemod:bookshelf-neoforge-1.21.1-21.1.81.jar@jar",
+          "id": "generated.forgemod:bookshelf-neoforge-1.21.1-21.1.81@jar",
           "name": "bookshelf-neoforge-1.21.1-21.1.81",
           "type": "ForgeMod",
           "artifact": {
@@ -975,7 +975,7 @@
           }
         },
         {
-          "id": "generated.forgemod:born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar@jar",
+          "id": "generated.forgemod:born_in_chaos_[Neoforge]_1.21.1_1.7.6@jar",
           "name": "born_in_chaos_[Neoforge]_1.21.1_1.7.6",
           "type": "ForgeMod",
           "artifact": {
@@ -985,7 +985,7 @@
           }
         },
         {
-          "id": "generated.forgemod:botanypots-neoforge-1.21.1-21.1.44.jar@jar",
+          "id": "generated.forgemod:botanypots-neoforge-1.21.1-21.1.44@jar",
           "name": "botanypots-neoforge-1.21.1-21.1.44",
           "type": "ForgeMod",
           "artifact": {
@@ -995,7 +995,7 @@
           }
         },
         {
-          "id": "generated.forgemod:botanypotsmystical-neoforge-1.21.1-21.1.12.jar@jar",
+          "id": "generated.forgemod:botanypotsmystical-neoforge-1.21.1-21.1.12@jar",
           "name": "botanypotsmystical-neoforge-1.21.1-21.1.12",
           "type": "ForgeMod",
           "artifact": {
@@ -1005,7 +1005,7 @@
           }
         },
         {
-          "id": "generated.forgemod:botanypotstiers-neoforge-1.21.1-7.0.11.jar@jar",
+          "id": "generated.forgemod:botanypotstiers-neoforge-1.21.1-7.0.11@jar",
           "name": "botanypotstiers-neoforge-1.21.1-7.0.11",
           "type": "ForgeMod",
           "artifact": {
@@ -1015,7 +1015,7 @@
           }
         },
         {
-          "id": "generated.forgemod:botanytrees-neoforge-1.21.1-21.1.7.jar@jar",
+          "id": "generated.forgemod:botanytrees-neoforge-1.21.1-21.1.7@jar",
           "name": "botanytrees-neoforge-1.21.1-21.1.7",
           "type": "ForgeMod",
           "artifact": {
@@ -1025,7 +1025,7 @@
           }
         },
         {
-          "id": "generated.forgemod:BrewinAndChewin-neoforge-4.5.0+1.21.1.jar@jar",
+          "id": "generated.forgemod:BrewinAndChewin-neoforge-4.5.0+1.21.1@jar",
           "name": "BrewinAndChewin-neoforge-4.5.0+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1035,7 +1035,7 @@
           }
         },
         {
-          "id": "generated.forgemod:bucketlib-neoforge-1.21-4.1.7.2.jar@jar",
+          "id": "generated.forgemod:bucketlib-neoforge-1.21-4.1.7.2@jar",
           "name": "bucketlib-neoforge-1.21-4.1.7.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1045,7 +1045,7 @@
           }
         },
         {
-          "id": "generated.forgemod:buildinggadgets2-1.3.9.jar@jar",
+          "id": "generated.forgemod:buildinggadgets2-1.3.9@jar",
           "name": "buildinggadgets2-1.3.9",
           "type": "ForgeMod",
           "artifact": {
@@ -1055,7 +1055,7 @@
           }
         },
         {
-          "id": "generated.forgemod:bundle-api-neoforge-1.1.0.jar@jar",
+          "id": "generated.forgemod:bundle-api-neoforge-1.1.0@jar",
           "name": "bundle-api-neoforge-1.1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1065,7 +1065,7 @@
           }
         },
         {
-          "id": "generated.forgemod:caelus-neoforge-7.0.1+1.21.1.jar@jar",
+          "id": "generated.forgemod:caelus-neoforge-7.0.1+1.21.1@jar",
           "name": "caelus-neoforge-7.0.1+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1075,7 +1075,7 @@
           }
         },
         {
-          "id": "generated.forgemod:camol-1.21.1-0.3.1.jar@jar",
+          "id": "generated.forgemod:camol-1.21.1-0.3.1@jar",
           "name": "camol-1.21.1-0.3.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1085,7 +1085,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cc-tweaked-1.21.1-forge-1.120.2.jar@jar",
+          "id": "generated.forgemod:cc-tweaked-1.21.1-forge-1.120.2@jar",
           "name": "cc-tweaked-1.21.1-forge-1.120.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1095,7 +1095,7 @@
           }
         },
         {
-          "id": "generated.forgemod:CerbonsAPI-NeoForge-1.21-1.3.0.jar@jar",
+          "id": "generated.forgemod:CerbonsAPI-NeoForge-1.21-1.3.0@jar",
           "name": "CerbonsAPI-NeoForge-1.21-1.3.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1105,7 +1105,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cesg-1.21.1-1.1.0.jar@jar",
+          "id": "generated.forgemod:cesg-1.21.1-1.1.0@jar",
           "name": "cesg-1.21.1-1.1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1115,7 +1115,7 @@
           }
         },
         {
-          "id": "generated.forgemod:chipped-neoforge-1.21.1-4.0.2.jar@jar",
+          "id": "generated.forgemod:chipped-neoforge-1.21.1-4.0.2@jar",
           "name": "chipped-neoforge-1.21.1-4.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1125,7 +1125,7 @@
           }
         },
         {
-          "id": "generated.forgemod:chisel-neoforge-2.0.1+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:chisel-neoforge-2.0.1+mc1.21.1@jar",
           "name": "chisel-neoforge-2.0.1+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1135,7 +1135,7 @@
           }
         },
         {
-          "id": "generated.forgemod:chloride-NEOFORGE-mc1.21.1-v1.8.1.jar@jar",
+          "id": "generated.forgemod:chloride-NEOFORGE-mc1.21.1-v1.8.1@jar",
           "name": "chloride-NEOFORGE-mc1.21.1-v1.8.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1145,7 +1145,7 @@
           }
         },
         {
-          "id": "generated.forgemod:choccos_mobs-0.2.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:choccos_mobs-0.2.0-neoforge-1.21.1@jar",
           "name": "choccos_mobs-0.2.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1155,7 +1155,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cloth-config-15.0.140-neoforge.jar@jar",
+          "id": "generated.forgemod:cloth-config-15.0.140-neoforge@jar",
           "name": "cloth-config-15.0.140-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1165,7 +1165,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Clumps-neoforge-1.21.1-19.0.0.1.jar@jar",
+          "id": "generated.forgemod:Clumps-neoforge-1.21.1-19.0.0.1@jar",
           "name": "Clumps-neoforge-1.21.1-19.0.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1175,7 +1175,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cms-neoforge-1.2.0.jar@jar",
+          "id": "generated.forgemod:cms-neoforge-1.2.0@jar",
           "name": "cms-neoforge-1.2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1185,7 +1185,7 @@
           }
         },
         {
-          "id": "generated.forgemod:CodeChickenLib-1.21.1-4.6.1.529.jar@jar",
+          "id": "generated.forgemod:CodeChickenLib-1.21.1-4.6.1.529@jar",
           "name": "CodeChickenLib-1.21.1-4.6.1.529",
           "type": "ForgeMod",
           "artifact": {
@@ -1195,7 +1195,7 @@
           }
         },
         {
-          "id": "generated.forgemod:comforts-neoforge-9.0.5+1.21.1.jar@jar",
+          "id": "generated.forgemod:comforts-neoforge-9.0.5+1.21.1@jar",
           "name": "comforts-neoforge-9.0.5+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1205,7 +1205,7 @@
           }
         },
         {
-          "id": "generated.forgemod:common-storage-lib-neoforge-1.21.1-0.0.10.jar@jar",
+          "id": "generated.forgemod:common-storage-lib-neoforge-1.21.1-0.0.10@jar",
           "name": "common-storage-lib-neoforge-1.21.1-0.0.10",
           "type": "ForgeMod",
           "artifact": {
@@ -1215,7 +1215,7 @@
           }
         },
         {
-          "id": "generated.forgemod:commoncapabilities-1.21.1-neoforge-2.11.6.jar@jar",
+          "id": "generated.forgemod:commoncapabilities-1.21.1-neoforge-2.11.6@jar",
           "name": "commoncapabilities-1.21.1-neoforge-2.11.6",
           "type": "ForgeMod",
           "artifact": {
@@ -1225,7 +1225,7 @@
           }
         },
         {
-          "id": "generated.forgemod:compactmekanismmachinesplus-0.4.0.jar@jar",
+          "id": "generated.forgemod:compactmekanismmachinesplus-0.4.0@jar",
           "name": "compactmekanismmachinesplus-0.4.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1235,7 +1235,7 @@
           }
         },
         {
-          "id": "generated.forgemod:connectedglass-1.1.14-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:connectedglass-1.1.14-neoforge-mc1.21@jar",
           "name": "connectedglass-1.1.14-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -1245,7 +1245,7 @@
           }
         },
         {
-          "id": "generated.forgemod:connectivity-1.21.1-7.6.jar@jar",
+          "id": "generated.forgemod:connectivity-1.21.1-7.6@jar",
           "name": "connectivity-1.21.1-7.6",
           "type": "ForgeMod",
           "artifact": {
@@ -1255,7 +1255,7 @@
           }
         },
         {
-          "id": "generated.forgemod:connector-2.0.0-beta.17+1.21.1-full.jar@jar",
+          "id": "generated.forgemod:connector-2.0.0-beta.17+1.21.1-full@jar",
           "name": "connector-2.0.0-beta.17+1.21.1-full",
           "type": "ForgeMod",
           "artifact": {
@@ -1265,7 +1265,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ConstructionSticks-1.21.1-1.5.0.jar@jar",
+          "id": "generated.forgemod:ConstructionSticks-1.21.1-1.5.0@jar",
           "name": "ConstructionSticks-1.21.1-1.5.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1275,7 +1275,7 @@
           }
         },
         {
-          "id": "generated.forgemod:continuity-3.0.0+1.21.neoforge.jar@jar",
+          "id": "generated.forgemod:continuity-3.0.0+1.21.neoforge@jar",
           "name": "continuity-3.0.0+1.21.neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1285,7 +1285,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Controlling-neoforge-1.21.1-19.0.5.jar@jar",
+          "id": "generated.forgemod:Controlling-neoforge-1.21.1-19.0.5@jar",
           "name": "Controlling-neoforge-1.21.1-19.0.5",
           "type": "ForgeMod",
           "artifact": {
@@ -1295,7 +1295,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cookingforblockheads-neoforge-1.21.1-21.1.24.jar@jar",
+          "id": "generated.forgemod:cookingforblockheads-neoforge-1.21.1-21.1.24@jar",
           "name": "cookingforblockheads-neoforge-1.21.1-21.1.24",
           "type": "ForgeMod",
           "artifact": {
@@ -1305,7 +1305,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cookscollection-0.5.8.jar@jar",
+          "id": "generated.forgemod:cookscollection-0.5.8@jar",
           "name": "cookscollection-0.5.8",
           "type": "ForgeMod",
           "artifact": {
@@ -1315,7 +1315,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Corgilib-NeoForge-1.21.1-5.0.0.9.jar@jar",
+          "id": "generated.forgemod:Corgilib-NeoForge-1.21.1-5.0.0.9@jar",
           "name": "Corgilib-NeoForge-1.21.1-5.0.0.9",
           "type": "ForgeMod",
           "artifact": {
@@ -1325,7 +1325,7 @@
           }
         },
         {
-          "id": "generated.forgemod:craftingtweaks-neoforge-1.21.1-21.1.11.jar@jar",
+          "id": "generated.forgemod:craftingtweaks-neoforge-1.21.1-21.1.11@jar",
           "name": "craftingtweaks-neoforge-1.21.1-21.1.11",
           "type": "ForgeMod",
           "artifact": {
@@ -1335,7 +1335,7 @@
           }
         },
         {
-          "id": "generated.forgemod:crafting_on_a_stick-1.21.0.6.jar@jar",
+          "id": "generated.forgemod:crafting_on_a_stick-1.21.0.6@jar",
           "name": "crafting_on_a_stick-1.21.0.6",
           "type": "ForgeMod",
           "artifact": {
@@ -1345,7 +1345,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cratedelight-26.07.01-1.21-neoforge.jar@jar",
+          "id": "generated.forgemod:cratedelight-26.07.01-1.21-neoforge@jar",
           "name": "cratedelight-26.07.01-1.21-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1355,7 +1355,7 @@
           }
         },
         {
-          "id": "generated.forgemod:create-1.21.1-6.0.10.jar@jar",
+          "id": "generated.forgemod:create-1.21.1-6.0.10@jar",
           "name": "create-1.21.1-6.0.10",
           "type": "ForgeMod",
           "artifact": {
@@ -1365,7 +1365,7 @@
           }
         },
         {
-          "id": "generated.forgemod:create-superheated-1.0.0.jar@jar",
+          "id": "generated.forgemod:create-superheated-1.0.0@jar",
           "name": "create-superheated-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1375,7 +1375,7 @@
           }
         },
         {
-          "id": "generated.forgemod:createaddition-1.6.0.jar@jar",
+          "id": "generated.forgemod:createaddition-1.6.0@jar",
           "name": "createaddition-1.6.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1385,7 +1385,7 @@
           }
         },
         {
-          "id": "generated.forgemod:createdieselgenerators-1.21.1-1.3.15.jar@jar",
+          "id": "generated.forgemod:createdieselgenerators-1.21.1-1.3.15@jar",
           "name": "createdieselgenerators-1.21.1-1.3.15",
           "type": "ForgeMod",
           "artifact": {
@@ -1395,7 +1395,7 @@
           }
         },
         {
-          "id": "generated.forgemod:CreateOPlenty-NeoForge-Create+6.0.7-3.0.jar@jar",
+          "id": "generated.forgemod:CreateOPlenty-NeoForge-Create+6.0.7-3.0@jar",
           "name": "CreateOPlenty-NeoForge-Create+6.0.7-3.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1405,7 +1405,7 @@
           }
         },
         {
-          "id": "generated.forgemod:createoritechcompat-1.20.1-1.0.jar@jar",
+          "id": "generated.forgemod:createoritechcompat-1.20.1-1.0@jar",
           "name": "createoritechcompat-1.20.1-1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1415,7 +1415,7 @@
           }
         },
         {
-          "id": "generated.forgemod:createplenty-1.0.3.jar@jar",
+          "id": "generated.forgemod:createplenty-1.0.3@jar",
           "name": "createplenty-1.0.3",
           "type": "ForgeMod",
           "artifact": {
@@ -1425,7 +1425,7 @@
           }
         },
         {
-          "id": "generated.forgemod:createseatsthirdperson-1.0.2.jar@jar",
+          "id": "generated.forgemod:createseatsthirdperson-1.0.2@jar",
           "name": "createseatsthirdperson-1.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1435,7 +1435,7 @@
           }
         },
         {
-          "id": "generated.forgemod:create_connected-1.3.3-mc1.21.1.jar@jar",
+          "id": "generated.forgemod:create_connected-1.3.3-mc1.21.1@jar",
           "name": "create_connected-1.3.3-mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1445,7 +1445,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Create_Integrated_Core_v1.jar@jar",
+          "id": "generated.forgemod:Create_Integrated_Core_v1@jar",
           "name": "Create_Integrated_Core_v1",
           "type": "ForgeMod",
           "artifact": {
@@ -1455,7 +1455,7 @@
           }
         },
         {
-          "id": "generated.forgemod:CreeperOverhaul-neoforge-1.21.1-4.0.6.jar@jar",
+          "id": "generated.forgemod:CreeperOverhaul-neoforge-1.21.1-4.0.6@jar",
           "name": "CreeperOverhaul-neoforge-1.21.1-4.0.6",
           "type": "ForgeMod",
           "artifact": {
@@ -1465,7 +1465,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cristellib-neoforge-1.21.1-3.1.7.jar@jar",
+          "id": "generated.forgemod:cristellib-neoforge-1.21.1-3.1.7@jar",
           "name": "cristellib-neoforge-1.21.1-3.1.7",
           "type": "ForgeMod",
           "artifact": {
@@ -1475,7 +1475,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cryonicconfig-neoforge-1.0.0+mc1.21.11.jar@jar",
+          "id": "generated.forgemod:cryonicconfig-neoforge-1.0.0+mc1.21.11@jar",
           "name": "cryonicconfig-neoforge-1.0.0+mc1.21.11",
           "type": "ForgeMod",
           "artifact": {
@@ -1485,7 +1485,7 @@
           }
         },
         {
-          "id": "generated.forgemod:CTM-1.21-1.2.1+3.jar@jar",
+          "id": "generated.forgemod:CTM-1.21-1.2.1+3@jar",
           "name": "CTM-1.21-1.2.1+3",
           "type": "ForgeMod",
           "artifact": {
@@ -1495,7 +1495,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Cucumber-1.21.1-8.0.16.jar@jar",
+          "id": "generated.forgemod:Cucumber-1.21.1-8.0.16@jar",
           "name": "Cucumber-1.21.1-8.0.16",
           "type": "ForgeMod",
           "artifact": {
@@ -1505,7 +1505,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cultural-creators-neoforge-1.21.1-1.2.0.jar@jar",
+          "id": "generated.forgemod:cultural-creators-neoforge-1.21.1-1.2.0@jar",
           "name": "cultural-creators-neoforge-1.21.1-1.2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1515,7 +1515,7 @@
           }
         },
         {
-          "id": "generated.forgemod:culturaldelights-1.21.1-0.18.1.jar@jar",
+          "id": "generated.forgemod:culturaldelights-1.21.1-0.18.1@jar",
           "name": "culturaldelights-1.21.1-0.18.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1525,7 +1525,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cumulus_menus-1.21.1-2.0.8-neoforge.jar@jar",
+          "id": "generated.forgemod:cumulus_menus-1.21.1-2.0.8-neoforge@jar",
           "name": "cumulus_menus-1.21.1-2.0.8-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1535,7 +1535,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cupboard-1.21.1-4.2.jar@jar",
+          "id": "generated.forgemod:cupboard-1.21.1-4.2@jar",
           "name": "cupboard-1.21.1-4.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1545,7 +1545,7 @@
           }
         },
         {
-          "id": "generated.forgemod:curios-neoforge-9.5.1+1.21.1.jar@jar",
+          "id": "generated.forgemod:curios-neoforge-9.5.1+1.21.1@jar",
           "name": "curios-neoforge-9.5.1+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1555,7 +1555,7 @@
           }
         },
         {
-          "id": "generated.forgemod:cyclopscore-1.21.1-neoforge-1.30.0.jar@jar",
+          "id": "generated.forgemod:cyclopscore-1.21.1-neoforge-1.30.0@jar",
           "name": "cyclopscore-1.21.1-neoforge-1.30.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1565,7 +1565,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Data_Anchor-neoforge-1.21.1-2.0.0.16.jar@jar",
+          "id": "generated.forgemod:Data_Anchor-neoforge-1.21.1-2.0.0.16@jar",
           "name": "Data_Anchor-neoforge-1.21.1-2.0.0.16",
           "type": "ForgeMod",
           "artifact": {
@@ -1575,7 +1575,7 @@
           }
         },
         {
-          "id": "generated.forgemod:deeperdarker-neoforge-1.21.1-1.4.1.jar@jar",
+          "id": "generated.forgemod:deeperdarker-neoforge-1.21.1-1.4.1@jar",
           "name": "deeperdarker-neoforge-1.21.1-1.4.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1585,7 +1585,7 @@
           }
         },
         {
-          "id": "generated.forgemod:DnDesires-1.21.1-2.3a-BETA.jar@jar",
+          "id": "generated.forgemod:DnDesires-1.21.1-2.3a-BETA@jar",
           "name": "DnDesires-1.21.1-2.3a-BETA",
           "type": "ForgeMod",
           "artifact": {
@@ -1595,7 +1595,7 @@
           }
         },
         {
-          "id": "generated.forgemod:domum-ornamentum-1.0.236-snapshot-main.jar@jar",
+          "id": "generated.forgemod:domum-ornamentum-1.0.236-snapshot-main@jar",
           "name": "domum-ornamentum-1.0.236-snapshot-main",
           "type": "ForgeMod",
           "artifact": {
@@ -1605,7 +1605,7 @@
           }
         },
         {
-          "id": "generated.forgemod:dragonlib-neoforge-1.21.1-beta-3.0.28.jar@jar",
+          "id": "generated.forgemod:dragonlib-neoforge-1.21.1-beta-3.0.28@jar",
           "name": "dragonlib-neoforge-1.21.1-beta-3.0.28",
           "type": "ForgeMod",
           "artifact": {
@@ -1615,7 +1615,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ecologics-1.21.1-2.3.7.jar@jar",
+          "id": "generated.forgemod:ecologics-1.21.1-2.3.7@jar",
           "name": "ecologics-1.21.1-2.3.7",
           "type": "ForgeMod",
           "artifact": {
@@ -1625,7 +1625,7 @@
           }
         },
         {
-          "id": "generated.forgemod:eidolon_repraised-1.21.1-0.5.0.2.jar@jar",
+          "id": "generated.forgemod:eidolon_repraised-1.21.1-0.5.0.2@jar",
           "name": "eidolon_repraised-1.21.1-0.5.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1635,7 +1635,7 @@
           }
         },
         {
-          "id": "generated.forgemod:elevatorid-neoforge-1.21.1-1.11.4.jar@jar",
+          "id": "generated.forgemod:elevatorid-neoforge-1.21.1-1.11.4@jar",
           "name": "elevatorid-neoforge-1.21.1-1.11.4",
           "type": "ForgeMod",
           "artifact": {
@@ -1645,7 +1645,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Elite x Quality Guns Neoforge v5.1 - 1.21.1.jar@jar",
+          "id": "generated.forgemod:Elite x Quality Guns Neoforge v5.1 - 1.21.1@jar",
           "name": "Elite x Quality Guns Neoforge v5.1 - 1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1655,7 +1655,7 @@
           }
         },
         {
-          "id": "generated.forgemod:emi-1.1.24+1.21.1+neoforge.jar@jar",
+          "id": "generated.forgemod:emi-1.1.24+1.21.1+neoforge@jar",
           "name": "emi-1.1.24+1.21.1+neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1665,7 +1665,7 @@
           }
         },
         {
-          "id": "generated.forgemod:enchdesc-neoforge-1.21.1-21.1.11.jar@jar",
+          "id": "generated.forgemod:enchdesc-neoforge-1.21.1-21.1.11@jar",
           "name": "enchdesc-neoforge-1.21.1-21.1.11",
           "type": "ForgeMod",
           "artifact": {
@@ -1675,7 +1675,7 @@
           }
         },
         {
-          "id": "generated.forgemod:enderio-8.2.12-beta.jar@jar",
+          "id": "generated.forgemod:enderio-8.2.12-beta@jar",
           "name": "enderio-8.2.12-beta",
           "type": "ForgeMod",
           "artifact": {
@@ -1685,7 +1685,7 @@
           }
         },
         {
-          "id": "generated.forgemod:endermanoverhaul-neoforge-1.21.1-2.0.3.jar@jar",
+          "id": "generated.forgemod:endermanoverhaul-neoforge-1.21.1-2.0.3@jar",
           "name": "endermanoverhaul-neoforge-1.21.1-2.0.3",
           "type": "ForgeMod",
           "artifact": {
@@ -1695,7 +1695,7 @@
           }
         },
         {
-          "id": "generated.forgemod:EnderStorage-1.21.1-2.13.0.191.jar@jar",
+          "id": "generated.forgemod:EnderStorage-1.21.1-2.13.0.191@jar",
           "name": "EnderStorage-1.21.1-2.13.0.191",
           "type": "ForgeMod",
           "artifact": {
@@ -1705,7 +1705,7 @@
           }
         },
         {
-          "id": "generated.forgemod:endertanks-neoforge-1.21.1-1.0.jar@jar",
+          "id": "generated.forgemod:endertanks-neoforge-1.21.1-1.0@jar",
           "name": "endertanks-neoforge-1.21.1-1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1715,7 +1715,7 @@
           }
         },
         {
-          "id": "generated.forgemod:energizedpower-3.0.0+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:energizedpower-3.0.0+1.21.1-neoforge@jar",
           "name": "energizedpower-3.0.0+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1725,7 +1725,7 @@
           }
         },
         {
-          "id": "generated.forgemod:energizedpowerbop-3.0.0+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:energizedpowerbop-3.0.0+1.21.1-neoforge@jar",
           "name": "energizedpowerbop-3.0.0+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1735,7 +1735,7 @@
           }
         },
         {
-          "id": "generated.forgemod:energizedpowerfd-3.0.0+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:energizedpowerfd-3.0.0+1.21.1-neoforge@jar",
           "name": "energizedpowerfd-3.0.0+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1745,7 +1745,7 @@
           }
         },
         {
-          "id": "generated.forgemod:energizedpowerru-3.0.0+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:energizedpowerru-3.0.0+1.21.1-neoforge@jar",
           "name": "energizedpowerru-3.0.0+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1755,7 +1755,7 @@
           }
         },
         {
-          "id": "generated.forgemod:energizedpowerta-3.0.0+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:energizedpowerta-3.0.0+1.21.1-neoforge@jar",
           "name": "energizedpowerta-3.0.0+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1765,7 +1765,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar@jar",
+          "id": "generated.forgemod:Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6@jar",
           "name": "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6",
           "type": "ForgeMod",
           "artifact": {
@@ -1775,7 +1775,7 @@
           }
         },
         {
-          "id": "generated.forgemod:entityculling-neoforge-1.11.1-mc1.21.1.jar@jar",
+          "id": "generated.forgemod:entityculling-neoforge-1.11.1-mc1.21.1@jar",
           "name": "entityculling-neoforge-1.11.1-mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1785,7 +1785,7 @@
           }
         },
         {
-          "id": "generated.forgemod:EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar@jar",
+          "id": "generated.forgemod:EpheroLib-1.21.1-NEO-FORGE-1.2.0@jar",
           "name": "EpheroLib-1.21.1-NEO-FORGE-1.2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1795,7 +1795,7 @@
           }
         },
         {
-          "id": "generated.forgemod:evilcraft-1.21.1-neoforge-1.2.96.jar@jar",
+          "id": "generated.forgemod:evilcraft-1.21.1-neoforge-1.2.96@jar",
           "name": "evilcraft-1.21.1-neoforge-1.2.96",
           "type": "ForgeMod",
           "artifact": {
@@ -1805,7 +1805,7 @@
           }
         },
         {
-          "id": "generated.forgemod:evil_eye_evilcraft_addon-1.0.5+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:evil_eye_evilcraft_addon-1.0.5+1.21.1-neoforge@jar",
           "name": "evil_eye_evilcraft_addon-1.0.5+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1815,7 +1815,7 @@
           }
         },
         {
-          "id": "generated.forgemod:experiencelib-1.21.1-1.2.1.jar@jar",
+          "id": "generated.forgemod:experiencelib-1.21.1-1.2.1@jar",
           "name": "experiencelib-1.21.1-1.2.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1825,7 +1825,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ExtraDisks-1.21.1-4.0.15.jar@jar",
+          "id": "generated.forgemod:ExtraDisks-1.21.1-4.0.15@jar",
           "name": "ExtraDisks-1.21.1-4.0.15",
           "type": "ForgeMod",
           "artifact": {
@@ -1835,7 +1835,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ExtremeReactors2-1.21.1-2.4.28.jar@jar",
+          "id": "generated.forgemod:ExtremeReactors2-1.21.1-2.4.28@jar",
           "name": "ExtremeReactors2-1.21.1-2.4.28",
           "type": "ForgeMod",
           "artifact": {
@@ -1845,7 +1845,7 @@
           }
         },
         {
-          "id": "generated.forgemod:factory_blocks-neoforge-1.4.0+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:factory_blocks-neoforge-1.4.0+mc1.21.1@jar",
           "name": "factory_blocks-neoforge-1.4.0+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1855,7 +1855,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmers-cutting-biomes-o-plenty-2.0.0-1.21.jar@jar",
+          "id": "generated.forgemod:farmers-cutting-biomes-o-plenty-2.0.0-1.21@jar",
           "name": "farmers-cutting-biomes-o-plenty-2.0.0-1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -1865,7 +1865,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge.jar@jar",
+          "id": "generated.forgemod:farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge@jar",
           "name": "farmers-cutting-oh-the-biomes-weve-gone-1.21.1-2.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1875,7 +1875,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge.jar@jar",
+          "id": "generated.forgemod:farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge@jar",
           "name": "farmers-cutting-regions-unexplored-1.21.1-1.1b-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1885,7 +1885,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmers-cutting-the-aether-1.21.1-1.0-neoforge.jar@jar",
+          "id": "generated.forgemod:farmers-cutting-the-aether-1.21.1-1.0-neoforge@jar",
           "name": "farmers-cutting-the-aether-1.21.1-1.0-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1895,7 +1895,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmers-cutting-twilight-forest-1.21.1-1.0.jar@jar",
+          "id": "generated.forgemod:farmers-cutting-twilight-forest-1.21.1-1.0@jar",
           "name": "farmers-cutting-twilight-forest-1.21.1-1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1905,7 +1905,7 @@
           }
         },
         {
-          "id": "generated.forgemod:FarmersDelight-1.21.1-1.3.4.jar@jar",
+          "id": "generated.forgemod:FarmersDelight-1.21.1-1.3.4@jar",
           "name": "FarmersDelight-1.21.1-1.3.4",
           "type": "ForgeMod",
           "artifact": {
@@ -1915,7 +1915,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmersdelight_extended-1.21.1-0.2.2.jar@jar",
+          "id": "generated.forgemod:farmersdelight_extended-1.21.1-0.2.2@jar",
           "name": "farmersdelight_extended-1.21.1-0.2.2",
           "type": "ForgeMod",
           "artifact": {
@@ -1925,7 +1925,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmersknives-neoforge-1.21.1-4.2.0.jar@jar",
+          "id": "generated.forgemod:farmersknives-neoforge-1.21.1-4.2.0@jar",
           "name": "farmersknives-neoforge-1.21.1-4.2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -1935,7 +1935,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmerspizzeria-1.3.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:farmerspizzeria-1.3.0-neoforge-1.21.1@jar",
           "name": "farmerspizzeria-1.3.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1945,7 +1945,7 @@
           }
         },
         {
-          "id": "generated.forgemod:FarmersStructures-1.0.6-1.21.1_neoforge.jar@jar",
+          "id": "generated.forgemod:FarmersStructures-1.0.6-1.21.1_neoforge@jar",
           "name": "FarmersStructures-1.0.6-1.21.1_neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1955,7 +1955,7 @@
           }
         },
         {
-          "id": "generated.forgemod:FarmersWearableCookingPot-v0.1-1.21.1.jar@jar",
+          "id": "generated.forgemod:FarmersWearableCookingPot-v0.1-1.21.1@jar",
           "name": "FarmersWearableCookingPot-v0.1-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1965,7 +1965,7 @@
           }
         },
         {
-          "id": "generated.forgemod:farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1.jar@jar",
+          "id": "generated.forgemod:farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1@jar",
           "name": "farmers_delight_christmas_edition-V1.0.2-neoforge-1.20.1",
           "type": "ForgeMod",
           "artifact": {
@@ -1975,7 +1975,7 @@
           }
         },
         {
-          "id": "generated.forgemod:fastleafdecay-35.jar@jar",
+          "id": "generated.forgemod:fastleafdecay-35@jar",
           "name": "fastleafdecay-35",
           "type": "ForgeMod",
           "artifact": {
@@ -1985,7 +1985,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ferritecore-7.0.3-neoforge.jar@jar",
+          "id": "generated.forgemod:ferritecore-7.0.3-neoforge@jar",
           "name": "ferritecore-7.0.3-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -1995,7 +1995,7 @@
           }
         },
         {
-          "id": "generated.forgemod:flerovium-neoforge-1.21.1-1.1.3-all.jar@jar",
+          "id": "generated.forgemod:flerovium-neoforge-1.21.1-1.1.3-all@jar",
           "name": "flerovium-neoforge-1.21.1-1.1.3-all",
           "type": "ForgeMod",
           "artifact": {
@@ -2005,7 +2005,7 @@
           }
         },
         {
-          "id": "generated.forgemod:FluxNetworks-1.21.1-8.0.0.jar@jar",
+          "id": "generated.forgemod:FluxNetworks-1.21.1-8.0.0@jar",
           "name": "FluxNetworks-1.21.1-8.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2015,7 +2015,7 @@
           }
         },
         {
-          "id": "generated.forgemod:forbidden_arcanus-2.6.1.jar@jar",
+          "id": "generated.forgemod:forbidden_arcanus-2.6.1@jar",
           "name": "forbidden_arcanus-2.6.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2025,7 +2025,7 @@
           }
         },
         {
-          "id": "generated.forgemod:forbidden_arcanus_js-2101.1.3.jar@jar",
+          "id": "generated.forgemod:forbidden_arcanus_js-2101.1.3@jar",
           "name": "forbidden_arcanus_js-2101.1.3",
           "type": "ForgeMod",
           "artifact": {
@@ -2035,7 +2035,7 @@
           }
         },
         {
-          "id": "generated.forgemod:forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar@jar",
+          "id": "generated.forgemod:forgified-fabric-api-0.116.15+2.3.5+1.21.1@jar",
           "name": "forgified-fabric-api-0.116.15+2.3.5+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2045,7 +2045,7 @@
           }
         },
         {
-          "id": "generated.forgemod:framework-neoforge-1.21.1-0.13.11.jar@jar",
+          "id": "generated.forgemod:framework-neoforge-1.21.1-0.13.11@jar",
           "name": "framework-neoforge-1.21.1-0.13.11",
           "type": "ForgeMod",
           "artifact": {
@@ -2055,7 +2055,7 @@
           }
         },
         {
-          "id": "generated.forgemod:friendsandfoes-neoforge-4.0.27+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:friendsandfoes-neoforge-4.0.27+mc1.21.1@jar",
           "name": "friendsandfoes-neoforge-4.0.27+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2065,7 +2065,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-backups-3-21.1.5.jar@jar",
+          "id": "generated.forgemod:ftb-backups-3-21.1.5@jar",
           "name": "ftb-backups-3-21.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -2075,7 +2075,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-chunks-neoforge-2101.1.22.jar@jar",
+          "id": "generated.forgemod:ftb-chunks-neoforge-2101.1.22@jar",
           "name": "ftb-chunks-neoforge-2101.1.22",
           "type": "ForgeMod",
           "artifact": {
@@ -2085,7 +2085,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-library-neoforge-2101.1.36.jar@jar",
+          "id": "generated.forgemod:ftb-library-neoforge-2101.1.36@jar",
           "name": "ftb-library-neoforge-2101.1.36",
           "type": "ForgeMod",
           "artifact": {
@@ -2095,7 +2095,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-quests-neoforge-2101.1.36.jar@jar",
+          "id": "generated.forgemod:ftb-quests-neoforge-2101.1.36@jar",
           "name": "ftb-quests-neoforge-2101.1.36",
           "type": "ForgeMod",
           "artifact": {
@@ -2105,7 +2105,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-ranks-neoforge-2101.1.5.jar@jar",
+          "id": "generated.forgemod:ftb-ranks-neoforge-2101.1.5@jar",
           "name": "ftb-ranks-neoforge-2101.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -2115,7 +2115,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-teams-neoforge-2101.1.11.jar@jar",
+          "id": "generated.forgemod:ftb-teams-neoforge-2101.1.11@jar",
           "name": "ftb-teams-neoforge-2101.1.11",
           "type": "ForgeMod",
           "artifact": {
@@ -2125,7 +2125,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-ultimine-neoforge-2101.1.15.jar@jar",
+          "id": "generated.forgemod:ftb-ultimine-neoforge-2101.1.15@jar",
           "name": "ftb-ultimine-neoforge-2101.1.15",
           "type": "ForgeMod",
           "artifact": {
@@ -2135,7 +2135,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftb-xmod-compat-neoforge-21.1.11.jar@jar",
+          "id": "generated.forgemod:ftb-xmod-compat-neoforge-21.1.11@jar",
           "name": "ftb-xmod-compat-neoforge-21.1.11",
           "type": "ForgeMod",
           "artifact": {
@@ -2145,7 +2145,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ftbquestsresetpatch-1.21.1-1.0.0.jar@jar",
+          "id": "generated.forgemod:ftbquestsresetpatch-1.21.1-1.0.0@jar",
           "name": "ftbquestsresetpatch-1.21.1-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2155,7 +2155,7 @@
           }
         },
         {
-          "id": "generated.forgemod:fusion-1.3.15a-neoforge-mc1.21.1.jar@jar",
+          "id": "generated.forgemod:fusion-1.3.15a-neoforge-mc1.21.1@jar",
           "name": "fusion-1.3.15a-neoforge-mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2165,7 +2165,7 @@
           }
         },
         {
-          "id": "generated.forgemod:fzzy_config-0.7.7+1.21+neoforge.jar@jar",
+          "id": "generated.forgemod:fzzy_config-0.7.7+1.21+neoforge@jar",
           "name": "fzzy_config-0.7.7+1.21+neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -2175,7 +2175,7 @@
           }
         },
         {
-          "id": "generated.forgemod:GatewaysToEternity-1.21.1-5.1.0.jar@jar",
+          "id": "generated.forgemod:GatewaysToEternity-1.21.1-5.1.0@jar",
           "name": "GatewaysToEternity-1.21.1-5.1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2185,7 +2185,7 @@
           }
         },
         {
-          "id": "generated.forgemod:geckolib-neoforge-1.21.1-4.9.3.jar@jar",
+          "id": "generated.forgemod:geckolib-neoforge-1.21.1-4.9.3@jar",
           "name": "geckolib-neoforge-1.21.1-4.9.3",
           "type": "ForgeMod",
           "artifact": {
@@ -2195,7 +2195,7 @@
           }
         },
         {
-          "id": "generated.forgemod:GeOre-1.21.1-6.2.2.jar@jar",
+          "id": "generated.forgemod:GeOre-1.21.1-6.2.2@jar",
           "name": "GeOre-1.21.1-6.2.2",
           "type": "ForgeMod",
           "artifact": {
@@ -2205,7 +2205,7 @@
           }
         },
         {
-          "id": "generated.forgemod:geore_additions-4.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:geore_additions-4.0-neoforge-1.21.1@jar",
           "name": "geore_additions-4.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2215,7 +2215,7 @@
           }
         },
         {
-          "id": "generated.forgemod:GlitchCore-neoforge-1.21.1-2.1.0.2.jar@jar",
+          "id": "generated.forgemod:GlitchCore-neoforge-1.21.1-2.1.0.2@jar",
           "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -2225,7 +2225,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Glodium-1.21-2.2-neoforge.jar@jar",
+          "id": "generated.forgemod:Glodium-1.21-2.2-neoforge@jar",
           "name": "Glodium-1.21-2.2-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -2235,7 +2235,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Gobber-NeoForge-1.21.1-2.10.15.jar@jar",
+          "id": "generated.forgemod:Gobber-NeoForge-1.21.1-2.10.15@jar",
           "name": "Gobber-NeoForge-1.21.1-2.10.15",
           "type": "ForgeMod",
           "artifact": {
@@ -2245,7 +2245,7 @@
           }
         },
         {
-          "id": "generated.forgemod:gobberdelight-2.2.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:gobberdelight-2.2.0-neoforge-1.21.1@jar",
           "name": "gobberdelight-2.2.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2255,7 +2255,7 @@
           }
         },
         {
-          "id": "generated.forgemod:guideme-21.1.17.jar@jar",
+          "id": "generated.forgemod:guideme-21.1.17@jar",
           "name": "guideme-21.1.17",
           "type": "ForgeMod",
           "artifact": {
@@ -2265,7 +2265,7 @@
           }
         },
         {
-          "id": "generated.forgemod:hazentouvelib-1.0.9.jar@jar",
+          "id": "generated.forgemod:hazentouvelib-1.0.9@jar",
           "name": "hazentouvelib-1.0.9",
           "type": "ForgeMod",
           "artifact": {
@@ -2275,7 +2275,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ImmersiveEngineering-1.21.1-12.4.2-194.jar@jar",
+          "id": "generated.forgemod:ImmersiveEngineering-1.21.1-12.4.2-194@jar",
           "name": "ImmersiveEngineering-1.21.1-12.4.2-194",
           "type": "ForgeMod",
           "artifact": {
@@ -2285,7 +2285,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Incendium_1.21.x_v5.4.4.jar@jar",
+          "id": "generated.forgemod:Incendium_1.21.x_v5.4.4@jar",
           "name": "Incendium_1.21.x_v5.4.4",
           "type": "ForgeMod",
           "artifact": {
@@ -2295,7 +2295,7 @@
           }
         },
         {
-          "id": "generated.forgemod:industrialforegoing-1.21-3.6.38.jar@jar",
+          "id": "generated.forgemod:industrialforegoing-1.21-3.6.38@jar",
           "name": "industrialforegoing-1.21-3.6.38",
           "type": "ForgeMod",
           "artifact": {
@@ -2305,7 +2305,7 @@
           }
         },
         {
-          "id": "generated.forgemod:integratedcrafting-1.21.1-neoforge-1.7.0.jar@jar",
+          "id": "generated.forgemod:integratedcrafting-1.21.1-neoforge-1.7.0@jar",
           "name": "integratedcrafting-1.21.1-neoforge-1.7.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2315,7 +2315,7 @@
           }
         },
         {
-          "id": "generated.forgemod:integratedcrafting-1.21.1-neoforge-1.7.1-792.jar@jar",
+          "id": "generated.forgemod:integratedcrafting-1.21.1-neoforge-1.7.1-792@jar",
           "name": "integratedcrafting-1.21.1-neoforge-1.7.1-792",
           "type": "ForgeMod",
           "artifact": {
@@ -2325,7 +2325,7 @@
           }
         },
         {
-          "id": "generated.forgemod:integrateddynamics-1.21.1-neoforge-1.37.1.jar@jar",
+          "id": "generated.forgemod:integrateddynamics-1.21.1-neoforge-1.37.1@jar",
           "name": "integrateddynamics-1.21.1-neoforge-1.37.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2335,7 +2335,7 @@
           }
         },
         {
-          "id": "generated.forgemod:integratedmekanism-1.21.1-neoforge-1.1.3.jar@jar",
+          "id": "generated.forgemod:integratedmekanism-1.21.1-neoforge-1.1.3@jar",
           "name": "integratedmekanism-1.21.1-neoforge-1.1.3",
           "type": "ForgeMod",
           "artifact": {
@@ -2345,7 +2345,7 @@
           }
         },
         {
-          "id": "generated.forgemod:integratedterminals-1.21.1-neoforge-1.10.0.jar@jar",
+          "id": "generated.forgemod:integratedterminals-1.21.1-neoforge-1.10.0@jar",
           "name": "integratedterminals-1.21.1-neoforge-1.10.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2355,7 +2355,7 @@
           }
         },
         {
-          "id": "generated.forgemod:integratedtunnels-1.21.1-neoforge-1.12.0.jar@jar",
+          "id": "generated.forgemod:integratedtunnels-1.21.1-neoforge-1.12.0@jar",
           "name": "integratedtunnels-1.21.1-neoforge-1.12.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2365,7 +2365,7 @@
           }
         },
         {
-          "id": "generated.forgemod:integrated_api-neoforge-1.21.1-1.8.2.jar@jar",
+          "id": "generated.forgemod:integrated_api-neoforge-1.21.1-1.8.2@jar",
           "name": "integrated_api-neoforge-1.21.1-1.8.2",
           "type": "ForgeMod",
           "artifact": {
@@ -2375,7 +2375,7 @@
           }
         },
         {
-          "id": "generated.forgemod:interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5.jar@jar",
+          "id": "generated.forgemod:interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5@jar",
           "name": "interdimensionalwirelesstransmitter-neoforge-1.21.1-0.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -2385,7 +2385,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ironfurnaces-neoforge-1.21.1-4.3.2.jar@jar",
+          "id": "generated.forgemod:ironfurnaces-neoforge-1.21.1-4.3.2@jar",
           "name": "ironfurnaces-neoforge-1.21.1-4.3.2",
           "type": "ForgeMod",
           "artifact": {
@@ -2395,7 +2395,7 @@
           }
         },
         {
-          "id": "generated.forgemod:IronJetpacks-1.21.1-8.0.11.jar@jar",
+          "id": "generated.forgemod:IronJetpacks-1.21.1-8.0.11@jar",
           "name": "IronJetpacks-1.21.1-8.0.11",
           "type": "ForgeMod",
           "artifact": {
@@ -2405,7 +2405,7 @@
           }
         },
         {
-          "id": "generated.forgemod:irons_lib-1.21.1-2.1.0.jar@jar",
+          "id": "generated.forgemod:irons_lib-1.21.1-2.1.0@jar",
           "name": "irons_lib-1.21.1-2.1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2415,7 +2415,7 @@
           }
         },
         {
-          "id": "generated.forgemod:irons_restrictions-1.21.1-5.2.0.jar@jar",
+          "id": "generated.forgemod:irons_restrictions-1.21.1-5.2.0@jar",
           "name": "irons_restrictions-1.21.1-5.2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2425,7 +2425,7 @@
           }
         },
         {
-          "id": "generated.forgemod:irons_spellbooks-1.21.1-3.16.3.jar@jar",
+          "id": "generated.forgemod:irons_spellbooks-1.21.1-3.16.3@jar",
           "name": "irons_spellbooks-1.21.1-3.16.3",
           "type": "ForgeMod",
           "artifact": {
@@ -2435,7 +2435,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Jade-1.21.1-NeoForge-15.10.6.jar@jar",
+          "id": "generated.forgemod:Jade-1.21.1-NeoForge-15.10.6@jar",
           "name": "Jade-1.21.1-NeoForge-15.10.6",
           "type": "ForgeMod",
           "artifact": {
@@ -2445,7 +2445,7 @@
           }
         },
         {
-          "id": "generated.forgemod:jamlib-neoforge-1.3.6+1.21.1.jar@jar",
+          "id": "generated.forgemod:jamlib-neoforge-1.3.6+1.21.1@jar",
           "name": "jamlib-neoforge-1.3.6+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2455,7 +2455,7 @@
           }
         },
         {
-          "id": "generated.forgemod:journeymap-neoforge-1.21.1-6.0.8.jar@jar",
+          "id": "generated.forgemod:journeymap-neoforge-1.21.1-6.0.8@jar",
           "name": "journeymap-neoforge-1.21.1-6.0.8",
           "type": "ForgeMod",
           "artifact": {
@@ -2465,7 +2465,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Kobolds-4.0.1.jar@jar",
+          "id": "generated.forgemod:Kobolds-4.0.1@jar",
           "name": "Kobolds-4.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2475,7 +2475,7 @@
           }
         },
         {
-          "id": "generated.forgemod:kotlinforforge-5.12.0-all.jar@jar",
+          "id": "generated.forgemod:kotlinforforge-5.12.0-all@jar",
           "name": "kotlinforforge-5.12.0-all",
           "type": "ForgeMod",
           "artifact": {
@@ -2485,7 +2485,7 @@
           }
         },
         {
-          "id": "generated.forgemod:kubejs-create-neoforge-2101.3.1-build.18.jar@jar",
+          "id": "generated.forgemod:kubejs-create-neoforge-2101.3.1-build.18@jar",
           "name": "kubejs-create-neoforge-2101.3.1-build.18",
           "type": "ForgeMod",
           "artifact": {
@@ -2495,7 +2495,7 @@
           }
         },
         {
-          "id": "generated.forgemod:kubejs-mekanism-neoforge-2101.1.7-build.18.jar@jar",
+          "id": "generated.forgemod:kubejs-mekanism-neoforge-2101.1.7-build.18@jar",
           "name": "kubejs-mekanism-neoforge-2101.1.7-build.18",
           "type": "ForgeMod",
           "artifact": {
@@ -2505,7 +2505,7 @@
           }
         },
         {
-          "id": "generated.forgemod:kubejs-neoforge-2101.7.2-build.377.jar@jar",
+          "id": "generated.forgemod:kubejs-neoforge-2101.7.2-build.377@jar",
           "name": "kubejs-neoforge-2101.7.2-build.377",
           "type": "ForgeMod",
           "artifact": {
@@ -2515,7 +2515,7 @@
           }
         },
         {
-          "id": "generated.forgemod:kubejspowah-1.3.4.jar@jar",
+          "id": "generated.forgemod:kubejspowah-1.3.4@jar",
           "name": "kubejspowah-1.3.4",
           "type": "ForgeMod",
           "artifact": {
@@ -2525,7 +2525,7 @@
           }
         },
         {
-          "id": "generated.forgemod:kubejs_oritech-1.0.0.jar@jar",
+          "id": "generated.forgemod:kubejs_oritech-1.0.0@jar",
           "name": "kubejs_oritech-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2535,7 +2535,7 @@
           }
         },
         {
-          "id": "generated.forgemod:kubejs_oritech-neoforge-1.21.1-0.4.5.jar@jar",
+          "id": "generated.forgemod:kubejs_oritech-neoforge-1.21.1-0.4.5@jar",
           "name": "kubejs_oritech-neoforge-1.21.1-0.4.5",
           "type": "ForgeMod",
           "artifact": {
@@ -2545,7 +2545,7 @@
           }
         },
         {
-          "id": "generated.forgemod:large_meals-1.21.1-1.0.1.jar@jar",
+          "id": "generated.forgemod:large_meals-1.21.1-1.0.1@jar",
           "name": "large_meals-1.21.1-1.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2555,7 +2555,7 @@
           }
         },
         {
-          "id": "generated.forgemod:laserio-1.9.11.jar@jar",
+          "id": "generated.forgemod:laserio-1.9.11@jar",
           "name": "laserio-1.9.11",
           "type": "ForgeMod",
           "artifact": {
@@ -2565,7 +2565,7 @@
           }
         },
         {
-          "id": "generated.forgemod:lava_generator-1.0.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:lava_generator-1.0.0-neoforge-1.21.1@jar",
           "name": "lava_generator-1.0.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2575,7 +2575,7 @@
           }
         },
         {
-          "id": "generated.forgemod:lithium-neoforge-0.15.4+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:lithium-neoforge-0.15.4+mc1.21.1@jar",
           "name": "lithium-neoforge-0.15.4+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2585,7 +2585,7 @@
           }
         },
         {
-          "id": "generated.forgemod:lithostitched-1.7.13-neoforge-21.1.jar@jar",
+          "id": "generated.forgemod:lithostitched-1.7.13-neoforge-21.1@jar",
           "name": "lithostitched-1.7.13-neoforge-21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2595,7 +2595,7 @@
           }
         },
         {
-          "id": "generated.forgemod:lmft-1.1.1+1.21.9-neoforge.jar@jar",
+          "id": "generated.forgemod:lmft-1.1.1+1.21.9-neoforge@jar",
           "name": "lmft-1.1.1+1.21.9-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -2605,7 +2605,7 @@
           }
         },
         {
-          "id": "generated.forgemod:lodestone-1.21.1-1.8.2.jar@jar",
+          "id": "generated.forgemod:lodestone-1.21.1-1.8.2@jar",
           "name": "lodestone-1.21.1-1.8.2",
           "type": "ForgeMod",
           "artifact": {
@@ -2615,7 +2615,7 @@
           }
         },
         {
-          "id": "generated.forgemod:lootr-neoforge-1.21.1-1.11.38.125.jar@jar",
+          "id": "generated.forgemod:lootr-neoforge-1.21.1-1.11.38.125@jar",
           "name": "lootr-neoforge-1.21.1-1.11.38.125",
           "type": "ForgeMod",
           "artifact": {
@@ -2625,7 +2625,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Luminous Overworld V1.5.52 -NeoForge 1.21.1.jar@jar",
+          "id": "generated.forgemod:Luminous Overworld V1.5.52 -NeoForge 1.21.1@jar",
           "name": "Luminous Overworld V1.5.52 -NeoForge 1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2635,7 +2635,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mahoutsukai-1.21.1-v1.36.28.jar@jar",
+          "id": "generated.forgemod:mahoutsukai-1.21.1-v1.36.28@jar",
           "name": "mahoutsukai-1.21.1-v1.36.28",
           "type": "ForgeMod",
           "artifact": {
@@ -2645,7 +2645,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mahou_tsukai_combat-2.0.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:mahou_tsukai_combat-2.0.0-neoforge-1.21.1@jar",
           "name": "mahou_tsukai_combat-2.0.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2655,7 +2655,7 @@
           }
         },
         {
-          "id": "generated.forgemod:malum-1.21.1-1.8.2.jar@jar",
+          "id": "generated.forgemod:malum-1.21.1-1.8.2@jar",
           "name": "malum-1.21.1-1.8.2",
           "type": "ForgeMod",
           "artifact": {
@@ -2665,7 +2665,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MassC Neo1.21.1 2.0.0.jar@jar",
+          "id": "generated.forgemod:MassC Neo1.21.1 2.0.0@jar",
           "name": "MassC Neo1.21.1 2.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2675,7 +2675,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mcjtylib-1.21-9.0.21.jar@jar",
+          "id": "generated.forgemod:mcjtylib-1.21-9.0.21@jar",
           "name": "mcjtylib-1.21-9.0.21",
           "type": "ForgeMod",
           "artifact": {
@@ -2685,7 +2685,7 @@
           }
         },
         {
-          "id": "generated.forgemod:megacells-4.11.0.jar@jar",
+          "id": "generated.forgemod:megacells-4.11.0@jar",
           "name": "megacells-4.11.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2695,7 +2695,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekajadeupgrade-1.3.jar@jar",
+          "id": "generated.forgemod:mekajadeupgrade-1.3@jar",
           "name": "mekajadeupgrade-1.3",
           "type": "ForgeMod",
           "artifact": {
@@ -2705,7 +2705,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Mekanism-1.21.1-10.7.19.85.jar@jar",
+          "id": "generated.forgemod:Mekanism-1.21.1-10.7.19.85@jar",
           "name": "Mekanism-1.21.1-10.7.19.85",
           "type": "ForgeMod",
           "artifact": {
@@ -2715,7 +2715,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MekanismAdditions-1.21.1-10.7.19.85.jar@jar",
+          "id": "generated.forgemod:MekanismAdditions-1.21.1-10.7.19.85@jar",
           "name": "MekanismAdditions-1.21.1-10.7.19.85",
           "type": "ForgeMod",
           "artifact": {
@@ -2725,7 +2725,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekanismcurios-1.21.1-1.2.1.jar@jar",
+          "id": "generated.forgemod:mekanismcurios-1.21.1-1.2.1@jar",
           "name": "mekanismcurios-1.21.1-1.2.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2735,7 +2735,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MekanismGenerators-1.21.1-10.7.19.85.jar@jar",
+          "id": "generated.forgemod:MekanismGenerators-1.21.1-10.7.19.85@jar",
           "name": "MekanismGenerators-1.21.1-10.7.19.85",
           "type": "ForgeMod",
           "artifact": {
@@ -2745,7 +2745,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MekanismTools-1.21.1-10.7.19.85.jar@jar",
+          "id": "generated.forgemod:MekanismTools-1.21.1-10.7.19.85@jar",
           "name": "MekanismTools-1.21.1-10.7.19.85",
           "type": "ForgeMod",
           "artifact": {
@@ -2755,7 +2755,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MekanismWeapons-1.21.1-4.2.1.jar@jar",
+          "id": "generated.forgemod:MekanismWeapons-1.21.1-4.2.1@jar",
           "name": "MekanismWeapons-1.21.1-4.2.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2765,7 +2765,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekanism_lasers-1.1.10.3-c.jar@jar",
+          "id": "generated.forgemod:mekanism_lasers-1.1.10.3-c@jar",
           "name": "mekanism_lasers-1.1.10.3-c",
           "type": "ForgeMod",
           "artifact": {
@@ -2775,7 +2775,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekanism_trimming-1.21.1-1.0.jar@jar",
+          "id": "generated.forgemod:mekanism_trimming-1.21.1-1.0@jar",
           "name": "mekanism_trimming-1.21.1-1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2785,7 +2785,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekanism_turrets-2.2.3.jar@jar",
+          "id": "generated.forgemod:mekanism_turrets-2.2.3@jar",
           "name": "mekanism_turrets-2.2.3",
           "type": "ForgeMod",
           "artifact": {
@@ -2795,7 +2795,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekanism_unleashed-0.3.4.jar@jar",
+          "id": "generated.forgemod:mekanism_unleashed-0.3.4@jar",
           "name": "mekanism_unleashed-0.3.4",
           "type": "ForgeMod",
           "artifact": {
@@ -2805,7 +2805,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekanism_weaponry-2.1.5.jar@jar",
+          "id": "generated.forgemod:mekanism_weaponry-2.1.5@jar",
           "name": "mekanism_weaponry-2.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -2815,7 +2815,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mekmm-1.21.1-1.4.1.jar@jar",
+          "id": "generated.forgemod:mekmm-1.21.1-1.4.1@jar",
           "name": "mekmm-1.21.1-1.4.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2825,7 +2825,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mob_grinding_utils-1.1.10+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:mob_grinding_utils-1.1.10+mc1.21.1@jar",
           "name": "mob_grinding_utils-1.1.10+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2835,7 +2835,7 @@
           }
         },
         {
-          "id": "generated.forgemod:modernfix-neoforge-5.27.24+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:modernfix-neoforge-5.27.24+mc1.21.1@jar",
           "name": "modernfix-neoforge-5.27.24+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2845,7 +2845,7 @@
           }
         },
         {
-          "id": "generated.forgemod:modonomicon-1.21.1-neoforge-1.120.4.jar@jar",
+          "id": "generated.forgemod:modonomicon-1.21.1-neoforge-1.120.4@jar",
           "name": "modonomicon-1.21.1-neoforge-1.120.4",
           "type": "ForgeMod",
           "artifact": {
@@ -2855,7 +2855,7 @@
           }
         },
         {
-          "id": "generated.forgemod:modular-routers-13.2.7+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:modular-routers-13.2.7+mc1.21.1@jar",
           "name": "modular-routers-13.2.7+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2865,7 +2865,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3.jar@jar",
+          "id": "generated.forgemod:Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3@jar",
           "name": "Moon-Bundle-1.21.1-NeoForge-fabric-1.0.3",
           "type": "ForgeMod",
           "artifact": {
@@ -2875,7 +2875,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moonlight-1.21.1-3.6.4-neoforge.jar@jar",
+          "id": "generated.forgemod:moonlight-1.21.1-3.6.4-neoforge@jar",
           "name": "moonlight-1.21.1-3.6.4-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -2885,7 +2885,7 @@
           }
         },
         {
-          "id": "generated.forgemod:moreculling-neoforge-1.21.1-1.0.10.jar@jar",
+          "id": "generated.forgemod:moreculling-neoforge-1.21.1-1.0.10@jar",
           "name": "moreculling-neoforge-1.21.1-1.0.10",
           "type": "ForgeMod",
           "artifact": {
@@ -2895,7 +2895,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MoreMekanismProcessing-1.21.1-6.8.jar@jar",
+          "id": "generated.forgemod:MoreMekanismProcessing-1.21.1-6.8@jar",
           "name": "MoreMekanismProcessing-1.21.1-6.8",
           "type": "ForgeMod",
           "artifact": {
@@ -2905,7 +2905,7 @@
           }
         },
         {
-          "id": "generated.forgemod:more_pylons-1.2.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:more_pylons-1.2.0-neoforge-1.21.1@jar",
           "name": "more_pylons-1.2.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2915,7 +2915,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MouseTweaks-neoforge-mc1.21-2.26.1.jar@jar",
+          "id": "generated.forgemod:MouseTweaks-neoforge-mc1.21-2.26.1@jar",
           "name": "MouseTweaks-neoforge-mc1.21-2.26.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2925,7 +2925,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mystical-even-more-tier-1.21.1-0.1.0.jar@jar",
+          "id": "generated.forgemod:mystical-even-more-tier-1.21.1-0.1.0@jar",
           "name": "mystical-even-more-tier-1.21.1-0.1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -2935,7 +2935,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Mystical-Garden-Cloches-1.2.1.jar@jar",
+          "id": "generated.forgemod:Mystical-Garden-Cloches-1.2.1@jar",
           "name": "Mystical-Garden-Cloches-1.2.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2945,7 +2945,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MysticalAgradditions-1.21.1-8.0.14.jar@jar",
+          "id": "generated.forgemod:MysticalAgradditions-1.21.1-8.0.14@jar",
           "name": "MysticalAgradditions-1.21.1-8.0.14",
           "type": "ForgeMod",
           "artifact": {
@@ -2955,7 +2955,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MysticalAgriculture-1.21.1-8.0.28.jar@jar",
+          "id": "generated.forgemod:MysticalAgriculture-1.21.1-8.0.28@jar",
           "name": "MysticalAgriculture-1.21.1-8.0.28",
           "type": "ForgeMod",
           "artifact": {
@@ -2965,7 +2965,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MysticalAutomation-1.21.1-1.0.7.jar@jar",
+          "id": "generated.forgemod:MysticalAutomation-1.21.1-1.0.7@jar",
           "name": "MysticalAutomation-1.21.1-1.0.7",
           "type": "ForgeMod",
           "artifact": {
@@ -2975,7 +2975,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MysticalCustomization-1.21.1-6.0.2.jar@jar",
+          "id": "generated.forgemod:MysticalCustomization-1.21.1-6.0.2@jar",
           "name": "MysticalCustomization-1.21.1-6.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -2985,7 +2985,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mysticaldelight-1.2.1.jar@jar",
+          "id": "generated.forgemod:mysticaldelight-1.2.1@jar",
           "name": "mysticaldelight-1.2.1",
           "type": "ForgeMod",
           "artifact": {
@@ -2995,7 +2995,7 @@
           }
         },
         {
-          "id": "generated.forgemod:MysticalExtendedTier-1.2.1.1-1.0.0.jar@jar",
+          "id": "generated.forgemod:MysticalExtendedTier-1.2.1.1-1.0.0@jar",
           "name": "MysticalExtendedTier-1.2.1.1-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3005,7 +3005,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mysticalextended_botanypots_comp-1.0.3-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:mysticalextended_botanypots_comp-1.0.3-neoforge-1.21.1@jar",
           "name": "mysticalextended_botanypots_comp-1.0.3-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3015,7 +3015,7 @@
           }
         },
         {
-          "id": "generated.forgemod:mystical_missing_items-1.2.2.jar@jar",
+          "id": "generated.forgemod:mystical_missing_items-1.2.2@jar",
           "name": "mystical_missing_items-1.2.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3025,7 +3025,7 @@
           }
         },
         {
-          "id": "generated.forgemod:NaturesCompass-1.21.1-3.4.0-neoforge.jar@jar",
+          "id": "generated.forgemod:NaturesCompass-1.21.1-3.4.0-neoforge@jar",
           "name": "NaturesCompass-1.21.1-3.4.0-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -3035,7 +3035,7 @@
           }
         },
         {
-          "id": "generated.forgemod:neoforge-1.21.1-1.1.0.jar@jar",
+          "id": "generated.forgemod:neoforge-1.21.1-1.1.0@jar",
           "name": "neoforge-1.21.1-1.1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3045,7 +3045,7 @@
           }
         },
         {
-          "id": "generated.forgemod:neoforge-3.24.4-1.21.1-alpha1.jar@jar",
+          "id": "generated.forgemod:neoforge-3.24.4-1.21.1-alpha1@jar",
           "name": "neoforge-3.24.4-1.21.1-alpha1",
           "type": "ForgeMod",
           "artifact": {
@@ -3055,7 +3055,7 @@
           }
         },
         {
-          "id": "generated.forgemod:neovitae-1.21.1-1.1.26.jar@jar",
+          "id": "generated.forgemod:neovitae-1.21.1-1.1.26@jar",
           "name": "neovitae-1.21.1-1.1.26",
           "type": "ForgeMod",
           "artifact": {
@@ -3065,7 +3065,7 @@
           }
         },
         {
-          "id": "generated.forgemod:nether-s-exoticism-1.21.1-1.2.9.jar@jar",
+          "id": "generated.forgemod:nether-s-exoticism-1.21.1-1.2.9@jar",
           "name": "nether-s-exoticism-1.21.1-1.2.9",
           "type": "ForgeMod",
           "artifact": {
@@ -3075,7 +3075,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Nullscape_1.21.x_v1.2.14.jar@jar",
+          "id": "generated.forgemod:Nullscape_1.21.x_v1.2.14@jar",
           "name": "Nullscape_1.21.x_v1.2.14",
           "type": "ForgeMod",
           "artifact": {
@@ -3085,7 +3085,7 @@
           }
         },
         {
-          "id": "generated.forgemod:occultengineering-1.21.1-0.13.1.jar@jar",
+          "id": "generated.forgemod:occultengineering-1.21.1-0.13.1@jar",
           "name": "occultengineering-1.21.1-0.13.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3095,7 +3095,7 @@
           }
         },
         {
-          "id": "generated.forgemod:occultism-1.21.1-neoforge-1.224.4.jar@jar",
+          "id": "generated.forgemod:occultism-1.21.1-neoforge-1.224.4@jar",
           "name": "occultism-1.21.1-neoforge-1.224.4",
           "type": "ForgeMod",
           "artifact": {
@@ -3105,7 +3105,7 @@
           }
         },
         {
-          "id": "generated.forgemod:occultism_kubejs-1.21.1-neoforge-1.11.0.jar@jar",
+          "id": "generated.forgemod:occultism_kubejs-1.21.1-neoforge-1.11.0@jar",
           "name": "occultism_kubejs-1.21.1-neoforge-1.11.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3115,7 +3115,7 @@
           }
         },
         {
-          "id": "generated.forgemod:OctoLib-NEOFORGE-0.6.2+1.21.jar@jar",
+          "id": "generated.forgemod:OctoLib-NEOFORGE-0.6.2+1.21@jar",
           "name": "OctoLib-NEOFORGE-0.6.2+1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -3125,7 +3125,7 @@
           }
         },
         {
-          "id": "generated.forgemod:oritech-neoforge-1.21.1-1.2.12.jar@jar",
+          "id": "generated.forgemod:oritech-neoforge-1.21.1-1.2.12@jar",
           "name": "oritech-neoforge-1.21.1-1.2.12",
           "type": "ForgeMod",
           "artifact": {
@@ -3135,7 +3135,7 @@
           }
         },
         {
-          "id": "generated.forgemod:oritech_steel_tools-neoforge-1.0.0.jar@jar",
+          "id": "generated.forgemod:oritech_steel_tools-neoforge-1.0.0@jar",
           "name": "oritech_steel_tools-neoforge-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3145,7 +3145,7 @@
           }
         },
         {
-          "id": "generated.forgemod:otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1.jar@jar",
+          "id": "generated.forgemod:otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1@jar",
           "name": "otyacraftenginerenewed-neoforge-3.7.2-1.21.1-beta1",
           "type": "ForgeMod",
           "artifact": {
@@ -3155,7 +3155,7 @@
           }
         },
         {
-          "id": "generated.forgemod:owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar@jar",
+          "id": "generated.forgemod:owo-lib-neoforge-0.12.15.5-beta.1+1.21@jar",
           "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -3165,7 +3165,7 @@
           }
         },
         {
-          "id": "generated.forgemod:PackagedAuto-1.21.1-4.0.8.21.jar@jar",
+          "id": "generated.forgemod:PackagedAuto-1.21.1-4.0.8.21@jar",
           "name": "PackagedAuto-1.21.1-4.0.8.21",
           "type": "ForgeMod",
           "artifact": {
@@ -3175,7 +3175,7 @@
           }
         },
         {
-          "id": "generated.forgemod:packetfixer-3.3.1-1.20.5-1.21.X-merged.jar@jar",
+          "id": "generated.forgemod:packetfixer-3.3.1-1.20.5-1.21.X-merged@jar",
           "name": "packetfixer-3.3.1-1.20.5-1.21.X-merged",
           "type": "ForgeMod",
           "artifact": {
@@ -3185,7 +3185,7 @@
           }
         },
         {
-          "id": "generated.forgemod:PackMenu-1.21.1-7.0.4.jar@jar",
+          "id": "generated.forgemod:PackMenu-1.21.1-7.0.4@jar",
           "name": "PackMenu-1.21.1-7.0.4",
           "type": "ForgeMod",
           "artifact": {
@@ -3195,7 +3195,7 @@
           }
         },
         {
-          "id": "generated.forgemod:paladins-neoforge-3.1.1+1.21.1.jar@jar",
+          "id": "generated.forgemod:paladins-neoforge-3.1.1+1.21.1@jar",
           "name": "paladins-neoforge-3.1.1+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3205,7 +3205,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pamhc2fantasy-NEOFORGE-1.21.0-1.0.3.jar@jar",
+          "id": "generated.forgemod:pamhc2fantasy-NEOFORGE-1.21.0-1.0.3@jar",
           "name": "pamhc2fantasy-NEOFORGE-1.21.0-1.0.3",
           "type": "ForgeMod",
           "artifact": {
@@ -3215,7 +3215,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar@jar",
+          "id": "generated.forgemod:pamhc2foodcore-NEOFORGE-1.21.1-1.0.4@jar",
           "name": "pamhc2foodcore-NEOFORGE-1.21.1-1.0.4",
           "type": "ForgeMod",
           "artifact": {
@@ -3225,7 +3225,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar@jar",
+          "id": "generated.forgemod:pamhc2foodextended-NEOFORGE-1.21.1-1.0.0@jar",
           "name": "pamhc2foodextended-NEOFORGE-1.21.1-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3235,7 +3235,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar@jar",
+          "id": "generated.forgemod:pamhc2trees-NEOFORGE-1.21.1-1.0.9@jar",
           "name": "pamhc2trees-NEOFORGE-1.21.1-1.0.9",
           "type": "ForgeMod",
           "artifact": {
@@ -3245,7 +3245,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pamhc2tweak-1.21.1-1.3.2.jar@jar",
+          "id": "generated.forgemod:pamhc2tweak-1.21.1-1.3.2@jar",
           "name": "pamhc2tweak-1.21.1-1.3.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3255,7 +3255,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Patchouli-1.21.1-93-NEOFORGE.jar@jar",
+          "id": "generated.forgemod:Patchouli-1.21.1-93-NEOFORGE@jar",
           "name": "Patchouli-1.21.1-93-NEOFORGE",
           "type": "ForgeMod",
           "artifact": {
@@ -3265,7 +3265,7 @@
           }
         },
         {
-          "id": "generated.forgemod:phantasm-1.0.3.jar@jar",
+          "id": "generated.forgemod:phantasm-1.0.3@jar",
           "name": "phantasm-1.0.3",
           "type": "ForgeMod",
           "artifact": {
@@ -3275,7 +3275,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pipez-neoforge-1.21.1-1.2.31.jar@jar",
+          "id": "generated.forgemod:pipez-neoforge-1.21.1-1.2.31@jar",
           "name": "pipez-neoforge-1.21.1-1.2.31",
           "type": "ForgeMod",
           "artifact": {
@@ -3285,7 +3285,7 @@
           }
         },
         {
-          "id": "generated.forgemod:PipIO-1.21.1-1.1.1.jar@jar",
+          "id": "generated.forgemod:PipIO-1.21.1-1.1.1@jar",
           "name": "PipIO-1.21.1-1.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3295,7 +3295,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Placebo-1.21.1-9.9.2.jar@jar",
+          "id": "generated.forgemod:Placebo-1.21.1-9.9.2@jar",
           "name": "Placebo-1.21.1-9.9.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3305,7 +3305,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Platform-neoforge-1.21.1-1.3.3.jar@jar",
+          "id": "generated.forgemod:Platform-neoforge-1.21.1-1.3.3@jar",
           "name": "Platform-neoforge-1.21.1-1.3.3",
           "type": "ForgeMod",
           "artifact": {
@@ -3315,7 +3315,7 @@
           }
         },
         {
-          "id": "generated.forgemod:player-animation-lib-forge-2.0.4+1.21.1.jar@jar",
+          "id": "generated.forgemod:player-animation-lib-forge-2.0.4+1.21.1@jar",
           "name": "player-animation-lib-forge-2.0.4+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3325,7 +3325,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pmc-1.0.1.jar@jar",
+          "id": "generated.forgemod:pmc-1.0.1@jar",
           "name": "pmc-1.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3335,7 +3335,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pneumaticcraft-repressurized-8.2.23+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:pneumaticcraft-repressurized-8.2.23+mc1.21.1@jar",
           "name": "pneumaticcraft-repressurized-8.2.23+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3345,7 +3345,7 @@
           }
         },
 		{
-          "id": "generated.forgemod:iris-neoforge-1.8.14-beta.1+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:iris-neoforge-1.8.14-beta.1+mc1.21.1@jar",
           "name": "iris-neoforge-1.8.14-beta.1+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3355,7 +3355,7 @@
           }
         },
         {
-          "id": "generated.forgemod:polymorph-neoforge-1.1.0+1.21.1.jar@jar",
+          "id": "generated.forgemod:polymorph-neoforge-1.1.0+1.21.1@jar",
           "name": "polymorph-neoforge-1.1.0+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3365,7 +3365,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Powah-6.2.10.jar@jar",
+          "id": "generated.forgemod:Powah-6.2.10@jar",
           "name": "Powah-6.2.10",
           "type": "ForgeMod",
           "artifact": {
@@ -3375,7 +3375,7 @@
           }
         },
         {
-          "id": "generated.forgemod:prickle-neoforge-1.21.1-21.1.11.jar@jar",
+          "id": "generated.forgemod:prickle-neoforge-1.21.1-21.1.11@jar",
           "name": "prickle-neoforge-1.21.1-21.1.11",
           "type": "ForgeMod",
           "artifact": {
@@ -3385,7 +3385,7 @@
           }
         },
         {
-          "id": "generated.forgemod:productive-metalworks-kubejs-addon-1.0.0.jar@jar",
+          "id": "generated.forgemod:productive-metalworks-kubejs-addon-1.0.0@jar",
           "name": "productive-metalworks-kubejs-addon-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3395,7 +3395,7 @@
           }
         },
         {
-          "id": "generated.forgemod:productivebees-1.21.1-13.13.5.jar@jar",
+          "id": "generated.forgemod:productivebees-1.21.1-13.13.5@jar",
           "name": "productivebees-1.21.1-13.13.5",
           "type": "ForgeMod",
           "artifact": {
@@ -3405,7 +3405,7 @@
           }
         },
         {
-          "id": "generated.forgemod:productivebeesgenesis-1.0.7.jar@jar",
+          "id": "generated.forgemod:productivebeesgenesis-1.0.7@jar",
           "name": "productivebeesgenesis-1.0.7",
           "type": "ForgeMod",
           "artifact": {
@@ -3415,7 +3415,7 @@
           }
         },
         {
-          "id": "generated.forgemod:productivemetalworks-1.21.1-1.15.1.jar@jar",
+          "id": "generated.forgemod:productivemetalworks-1.21.1-1.15.1@jar",
           "name": "productivemetalworks-1.21.1-1.15.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3425,7 +3425,7 @@
           }
         },
         {
-          "id": "generated.forgemod:productivetrees-1.21.1-1.1.1.jar@jar",
+          "id": "generated.forgemod:productivetrees-1.21.1-1.1.1@jar",
           "name": "productivetrees-1.21.1-1.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3435,7 +3435,7 @@
           }
         },
         {
-          "id": "generated.forgemod:PuzzlesLib-v21.1.60-mc1.21.1-NeoForge.jar@jar",
+          "id": "generated.forgemod:PuzzlesLib-v21.1.60-mc1.21.1-NeoForge@jar",
           "name": "PuzzlesLib-v21.1.60-mc1.21.1-NeoForge",
           "type": "ForgeMod",
           "artifact": {
@@ -3445,7 +3445,7 @@
           }
         },
         {
-          "id": "generated.forgemod:pylons-1.21.1-5.4.2.jar@jar",
+          "id": "generated.forgemod:pylons-1.21.1-5.4.2@jar",
           "name": "pylons-1.21.1-5.4.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3455,7 +3455,7 @@
           }
         },
         {
-          "id": "generated.forgemod:railcraft-reborn-1.21.1-1.2.10.jar@jar",
+          "id": "generated.forgemod:railcraft-reborn-1.21.1-1.2.10@jar",
           "name": "railcraft-reborn-1.21.1-1.2.10",
           "type": "ForgeMod",
           "artifact": {
@@ -3465,7 +3465,7 @@
           }
         },
         {
-          "id": "generated.forgemod:railcraftrecipes-1.0.3-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:railcraftrecipes-1.0.3-neoforge-1.21.1@jar",
           "name": "railcraftrecipes-1.0.3-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3475,7 +3475,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ranged_weapon_api-neoforge-3.0.0+1.21.1.jar@jar",
+          "id": "generated.forgemod:ranged_weapon_api-neoforge-3.0.0+1.21.1@jar",
           "name": "ranged_weapon_api-neoforge-3.0.0+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3485,7 +3485,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rechiseled-1.2.6-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:rechiseled-1.2.6-neoforge-mc1.21@jar",
           "name": "rechiseled-1.2.6-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -3495,7 +3495,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rechiseledae-1.0.1-neoforge-mc1.21.1.jar@jar",
+          "id": "generated.forgemod:rechiseledae-1.0.1-neoforge-mc1.21.1@jar",
           "name": "rechiseledae-1.0.1-neoforge-mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3505,7 +3505,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rechiseledcreate-1.1.1-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:rechiseledcreate-1.1.1-neoforge-mc1.21@jar",
           "name": "rechiseledcreate-1.1.1-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -3515,7 +3515,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rechiseled_chipped-2.0-1.21.1.jar@jar",
+          "id": "generated.forgemod:rechiseled_chipped-2.0-1.21.1@jar",
           "name": "rechiseled_chipped-2.0-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3525,7 +3525,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refined-types-1.21.1-0.3.2.jar@jar",
+          "id": "generated.forgemod:refined-types-1.21.1-0.3.2@jar",
           "name": "refined-types-1.21.1-0.3.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3535,7 +3535,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refinedcooking-neoforge-1.21.1-6.4.1.jar@jar",
+          "id": "generated.forgemod:refinedcooking-neoforge-1.21.1-6.4.1@jar",
           "name": "refinedcooking-neoforge-1.21.1-6.4.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3545,7 +3545,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refinedfluidsubstitution-neoforge-1.21.1-2.0.0.jar@jar",
+          "id": "generated.forgemod:refinedfluidsubstitution-neoforge-1.21.1-2.0.0@jar",
           "name": "refinedfluidsubstitution-neoforge-1.21.1-2.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3555,7 +3555,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refinedstorage-curios-integration-1.0.0.jar@jar",
+          "id": "generated.forgemod:refinedstorage-curios-integration-1.0.0@jar",
           "name": "refinedstorage-curios-integration-1.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3565,7 +3565,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refinedstorage-mekanism-integration-1.1.1.jar@jar",
+          "id": "generated.forgemod:refinedstorage-mekanism-integration-1.1.1@jar",
           "name": "refinedstorage-mekanism-integration-1.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3575,7 +3575,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refinedstorage-neoforge-2.0.9.jar@jar",
+          "id": "generated.forgemod:refinedstorage-neoforge-2.0.9@jar",
           "name": "refinedstorage-neoforge-2.0.9",
           "type": "ForgeMod",
           "artifact": {
@@ -3585,7 +3585,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refinedstorage-quartz-arsenal-neoforge-1.0.8.jar@jar",
+          "id": "generated.forgemod:refinedstorage-quartz-arsenal-neoforge-1.0.8@jar",
           "name": "refinedstorage-quartz-arsenal-neoforge-1.0.8",
           "type": "ForgeMod",
           "artifact": {
@@ -3595,7 +3595,7 @@
           }
         },
         {
-          "id": "generated.forgemod:refurbished_furniture-neoforge-1.21.1-1.0.22.jar@jar",
+          "id": "generated.forgemod:refurbished_furniture-neoforge-1.21.1-1.0.22@jar",
           "name": "refurbished_furniture-neoforge-1.21.1-1.0.22",
           "type": "ForgeMod",
           "artifact": {
@@ -3605,7 +3605,7 @@
           }
         },
         {
-          "id": "generated.forgemod:regions-unexplored-0.6.2-neoforge-21.1.jar@jar",
+          "id": "generated.forgemod:regions-unexplored-0.6.2-neoforge-21.1@jar",
           "name": "regions-unexplored-0.6.2-neoforge-21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3615,7 +3615,7 @@
           }
         },
         {
-          "id": "generated.forgemod:relics-1.21.1-0.12.8.jar@jar",
+          "id": "generated.forgemod:relics-1.21.1-0.12.8@jar",
           "name": "relics-1.21.1-0.12.8",
           "type": "ForgeMod",
           "artifact": {
@@ -3625,7 +3625,7 @@
           }
         },
         {
-          "id": "generated.forgemod:reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7.jar@jar",
+          "id": "generated.forgemod:reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7@jar",
           "name": "reliquified_irons_spells_and_spellbooks-1.21.1-0.2.7",
           "type": "ForgeMod",
           "artifact": {
@@ -3635,7 +3635,7 @@
           }
         },
         {
-          "id": "generated.forgemod:remotedesk-1.0.2-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:remotedesk-1.0.2-neoforge-1.21.1@jar",
           "name": "remotedesk-1.0.2-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3645,7 +3645,7 @@
           }
         },
         {
-          "id": "generated.forgemod:reptilian-1.1.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:reptilian-1.1.0-neoforge-1.21.1@jar",
           "name": "reptilian-1.1.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3655,7 +3655,7 @@
           }
         },
         {
-          "id": "generated.forgemod:repurposed_structures-7.5.22+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:repurposed_structures-7.5.22+1.21.1-neoforge@jar",
           "name": "repurposed_structures-7.5.22+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -3665,7 +3665,7 @@
           }
         },
         {
-          "id": "generated.forgemod:repurposed_structures_farmers_delight_compat_v7.jar@jar",
+          "id": "generated.forgemod:repurposed_structures_farmers_delight_compat_v7@jar",
           "name": "repurposed_structures_farmers_delight_compat_v7",
           "type": "ForgeMod",
           "artifact": {
@@ -3675,7 +3675,7 @@
           }
         },
         {
-          "id": "generated.forgemod:resourcefulconfig-neoforge-1.21-3.0.11.jar@jar",
+          "id": "generated.forgemod:resourcefulconfig-neoforge-1.21-3.0.11@jar",
           "name": "resourcefulconfig-neoforge-1.21-3.0.11",
           "type": "ForgeMod",
           "artifact": {
@@ -3685,7 +3685,7 @@
           }
         },
         {
-          "id": "generated.forgemod:resourcefullib-neoforge-1.21-3.0.12.jar@jar",
+          "id": "generated.forgemod:resourcefullib-neoforge-1.21-3.0.12@jar",
           "name": "resourcefullib-neoforge-1.21-3.0.12",
           "type": "ForgeMod",
           "artifact": {
@@ -3695,7 +3695,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rftoolsbase-1.21-6.0.11.jar@jar",
+          "id": "generated.forgemod:rftoolsbase-1.21-6.0.11@jar",
           "name": "rftoolsbase-1.21-6.0.11",
           "type": "ForgeMod",
           "artifact": {
@@ -3705,7 +3705,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rftoolsbuilder-1.21-7.0.6.jar@jar",
+          "id": "generated.forgemod:rftoolsbuilder-1.21-7.0.6@jar",
           "name": "rftoolsbuilder-1.21-7.0.6",
           "type": "ForgeMod",
           "artifact": {
@@ -3715,7 +3715,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rftoolscontrol-1.21-8.0.2.jar@jar",
+          "id": "generated.forgemod:rftoolscontrol-1.21-8.0.2@jar",
           "name": "rftoolscontrol-1.21-8.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3725,7 +3725,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rftoolsdim-1.21-12.0.4.jar@jar",
+          "id": "generated.forgemod:rftoolsdim-1.21-12.0.4@jar",
           "name": "rftoolsdim-1.21-12.0.4",
           "type": "ForgeMod",
           "artifact": {
@@ -3735,7 +3735,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rftoolspower-1.21-7.0.6.jar@jar",
+          "id": "generated.forgemod:rftoolspower-1.21-7.0.6@jar",
           "name": "rftoolspower-1.21-7.0.6",
           "type": "ForgeMod",
           "artifact": {
@@ -3745,7 +3745,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rftoolsstorage-1.21-6.0.5.jar@jar",
+          "id": "generated.forgemod:rftoolsstorage-1.21-6.0.5@jar",
           "name": "rftoolsstorage-1.21-6.0.5",
           "type": "ForgeMod",
           "artifact": {
@@ -3755,7 +3755,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rftoolsutility-1.21-7.0.12.jar@jar",
+          "id": "generated.forgemod:rftoolsutility-1.21-7.0.12@jar",
           "name": "rftoolsutility-1.21-7.0.12",
           "type": "ForgeMod",
           "artifact": {
@@ -3765,7 +3765,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rfts_additions-1.0.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:rfts_additions-1.0.0-neoforge-1.21.1@jar",
           "name": "rfts_additions-1.0.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3775,7 +3775,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rhino-2101.2.7-build.85.jar@jar",
+          "id": "generated.forgemod:rhino-2101.2.7-build.85@jar",
           "name": "rhino-2101.2.7-build.85",
           "type": "ForgeMod",
           "artifact": {
@@ -3785,7 +3785,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rice_delight-2.0.0.jar@jar",
+          "id": "generated.forgemod:rice_delight-2.0.0@jar",
           "name": "rice_delight-2.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3795,7 +3795,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rightclickharvest-neoforge-4.6.1+1.21.1.jar@jar",
+          "id": "generated.forgemod:rightclickharvest-neoforge-4.6.1+1.21.1@jar",
           "name": "rightclickharvest-neoforge-4.6.1+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3805,7 +3805,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge@jar",
           "name": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -3815,7 +3815,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rogues-neoforge-3.1.1+1.21.1.jar@jar",
+          "id": "generated.forgemod:rogues-neoforge-3.1.1+1.21.1@jar",
           "name": "rogues-neoforge-3.1.1+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3825,7 +3825,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rottencreatures-neoforge-1.21.1-1.1.2.jar@jar",
+          "id": "generated.forgemod:rottencreatures-neoforge-1.21.1-1.1.2@jar",
           "name": "rottencreatures-neoforge-1.21.1-1.1.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3835,7 +3835,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rsinfinitybooster-neoforge-1.21.1-1.0.0.48.jar@jar",
+          "id": "generated.forgemod:rsinfinitybooster-neoforge-1.21.1-1.0.0.48@jar",
           "name": "rsinfinitybooster-neoforge-1.21.1-1.0.0.48",
           "type": "ForgeMod",
           "artifact": {
@@ -3845,7 +3845,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rsinsertexportupgrade-neoforge-1.21.1-2.1.1.jar@jar",
+          "id": "generated.forgemod:rsinsertexportupgrade-neoforge-1.21.1-2.1.1@jar",
           "name": "rsinsertexportupgrade-neoforge-1.21.1-2.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3855,7 +3855,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rspolymorph-neoforge-1.21.1-1.2.2.jar@jar",
+          "id": "generated.forgemod:rspolymorph-neoforge-1.21.1-1.2.2@jar",
           "name": "rspolymorph-neoforge-1.21.1-1.2.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3865,7 +3865,7 @@
           }
         },
         {
-          "id": "generated.forgemod:rsrequestify-1.21.1-3.0.0.jar@jar",
+          "id": "generated.forgemod:rsrequestify-1.21.1-3.0.0@jar",
           "name": "rsrequestify-1.21.1-3.0.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3875,7 +3875,7 @@
           }
         },
         {
-          "id": "generated.forgemod:runes-neoforge-1.3.2+1.21.1.jar@jar",
+          "id": "generated.forgemod:runes-neoforge-1.3.2+1.21.1@jar",
           "name": "runes-neoforge-1.3.2+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3885,7 +3885,7 @@
           }
         },
         {
-          "id": "generated.forgemod:sawmill-1.21-1.8.1-neoforge.jar@jar",
+          "id": "generated.forgemod:sawmill-1.21-1.8.1-neoforge@jar",
           "name": "sawmill-1.21-1.8.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -3895,7 +3895,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Searchables-neoforge-1.21.1-1.0.2.jar@jar",
+          "id": "generated.forgemod:Searchables-neoforge-1.21.1-1.0.2@jar",
           "name": "Searchables-neoforge-1.21.1-1.0.2",
           "type": "ForgeMod",
           "artifact": {
@@ -3905,7 +3905,7 @@
           }
         },
         {
-          "id": "generated.forgemod:sgearmetalworks-1.21.1-1.5.0.jar@jar",
+          "id": "generated.forgemod:sgearmetalworks-1.21.1-1.5.0@jar",
           "name": "sgearmetalworks-1.21.1-1.5.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3915,7 +3915,7 @@
           }
         },
         {
-          "id": "generated.forgemod:shetiphiancore-neoforge-1.21.1-1.1.jar@jar",
+          "id": "generated.forgemod:shetiphiancore-neoforge-1.21.1-1.1@jar",
           "name": "shetiphiancore-neoforge-1.21.1-1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3925,7 +3925,7 @@
           }
         },
         {
-          "id": "generated.forgemod:silent-gear-1.21.1-neoforge-4.2.1.1.jar@jar",
+          "id": "generated.forgemod:silent-gear-1.21.1-neoforge-4.2.1.1@jar",
           "name": "silent-gear-1.21.1-neoforge-4.2.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3935,7 +3935,7 @@
           }
         },
         {
-          "id": "generated.forgemod:silent-lib-1.21.1-neoforge-10.6.0.jar@jar",
+          "id": "generated.forgemod:silent-lib-1.21.1-neoforge-10.6.0@jar",
           "name": "silent-lib-1.21.1-neoforge-10.6.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3945,7 +3945,7 @@
           }
         },
         {
-          "id": "generated.forgemod:simplehats-neoforge-1.21.1-0.4.0.jar@jar",
+          "id": "generated.forgemod:simplehats-neoforge-1.21.1-0.4.0@jar",
           "name": "simplehats-neoforge-1.21.1-0.4.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3955,7 +3955,7 @@
           }
         },
         {
-          "id": "generated.forgemod:simplemagnets-1.1.12c-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:simplemagnets-1.1.12c-neoforge-mc1.21@jar",
           "name": "simplemagnets-1.1.12c-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -3965,7 +3965,7 @@
           }
         },
         {
-          "id": "generated.forgemod:simplemenu-1.21.1-2.0.jar@jar",
+          "id": "generated.forgemod:simplemenu-1.21.1-2.0@jar",
           "name": "simplemenu-1.21.1-2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -3975,7 +3975,7 @@
           }
         },
         {
-          "id": "generated.forgemod:simplylight-1.5.3+1.21.1-b4.jar@jar",
+          "id": "generated.forgemod:simplylight-1.5.3+1.21.1-b4@jar",
           "name": "simplylight-1.5.3+1.21.1-b4",
           "type": "ForgeMod",
           "artifact": {
@@ -3985,7 +3985,7 @@
           }
         },
         {
-          "id": "generated.forgemod:simplyswords-neoforge-1.70.2-1.21.1.jar@jar",
+          "id": "generated.forgemod:simplyswords-neoforge-1.70.2-1.21.1@jar",
           "name": "simplyswords-neoforge-1.70.2-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -3995,7 +3995,7 @@
           }
         },
         {
-          "id": "generated.forgemod:SimplyTooltips-neoforge-0.1.5.jar@jar",
+          "id": "generated.forgemod:SimplyTooltips-neoforge-0.1.5@jar",
           "name": "SimplyTooltips-neoforge-0.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -4005,7 +4005,7 @@
           }
         },
         {
-          "id": "generated.forgemod:SmartBrainLib-neoforge-1.21.1-1.16.11.jar@jar",
+          "id": "generated.forgemod:SmartBrainLib-neoforge-1.21.1-1.16.11@jar",
           "name": "SmartBrainLib-neoforge-1.21.1-1.16.11",
           "type": "ForgeMod",
           "artifact": {
@@ -4015,7 +4015,7 @@
           }
         },
         {
-          "id": "generated.forgemod:sodium-neoforge-0.8.13+mc1.21.1.jar@jar",
+          "id": "generated.forgemod:sodium-neoforge-0.8.13+mc1.21.1@jar",
           "name": "sodium-neoforge-0.8.13+mc1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4025,7 +4025,7 @@
           }
         },
         {
-          "id": "generated.forgemod:sophisticatedbackpacks-1.21.1-3.26.3.2158.jar@jar",
+          "id": "generated.forgemod:sophisticatedbackpacks-1.21.1-3.26.3.2158@jar",
           "name": "sophisticatedbackpacks-1.21.1-3.26.3.2158",
           "type": "ForgeMod",
           "artifact": {
@@ -4035,7 +4035,7 @@
           }
         },
         {
-          "id": "generated.forgemod:sophisticatedcore-1.21.1-1.5.1.2341.jar@jar",
+          "id": "generated.forgemod:sophisticatedcore-1.21.1-1.5.1.2341@jar",
           "name": "sophisticatedcore-1.21.1-1.5.1.2341",
           "type": "ForgeMod",
           "artifact": {
@@ -4045,7 +4045,7 @@
           }
         },
         {
-          "id": "generated.forgemod:sophisticatedstorage-1.21.1-1.5.91.2127.jar@jar",
+          "id": "generated.forgemod:sophisticatedstorage-1.21.1-1.5.91.2127@jar",
           "name": "sophisticatedstorage-1.21.1-1.5.91.2127",
           "type": "ForgeMod",
           "artifact": {
@@ -4055,7 +4055,7 @@
           }
         },
         {
-          "id": "generated.forgemod:sophisticatedstoragecreateintegration-1.21.1-0.1.21.209.jar@jar",
+          "id": "generated.forgemod:sophisticatedstoragecreateintegration-1.21.1-0.1.21.209@jar",
           "name": "sophisticatedstoragecreateintegration-1.21.1-0.1.21.209",
           "type": "ForgeMod",
           "artifact": {
@@ -4065,7 +4065,7 @@
           }
         },
         {
-          "id": "generated.forgemod:specs_irons_spellbooks-1.6.5.jar@jar",
+          "id": "generated.forgemod:specs_irons_spellbooks-1.6.5@jar",
           "name": "specs_irons_spellbooks-1.6.5",
           "type": "ForgeMod",
           "artifact": {
@@ -4075,7 +4075,7 @@
           }
         },
         {
-          "id": "generated.forgemod:spell_actionbar-1.1.4.jar@jar",
+          "id": "generated.forgemod:spell_actionbar-1.1.4@jar",
           "name": "spell_actionbar-1.1.4",
           "type": "ForgeMod",
           "artifact": {
@@ -4085,7 +4085,7 @@
           }
         },
         {
-          "id": "generated.forgemod:spell_engine-neoforge-1.10.6+1.21.1.jar@jar",
+          "id": "generated.forgemod:spell_engine-neoforge-1.10.6+1.21.1@jar",
           "name": "spell_engine-neoforge-1.10.6+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4095,7 +4095,7 @@
           }
         },
         {
-          "id": "generated.forgemod:spell_power-neoforge-1.6.0+1.21.1.jar@jar",
+          "id": "generated.forgemod:spell_power-neoforge-1.6.0+1.21.1@jar",
           "name": "spell_power-neoforge-1.6.0+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4105,7 +4105,7 @@
           }
         },
         {
-          "id": "generated.forgemod:stepcrafter-neoforge-1.21.1-0.1.9.jar@jar",
+          "id": "generated.forgemod:stepcrafter-neoforge-1.21.1-0.1.9@jar",
           "name": "stepcrafter-neoforge-1.21.1-0.1.9",
           "type": "ForgeMod",
           "artifact": {
@@ -4115,7 +4115,7 @@
           }
         },
         {
-          "id": "generated.forgemod:stockbridge-1.0.4.jar@jar",
+          "id": "generated.forgemod:stockbridge-1.0.4@jar",
           "name": "stockbridge-1.0.4",
           "type": "ForgeMod",
           "artifact": {
@@ -4125,7 +4125,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Stoneworks-v21.1.0-1.21.1-NeoForge.jar@jar",
+          "id": "generated.forgemod:Stoneworks-v21.1.0-1.21.1-NeoForge@jar",
           "name": "Stoneworks-v21.1.0-1.21.1-NeoForge",
           "type": "ForgeMod",
           "artifact": {
@@ -4135,7 +4135,7 @@
           }
         },
         {
-          "id": "generated.forgemod:StorageDrawers-neoforge-1.21.1-13.11.4.jar@jar",
+          "id": "generated.forgemod:StorageDrawers-neoforge-1.21.1-13.11.4@jar",
           "name": "StorageDrawers-neoforge-1.21.1-13.11.4",
           "type": "ForgeMod",
           "artifact": {
@@ -4145,7 +4145,7 @@
           }
         },
         {
-          "id": "generated.forgemod:structure_pool_api-neoforge-1.2.1+1.21.1.jar@jar",
+          "id": "generated.forgemod:structure_pool_api-neoforge-1.2.1+1.21.1@jar",
           "name": "structure_pool_api-neoforge-1.2.1+1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4155,7 +4155,7 @@
           }
         },
         {
-          "id": "generated.forgemod:supermartijn642configlib-1.1.8-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:supermartijn642configlib-1.1.8-neoforge-mc1.21@jar",
           "name": "supermartijn642configlib-1.1.8-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -4165,7 +4165,7 @@
           }
         },
         {
-          "id": "generated.forgemod:supermartijn642corelib-1.1.24-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:supermartijn642corelib-1.1.24-neoforge-mc1.21@jar",
           "name": "supermartijn642corelib-1.1.24-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -4175,7 +4175,7 @@
           }
         },
         {
-          "id": "generated.forgemod:supplementaries-1.21.1-3.9.9-neoforge.jar@jar",
+          "id": "generated.forgemod:supplementaries-1.21.1-3.9.9-neoforge@jar",
           "name": "supplementaries-1.21.1-3.9.9-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -4185,7 +4185,7 @@
           }
         },
         {
-          "id": "generated.forgemod:tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar@jar",
+          "id": "generated.forgemod:tacz-neoforge-1.21.1-1.1.8-hotfix-r6@jar",
           "name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6",
           "type": "ForgeMod",
           "artifact": {
@@ -4195,7 +4195,7 @@
           }
         },
         {
-          "id": "generated.forgemod:TerraBlender-neoforge-1.21.1-4.1.0.8.jar@jar",
+          "id": "generated.forgemod:TerraBlender-neoforge-1.21.1-4.1.0.8@jar",
           "name": "TerraBlender-neoforge-1.21.1-4.1.0.8",
           "type": "ForgeMod",
           "artifact": {
@@ -4205,7 +4205,7 @@
           }
         },
         {
-          "id": "generated.forgemod:tesseract-api-neoforge-1.12.16-1.21.1.jar@jar",
+          "id": "generated.forgemod:tesseract-api-neoforge-1.12.16-1.21.1@jar",
           "name": "tesseract-api-neoforge-1.12.16-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4215,7 +4215,7 @@
           }
         },
         {
-          "id": "generated.forgemod:thaumon-neoforge-2.3.0+1.21.jar@jar",
+          "id": "generated.forgemod:thaumon-neoforge-2.3.0+1.21@jar",
           "name": "thaumon-neoforge-2.3.0+1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -4225,7 +4225,7 @@
           }
         },
         {
-          "id": "generated.forgemod:THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar@jar",
+          "id": "generated.forgemod:THEUNDEADREVAMPED_1.8f_1.21.1 neoforge@jar",
           "name": "THEUNDEADREVAMPED_1.8f_1.21.1 neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -4235,7 +4235,7 @@
           }
         },
         {
-          "id": "generated.forgemod:theurgy-1.21.1-neoforge-1.76.1.jar@jar",
+          "id": "generated.forgemod:theurgy-1.21.1-neoforge-1.76.1@jar",
           "name": "theurgy-1.21.1-neoforge-1.76.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4245,7 +4245,7 @@
           }
         },
         {
-          "id": "generated.forgemod:theurgy_kubejs-1.21.1-neoforge-1.6.0.jar@jar",
+          "id": "generated.forgemod:theurgy_kubejs-1.21.1-neoforge-1.6.0@jar",
           "name": "theurgy_kubejs-1.21.1-neoforge-1.6.0",
           "type": "ForgeMod",
           "artifact": {
@@ -4255,7 +4255,7 @@
           }
         },
         {
-          "id": "generated.forgemod:the_bumblezone-7.15.3+1.21.1-neoforge.jar@jar",
+          "id": "generated.forgemod:the_bumblezone-7.15.3+1.21.1-neoforge@jar",
           "name": "the_bumblezone-7.15.3+1.21.1-neoforge",
           "type": "ForgeMod",
           "artifact": {
@@ -4265,7 +4265,7 @@
           }
         },
         {
-          "id": "generated.forgemod:The_Undergarden-1.21.1-0.9.6.jar@jar",
+          "id": "generated.forgemod:The_Undergarden-1.21.1-0.9.6@jar",
           "name": "The_Undergarden-1.21.1-0.9.6",
           "type": "ForgeMod",
           "artifact": {
@@ -4275,7 +4275,7 @@
           }
         },
         {
-          "id": "generated.forgemod:titanium-1.21-4.0.50.jar@jar",
+          "id": "generated.forgemod:titanium-1.21-4.0.50@jar",
           "name": "titanium-1.21-4.0.50",
           "type": "ForgeMod",
           "artifact": {
@@ -4285,7 +4285,7 @@
           }
         },
         {
-          "id": "generated.forgemod:tombstone-neoforge-1.21.1-9.5.6.jar@jar",
+          "id": "generated.forgemod:tombstone-neoforge-1.21.1-9.5.6@jar",
           "name": "tombstone-neoforge-1.21.1-9.5.6",
           "type": "ForgeMod",
           "artifact": {
@@ -4295,7 +4295,7 @@
           }
         },
         {
-          "id": "generated.forgemod:trainutilities-neoforge-3.1.0.jar@jar",
+          "id": "generated.forgemod:trainutilities-neoforge-3.1.0@jar",
           "name": "trainutilities-neoforge-3.1.0",
           "type": "ForgeMod",
           "artifact": {
@@ -4305,7 +4305,7 @@
           }
         },
         {
-          "id": "generated.forgemod:trashcans-1.1.0-neoforge-mc1.21.jar@jar",
+          "id": "generated.forgemod:trashcans-1.1.0-neoforge-mc1.21@jar",
           "name": "trashcans-1.1.0-neoforge-mc1.21",
           "type": "ForgeMod",
           "artifact": {
@@ -4315,7 +4315,7 @@
           }
         },
         {
-          "id": "generated.forgemod:trashslot-neoforge-1.21.1-21.1.11.jar@jar",
+          "id": "generated.forgemod:trashslot-neoforge-1.21.1-21.1.11@jar",
           "name": "trashslot-neoforge-1.21.1-21.1.11",
           "type": "ForgeMod",
           "artifact": {
@@ -4325,7 +4325,7 @@
           }
         },
         {
-          "id": "generated.forgemod:Twigs-1.21.1-3.1.2.jar@jar",
+          "id": "generated.forgemod:Twigs-1.21.1-3.1.2@jar",
           "name": "Twigs-1.21.1-3.1.2",
           "type": "ForgeMod",
           "artifact": {
@@ -4335,7 +4335,7 @@
           }
         },
         {
-          "id": "generated.forgemod:twilightforest-1.21.1-4.8.3345-universal.jar@jar",
+          "id": "generated.forgemod:twilightforest-1.21.1-4.8.3345-universal@jar",
           "name": "twilightforest-1.21.1-4.8.3345-universal",
           "type": "ForgeMod",
           "artifact": {
@@ -4345,7 +4345,7 @@
           }
         },
         {
-          "id": "generated.forgemod:twilight_lootr-neoforge-1.21.1-0.0.0.1.jar@jar",
+          "id": "generated.forgemod:twilight_lootr-neoforge-1.21.1-0.0.0.1@jar",
           "name": "twilight_lootr-neoforge-1.21.1-0.0.0.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4355,7 +4355,7 @@
           }
         },
         {
-          "id": "generated.forgemod:twilight_spellbooks-1.2.0.jar@jar",
+          "id": "generated.forgemod:twilight_spellbooks-1.2.0@jar",
           "name": "twilight_spellbooks-1.2.0",
           "type": "ForgeMod",
           "artifact": {
@@ -4365,7 +4365,7 @@
           }
         },
         {
-          "id": "generated.forgemod:t_and_t-fabric-neoforge-1.13.11.jar@jar",
+          "id": "generated.forgemod:t_and_t-fabric-neoforge-1.13.11@jar",
           "name": "t_and_t-fabric-neoforge-1.13.11",
           "type": "ForgeMod",
           "artifact": {
@@ -4375,7 +4375,7 @@
           }
         },
         {
-          "id": "generated.forgemod:undergardendelight-2.0.3-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:undergardendelight-2.0.3-neoforge-1.21.1@jar",
           "name": "undergardendelight-2.0.3-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4385,7 +4385,7 @@
           }
         },
         {
-          "id": "generated.forgemod:update_2.jar@jar",
+          "id": "generated.forgemod:update_2@jar",
           "name": "update_2",
           "type": "ForgeMod",
           "artifact": {
@@ -4395,7 +4395,7 @@
           }
         },
         {
-          "id": "generated.forgemod:valhelsia_core-neoforge-1.21.1-1.1.5.jar@jar",
+          "id": "generated.forgemod:valhelsia_core-neoforge-1.21.1-1.1.5@jar",
           "name": "valhelsia_core-neoforge-1.21.1-1.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -4405,7 +4405,7 @@
           }
         },
         {
-          "id": "generated.forgemod:voicechat-neoforge-1.21.1-2.6.22.jar@jar",
+          "id": "generated.forgemod:voicechat-neoforge-1.21.1-2.6.22@jar",
           "name": "voicechat-neoforge-1.21.1-2.6.22",
           "type": "ForgeMod",
           "artifact": {
@@ -4415,7 +4415,7 @@
           }
         },
         {
-          "id": "generated.forgemod:waystones-neoforge-1.21.1-21.1.45.jar@jar",
+          "id": "generated.forgemod:waystones-neoforge-1.21.1-21.1.45@jar",
           "name": "waystones-neoforge-1.21.1-21.1.45",
           "type": "ForgeMod",
           "artifact": {
@@ -4425,7 +4425,7 @@
           }
         },
         {
-          "id": "generated.forgemod:woodenbucket-neoforge-1.21-4.1.4.0.jar@jar",
+          "id": "generated.forgemod:woodenbucket-neoforge-1.21-4.1.4.0@jar",
           "name": "woodenbucket-neoforge-1.21-4.1.4.0",
           "type": "ForgeMod",
           "artifact": {
@@ -4435,7 +4435,7 @@
           }
         },
         {
-          "id": "generated.forgemod:xnet-1.21-7.0.7.jar@jar",
+          "id": "generated.forgemod:xnet-1.21-7.0.7@jar",
           "name": "xnet-1.21-7.0.7",
           "type": "ForgeMod",
           "artifact": {
@@ -4445,7 +4445,7 @@
           }
         },
         {
-          "id": "generated.forgemod:xycraft_core-0.7.53-all.jar@jar",
+          "id": "generated.forgemod:xycraft_core-0.7.53-all@jar",
           "name": "xycraft_core-0.7.53-all",
           "type": "ForgeMod",
           "artifact": {
@@ -4455,7 +4455,7 @@
           }
         },
         {
-          "id": "generated.forgemod:xycraft_machines-0.7.53.jar@jar",
+          "id": "generated.forgemod:xycraft_machines-0.7.53@jar",
           "name": "xycraft_machines-0.7.53",
           "type": "ForgeMod",
           "artifact": {
@@ -4465,7 +4465,7 @@
           }
         },
         {
-          "id": "generated.forgemod:xycraft_override-0.7.53.jar@jar",
+          "id": "generated.forgemod:xycraft_override-0.7.53@jar",
           "name": "xycraft_override-0.7.53",
           "type": "ForgeMod",
           "artifact": {
@@ -4475,7 +4475,7 @@
           }
         },
         {
-          "id": "generated.forgemod:xycraft_world-0.7.53.jar@jar",
+          "id": "generated.forgemod:xycraft_world-0.7.53@jar",
           "name": "xycraft_world-0.7.53",
           "type": "ForgeMod",
           "artifact": {
@@ -4485,7 +4485,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ycurrenci-2.1.0-neoforge-1.21.1.jar@jar",
+          "id": "generated.forgemod:ycurrenci-2.1.0-neoforge-1.21.1@jar",
           "name": "ycurrenci-2.1.0-neoforge-1.21.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4495,7 +4495,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsApi-1.21.1-NeoForge-5.1.8.jar@jar",
+          "id": "generated.forgemod:YungsApi-1.21.1-NeoForge-5.1.8@jar",
           "name": "YungsApi-1.21.1-NeoForge-5.1.8",
           "type": "ForgeMod",
           "artifact": {
@@ -4505,7 +4505,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterCaves-1.21.1-NeoForge-3.1.6.jar@jar",
+          "id": "generated.forgemod:YungsBetterCaves-1.21.1-NeoForge-3.1.6@jar",
           "name": "YungsBetterCaves-1.21.1-NeoForge-3.1.6",
           "type": "ForgeMod",
           "artifact": {
@@ -4515,7 +4515,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar@jar",
+          "id": "generated.forgemod:YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5@jar",
           "name": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -4525,7 +4525,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar@jar",
+          "id": "generated.forgemod:YungsBetterDungeons-1.21.1-NeoForge-5.1.4@jar",
           "name": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4",
           "type": "ForgeMod",
           "artifact": {
@@ -4535,7 +4535,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar@jar",
+          "id": "generated.forgemod:YungsBetterEndIsland-1.21.1-NeoForge-3.1.2@jar",
           "name": "YungsBetterEndIsland-1.21.1-NeoForge-3.1.2",
           "type": "ForgeMod",
           "artifact": {
@@ -4545,7 +4545,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar@jar",
+          "id": "generated.forgemod:YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2@jar",
           "name": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2",
           "type": "ForgeMod",
           "artifact": {
@@ -4555,7 +4555,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar@jar",
+          "id": "generated.forgemod:YungsBetterMineshafts-1.21.1-NeoForge-5.1.1@jar",
           "name": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4565,7 +4565,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar@jar",
+          "id": "generated.forgemod:YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5@jar",
           "name": "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5",
           "type": "ForgeMod",
           "artifact": {
@@ -4575,7 +4575,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar@jar",
+          "id": "generated.forgemod:YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2@jar",
           "name": "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2",
           "type": "ForgeMod",
           "artifact": {
@@ -4585,7 +4585,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar@jar",
+          "id": "generated.forgemod:YungsBetterStrongholds-1.21.1-NeoForge-5.1.3@jar",
           "name": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3",
           "type": "ForgeMod",
           "artifact": {
@@ -4595,7 +4595,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar@jar",
+          "id": "generated.forgemod:YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1@jar",
           "name": "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4605,7 +4605,7 @@
           }
         },
         {
-          "id": "generated.forgemod:YungsExtras-1.21.1-NeoForge-5.1.1.jar@jar",
+          "id": "generated.forgemod:YungsExtras-1.21.1-NeoForge-5.1.1@jar",
           "name": "YungsExtras-1.21.1-NeoForge-5.1.1",
           "type": "ForgeMod",
           "artifact": {
@@ -4615,7 +4615,7 @@
           }
         },
         {
-          "id": "generated.forgemod:ZeroCore2-1.21.1-2.4.21.jar@jar",
+          "id": "generated.forgemod:ZeroCore2-1.21.1-2.4.21@jar",
           "name": "ZeroCore2-1.21.1-2.4.21",
           "type": "ForgeMod",
           "artifact": {
@@ -4625,7 +4625,7 @@
           }
         },
         {
-          "id": "generated.forgemod:[1.21.1] Roll Delight-1.3.0-neoforge.jar@jar",
+          "id": "generated.forgemod:[1.21.1] Roll Delight-1.3.0-neoforge@jar",
           "name": "[1.21.1] Roll Delight-1.3.0-neoforge",
           "type": "ForgeMod",
           "artifact": {
